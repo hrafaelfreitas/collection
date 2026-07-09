@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-select=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Vinyl Shelf Search</title>
     <style>
         :root {
@@ -49,7 +49,7 @@
             align-items: center;
             justify-content: center;
             margin: 0;
-            padding: 20px;
+            padding: 20px 20px 80px 20px; /* Padding extra embaixo para o S26+ */
             transition: all 0.4s ease-out;
             min-height: 100vh;
             overflow-x: hidden;
@@ -74,8 +74,9 @@
         
         body.busca-ativa #close-btn { display: flex; align-items: center; justify-content: center; }
 
-        .fixed-control-panel { display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 440px; transition: all 0.4s ease-out; }
-        body.busca-ativa .fixed-control-panel { margin-bottom: 45px; }
+        .fixed-control-panel { display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 440px; margin-top: 15vh; transition: all 0.4s ease-out; }
+        body.busca-ativa .fixed-control-panel { margin-top: 0; margin-bottom: 45px; }
+        
         .search-container { text-align: center; display: flex; flex-direction: column; align-items: center; transition: margin 0.4s ease-out; }
         body.busca-ativa .search-container { margin-bottom: 60px; }
 
@@ -99,26 +100,24 @@
 
         #status { margin-top: 14px; font-size: 11px; text-transform: uppercase; color: var(--status-color); min-height: 16px; }
 
-        .grid-estante { display: none; opacity: 0; grid-template-columns: repeat(4, 50px) repeat(4, 50px); grid-template-rows: repeat(4, 50px); gap: 1px 0px; background-color: var(--grid-divider); padding: 1px; border: 1px solid var(--grid-divider); transition: opacity 0.4s ease-out; }
+        .grid-estante { display: none; opacity: 0; grid-template-columns: repeat(8, minmax(40px, 1fr)); grid-template-rows: repeat(4, 50px); gap: 2px; background-color: var(--grid-divider); padding: 1px; border: 1px solid var(--grid-divider); transition: opacity 0.4s ease-out; }
         body.busca-ativa .grid-estante { display: grid; opacity: 1; }
 
-        .quadrante { background-color: var(--quadrante-bg); display: flex; align-items: center; justify-content: center; font-size: 10px; color: var(--quadrante-text); border-right: 1px solid var(--grid-divider); box-sizing: border-box; }
-        .quadrante.col-5 { border-left: 4px solid var(--grid-divider); }
+        .quadrante { background-color: var(--quadrante-bg); display: flex; align-items: center; justify-content: center; font-size: 11px; color: var(--quadrante-text); min-height: 50px; box-sizing: border-box; }
         .quadrante.highlight { background-color: #ff5722; color: #000; font-weight: bold; }
 
-        .estante-container { display: none; opacity: 0; flex-direction: column; width: 411px; max-width: 100%; margin-top: 10px; transition: opacity 0.4s ease-out; }
+        .estante-container { display: none; opacity: 0; flex-direction: column; width: 440px; max-width: 100%; margin-top: 10px; transition: opacity 0.4s ease-out; }
         body.busca-ativa .estante-container { display: flex; opacity: 1; }
-        #resultado-texto { font-size: 12px; color: var(--text-bold); width: 100%; text-align: left; border-left: 2px solid #ff5722; padding-left: 18px; max-height: 290px; overflow-y: auto; }
-        .theme-toggle-container { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); font-size: 10px; text-transform: uppercase; cursor: pointer; }
+        #resultado-texto { font-size: 14px; color: var(--text-bold); width: 100%; text-align: left; border-left: 2px solid #ff5722; padding-left: 18px; max-height: 290px; overflow-y: auto; line-height: 1.5; }
         
-        .theme-opt { 
-            color: var(--toggle-inactive); 
-            cursor: pointer; 
-            padding: 15px 10px; 
-            display: inline-block;
-            transition: all 0.2s; 
-        }
+        .theme-toggle-container { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); font-size: 10px; text-transform: uppercase; cursor: pointer; }
+        .theme-opt { color: var(--toggle-inactive); cursor: pointer; padding: 15px 10px; display: inline-block; transition: all 0.2s; }
         .theme-opt.active { color: var(--toggle-active); font-weight: bold; }
+
+        @media screen and (min-width: 400px) {
+            #mic-btn { width: 110px !important; height: 110px !important; }
+            .quadrante { font-size: 12px !important; }
+        }
     </style>
 </head>
 <body>
@@ -243,7 +242,7 @@
         micBtn.onclick = () => {
             if (isListening) {
                 recognition.stop();
-                statusText.innerText = "Click to speak..."; // Força imediata
+                statusText.innerText = "Click to speak...";
             } else {
                 if (navigator.vibrate) navigator.vibrate(50);
                 recognition.start();
@@ -259,9 +258,6 @@
         recognition.onend = () => { 
             isListening = false;
             micBtn.classList.remove('listening'); 
-            
-            // Força a atualização do texto caso ele tenha ficado travado em "Listening..."
-            // Apenas se não houver um "Input:" visível (para não apagar o resultado da busca)
             if (statusText.innerText === "Listening...") {
                 statusText.innerText = "Click to speak...";
             }
