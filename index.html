@@ -212,8 +212,8 @@
             flex-direction: column;
             width: 440px;
             max-width: 100%;
-            margin-top: 10px;
-            /* Subido para colar no grid */
+            margin-top: -5px;
+            /* Sobe o container para colar no grid */
             transition: opacity 0.4s ease-out;
             flex-grow: 1;
         }
@@ -265,14 +265,40 @@
             font-weight: bold;
         }
 
+        /* Adicionar após a regra .quadrante existente */
+        .quadrante {
+            background-color: var(--quadrante-bg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 11px;
+            color: var(--quadrante-text);
+            min-height: 50px;
+            box-sizing: border-box;
+            border-right: 1px solid var(--grid-divider);
+            /* Mantém grid fino */
+        }
+
+        /* Ajuste do fio de separação (3px) usando a cor original da grade */
+        .quadrante:nth-child(4n) {
+            border-right: 3px solid var(--grid-divider);
+        }
+
+        /* Remove a borda da última coluna para não duplicar */
+        .quadrante:nth-child(8n) {
+            border-right: 1px solid var(--grid-divider);
+        }
+
+        .quadrante.highlight {
+            background-color: #ff5722;
+            color: #000;
+            font-weight: bold;
+        }
+
         @media screen and (min-width: 400px) {
             #mic-btn {
                 width: 110px !important;
                 height: 110px !important;
-            }
-
-            .quadrante {
-                font-size: 12px !important;
             }
         }
     </style>
