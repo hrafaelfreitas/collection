@@ -389,9 +389,17 @@
 
                 resultados.forEach(item => {
                     const textoFormatado = item.textoOriginal.replace(/,/g, ', ');
-                    html += `<div style="margin-bottom: 8px;">${textoFormatado} ➔ <span style="color:#ff5722">${item.posicao}</span></div>`;
-                    const q = document.getElementById(item.posicao);
-                    if (q) q.classList.add('highlight');
+
+                    // Lógica da cor: Cinza para "E", Laranja para A, B, C, D
+                    const corPosicao = (item.posicao === 'E') ? '#888888' : '#ff5722';
+
+                    html += `<div style="margin-bottom: 8px;">${textoFormatado} ➔ <span style="color:${corPosicao}">${item.posicao}</span></div>`;
+
+                    // Só tenta marcar no grid se não for "E"
+                    if (item.posicao !== 'E') {
+                        const q = document.getElementById(item.posicao);
+                        if (q) q.classList.add('highlight');
+                    }
                 });
                 document.getElementById('resultado-texto').innerHTML = html;
             } else {
