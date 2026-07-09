@@ -106,11 +106,33 @@
         .quadrante { background-color: var(--quadrante-bg); display: flex; align-items: center; justify-content: center; font-size: 11px; color: var(--quadrante-text); min-height: 50px; box-sizing: border-box; }
         .quadrante.highlight { background-color: #ff5722; color: #000; font-weight: bold; }
 
-        .estante-container { display: none; opacity: 0; flex-direction: column; width: 440px; max-width: 100%; margin-top: 5px; transition: opacity 0.4s ease-out; flex-grow: 1; }
+        .estante-container { 
+            display: none; 
+            opacity: 0; 
+            flex-direction: column; 
+            width: 440px; 
+            max-width: 100%; 
+            margin-top: -5px; /* Subido para colar no grid */
+            transition: opacity 0.4s ease-out; 
+            flex-grow: 1; 
+        }
+        
         body.busca-ativa .estante-container { display: flex; opacity: 1; }
         
-        #resultado-texto { font-size: 14px; color: var(--text-bold); width: 100%; text-align: left; border-left: 2px solid #ff5722; padding-left: 18px; max-height: 25vh; overflow-y: auto; line-height: 1.4; padding-bottom: 10px; }
-        
+        #resultado-texto { 
+            font-size: 14px; 
+            color: var(--text-bold); 
+            width: 100%; 
+            text-align: left; 
+            border-left: 2px solid #ff5722; 
+            padding-left: 18px; 
+            padding-top: 8px; /* Ajuste fino */
+            max-height: 25vh; 
+            overflow-y: auto; 
+            line-height: 1.4; 
+            padding-bottom: 10px; 
+        }
+
         .theme-toggle-container { position: fixed; bottom: 10px; left: 50%; transform: translateX(-50%); font-size: 10px; text-transform: uppercase; cursor: pointer; z-index: 1001; background-color: var(--bg-color); padding: 5px 10px; border-radius: 4px; }
         .theme-opt { color: var(--toggle-inactive); cursor: pointer; padding: 15px 10px; display: inline-block; transition: all 0.2s; }
         .theme-opt.active { color: var(--toggle-active); font-weight: bold; }
