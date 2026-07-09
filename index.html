@@ -48,7 +48,7 @@
             padding: 0;
         }
 
-            body {
+        body {
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-main);
@@ -61,7 +61,6 @@
             overflow: hidden;
             transition: all 0.4s ease-out;
         }
-
 
         body.busca-ativa {
             justify-content: flex-start;
@@ -224,7 +223,7 @@
             opacity: 1;
         }
 
-         #resultado-texto {
+        #resultado-texto {
             font-size: 14px;
             color: var(--text-bold);
             width: 100%;
@@ -286,7 +285,7 @@
     <div class="fixed-control-panel">
         <div class="search-container">
             <button id="mic-btn"></button>
-            <div id="status">Click to speak...</div>
+            <div id="status">Click to search...</div>
         </div>
         <div class="grid-estante" id="grid"></div>
     </div>
@@ -324,7 +323,7 @@
 
         document.getElementById('close-btn').addEventListener('click', () => {
             document.body.classList.remove('busca-ativa');
-            document.getElementById('status').innerText = "Click to speak...";
+            document.getElementById('status').innerText = "Click to search...";
             limparDestaques();
         });
 
@@ -402,7 +401,7 @@
         micBtn.onclick = () => {
             if (isListening) {
                 recognition.stop();
-                statusText.innerText = "Click to speak...";
+                statusText.innerText = "Click to search...";
             } else {
                 if (navigator.vibrate) navigator.vibrate(50);
                 recognition.start();
@@ -419,7 +418,7 @@
             isListening = false;
             micBtn.classList.remove('listening');
             if (statusText.innerText === "Listening...") {
-                statusText.innerText = "Click to speak...";
+                statusText.innerText = "Click to search...";
             }
         };
 
