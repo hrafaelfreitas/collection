@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-select=no">
+    <title>Vinyl Shelf Search</title>
+    <style>
+        :root {
+            --bg-color: #000000;
+            --text-main: #888888;
+            --text-bold: #ffffff;
+            --text-rec: #eee;
+            --mic-bg: #111111;
+            --mic-border: #333333;
+            --mic-stop-cube: #ffffff;
+            --status-color: #666666;
+            --grid-divider: #222222;
+            --quadrante-bg: #0a0a0a;
+            --quadrante-text: #444444;
+            --highlight-text: #000000;
+            --toggle-active: #ffffff;
+            --toggle-inactive: #444444;
+            --scrollbar-thumb: #333333;
+        }
+
+        [data-theme="light"] {
+            --bg-color: #f4f4f4;
+            --text-main: #444444;
+            --text-bold: #000000;
+            --text-rec: #222222;
+            --mic-bg: #e0e0e0;
+            --mic-border: #cccccc;
+            --status-color: #888888;
+            --grid-divider: #d2d2d2;
+            --quadrante-bg: #eaeff2;
+            --quadrante-text: #999999;
+            --highlight-text: #ffffff;
+            --toggle-active: #000000;
+            --toggle-inactive: #aaaaaa;
+            --scrollbar-thumb: #cccccc;
+        }
+
+        body {
+            font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            padding: 20px;
+            transition: all 0.4s ease-out;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        body.busca-ativa { justify-content: flex-start; padding-top: 40px; }
+
+        #close-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--mic-bg);
+            border: 1px solid var(--mic-border);
+            color: var(--text-main);
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            display: none;
+            z-index: 1000;
+            font-size: 20px;
+        }
+        
+        body.busca-ativa #close-btn { display: flex; align-items: center; justify-content: center; }
+
+        .fixed-control-panel { display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 440px; transition: all 0.4s ease-out; }
+        body.busca-ativa .fixed-control-panel { margin-bottom: 45px; }
+        .search-container { text-align: center; display: flex; flex-direction: column; align-items: center; transition: margin 0.4s ease-out; }
+        body.busca-ativa .search-container { margin-bottom: 60px; }
+
+        #mic-btn { 
+            background-color: var(--mic-bg); 
+            border: 1px solid var(--mic-border); 
+            border-radius: 50%; 
+            width: 90px; 
+            height: 90px; 
+            cursor: pointer; 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            transition: all 0.2s; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3); 
+        }
+        #mic-btn::before { content: ""; width: 22px; height: 22px; background-color: #ff5722; border-radius: 50%; }
+        #mic-btn.listening { border-color: #ff5722; animation: pulse-te 1.2s infinite steps(8); }
+        #mic-btn.listening::before { background-color: var(--mic-stop-cube); border-radius: 2px; width: 18px; height: 18px; }
+        @keyframes pulse-te { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+        #status { margin-top: 14px; font-size: 11px; text-transform: uppercase; color: var(--status-color); min-height: 16px; }
+
+        .grid-estante { display: none; opacity: 0; grid-template-columns: repeat(4, 50px) repeat(4, 50px); grid-template-rows: repeat(4, 50px); gap: 1px 0px; background-color: var(--grid-divider); padding: 1px; border: 1px solid var(--grid-divider); transition: opacity 0.4s ease-out; }
+        body.busca-ativa .grid-estante { display: grid; opacity: 1; }
+
+        .quadrante { background-color: var(--quadrante-bg); display: flex; align-items: center; justify-content: center; font-size: 10px; color: var(--quadrante-text); border-right: 1px solid var(--grid-divider); box-sizing: border-box; }
+        .quadrante.col-5 { border-left: 4px solid var(--grid-divider); }
+        .quadrante.highlight { background-color: #ff5722; color: #000; font-weight: bold; }
+
+        .estante-container { display: none; opacity: 0; flex-direction: column; width: 411px; max-width: 100%; margin-top: 10px; transition: opacity 0.4s ease-out; }
+        body.busca-ativa .estante-container { display: flex; opacity: 1; }
+        #resultado-texto { font-size: 12px; color: var(--text-bold); width: 100%; text-align: left; border-left: 2px solid #ff5722; padding-left: 18px; max-height: 290px; overflow-y: auto; }
+        .theme-toggle-container { position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%); font-size: 10px; text-transform: uppercase; cursor: pointer; }
+        
+        .theme-opt { 
+            color: var(--toggle-inactive); 
+            cursor: pointer; 
+            padding: 15px 10px; 
+            display: inline-block;
+            transition: all 0.2s; 
+        }
+        .theme-opt.active { color: var(--toggle-active); font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <button id="close-btn">X</button>
+
+    <div class="fixed-control-panel">
+        <div class="search-container">
+            <button id="mic-btn"></button>
+            <div id="status">Click to speak...</div>
+        </div>
+        <div class="grid-estante" id="grid"></div>
+    </div>
+
+    <div class="estante-container" id="estante-area">
+        <div id="resultado-texto"></div>
+    </div>
+
+    <div class="theme-toggle-container" id="theme-switch">
+        <span class="theme-opt" id="opt-light">[ LIGHT ]</span> / <span class="theme-opt active" id="opt-dark">[ DARK ]</span>
+    </div>
+
+    <script>
+        let bancoDados = [];
+        let isListening = false;
+        const linhas = ['A', 'B', 'C', 'D']; 
+
+        const themeSwitch = document.getElementById('theme-switch');
+        themeSwitch.addEventListener('click', (e) => {
+            if(!e.target.classList.contains('theme-opt')) return;
+            document.querySelectorAll('.theme-opt').forEach(el => el.classList.remove('active'));
+            e.target.classList.add('active');
+            
+            if (e.target.id === 'opt-light') {
+                document.body.setAttribute('data-theme', 'light');
+            } else {
+                document.body.removeAttribute('data-theme');
+            }
+        });
+
+        function normalizarTexto(texto) {
+            return texto.toLowerCase().replace(/&/g, 'e').normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+        }
+
+        document.getElementById('close-btn').addEventListener('click', () => {
+            document.body.classList.remove('busca-ativa');
+            document.getElementById('status').innerText = "Click to speak...";
+            limparDestaques();
+        });
+
+        async function carregarCSV() {
+            try {
+                const response = await fetch('discos.csv');
+                const data = await response.text();
+                const linhasCSV = data.split('\n');
+                bancoDados = [];
+                let posicaoAtual = null;
+
+                linhasCSV.forEach(linha => {
+                    let texto = linha.trim();
+                    if (!texto || texto.toLowerCase().startsWith('artista') || texto.toLowerCase().startsWith('artist')) return;
+                    if (texto.toLowerCase().includes('- inicio') || texto.toLowerCase().includes('- start')) posicaoAtual = texto.split('-')[0].trim().toUpperCase();
+                    else if (texto.toLowerCase().includes('- fim') || texto.toLowerCase().includes('- end')) posicaoAtual = null;
+                    else if (posicaoAtual) {
+                        bancoDados.push({
+                            textoOriginal: texto, 
+                            termoBusca: normalizarTexto(texto),
+                            posicao: posicaoAtual
+                        });
+                    }
+                });
+            } catch (error) { console.error(error); }
+        }
+
+        function buscarDisco(termoFalado) {
+            limparDestaques(); 
+            document.body.classList.add('busca-ativa');
+            const termoNormalizado = normalizarTexto(termoFalado);
+            const resultados = bancoDados.filter(item => item.termoBusca.includes(termoNormalizado));
+
+            if (resultados.length > 0) {
+                let html = '<div style="color: #666; margin-bottom: 5px;">RESULTS:</div>';
+                html += '<div style="color: #ff5722; font-size: 10px; margin-bottom: 14px; text-transform: uppercase;">ARTIST, ALBUM, YEAR, POSITION</div>';
+                
+                resultados.forEach(item => {
+                    const textoFormatado = item.textoOriginal.replace(/,/g, ', ');
+                    html += `<div style="margin-bottom: 8px;">${textoFormatado} ➔ <span style="color:#ff5722">${item.posicao}</span></div>`;
+                    const q = document.getElementById(item.posicao);
+                    if (q) q.classList.add('highlight');
+                });
+                document.getElementById('resultado-texto').innerHTML = html;
+            } else {
+                document.getElementById('resultado-texto').innerHTML = "NO RECORDS FOUND.";
+            }
+        }
+
+        function gerarEstanteVisual() {
+            const grid = document.getElementById('grid');
+            linhas.forEach(l => {
+                for (let c = 1; c <= 8; c++) {
+                    const d = document.createElement('div');
+                    d.className = `quadrante`;
+                    d.id = `${l}${c}`;
+                    d.innerText = `${l}${c}`;
+                    grid.appendChild(d);
+                }
+            });
+        }
+
+        function limparDestaques() {
+            document.querySelectorAll('.quadrante').forEach(q => q.classList.remove('highlight'));
+        }
+
+        const micBtn = document.getElementById('mic-btn');
+        const statusText = document.getElementById('status');
+        const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        
+        recognition.lang = 'pt-BR';
+        recognition.maxAlternatives = 3; 
+        recognition.interimResults = false;
+
+        micBtn.onclick = () => {
+            if (isListening) {
+                recognition.stop();
+                statusText.innerText = "Click to speak..."; // Força imediata
+            } else {
+                if (navigator.vibrate) navigator.vibrate(50);
+                recognition.start();
+            }
+        };
+
+        recognition.onstart = () => { 
+            isListening = true;
+            micBtn.classList.add('listening'); 
+            statusText.innerText = "Listening..."; 
+        };
+
+        recognition.onend = () => { 
+            isListening = false;
+            micBtn.classList.remove('listening'); 
+            
+            // Força a atualização do texto caso ele tenha ficado travado em "Listening..."
+            // Apenas se não houver um "Input:" visível (para não apagar o resultado da busca)
+            if (statusText.innerText === "Listening...") {
+                statusText.innerText = "Click to speak...";
+            }
+        };
+
+        recognition.onresult = (e) => {
+            let matchFound = false;
+            for (let i = 0; i < e.results[0].length; i++) {
+                const termo = e.results[0][i].transcript;
+                const termoNormalizado = normalizarTexto(termo);
+                const match = bancoDados.find(item => item.termoBusca.includes(termoNormalizado));
+                
+                if (match) {
+                    statusText.innerText = `Input: "${termo}"`;
+                    buscarDisco(termo);
+                    matchFound = true;
+                    break;
+                }
+            }
+            if (!matchFound) statusText.innerText = "NO RECORDS FOUND.";
+        };
+
+        carregarCSV();
+        gerarEstanteVisual();
+    </script>
+</body>
+</html>
