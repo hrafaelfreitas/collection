@@ -42,9 +42,10 @@
             --scrollbar-thumb: #cccccc;
         }
 
-        /* Adicione isso no topo do seu CSS para controlar melhor o tamanho */
         * {
             box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
 
         body {
@@ -55,21 +56,20 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            margin: 0;
-            /* Alterado de min-height para height fixo */
             height: 100vh;
-            /* Removido padding para evitar overflow */
-            padding: 0;
-            transition: all 0.4s ease-out;
+            /* Altura exata da tela */
+            width: 100vw;
+            /* Largura exata da tela */
             overflow: hidden;
-            /* Garante que nada gere scroll */
+            /* DESATIVAR SCROLL TOTALMENTE NA TELA INICIAL */
+            transition: all 0.4s ease-out;
         }
 
         body.busca-ativa {
             justify-content: flex-start;
             padding-top: 20px;
             overflow-y: auto;
-            /* Permite scroll apenas quando houver resultados */
+            /* Scroll apenas quando necessário */
         }
 
         #close-btn {
@@ -99,10 +99,8 @@
             align-items: center;
             width: 100%;
             max-width: 440px;
-            margin-top: 0;
-            transition: all 0.4s ease-out;
             flex-shrink: 0;
-            /* Impede que o painel encolha */
+            /* Impede que ele encolha */
         }
 
         body.busca-ativa .fixed-control-panel {
@@ -186,6 +184,7 @@
             padding: 1px;
             border: 1px solid var(--grid-divider);
             transition: opacity 0.4s ease-out;
+            margin-top: 15px;
         }
 
         body.busca-ativa .grid-estante {
