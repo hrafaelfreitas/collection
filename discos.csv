@@ -1,19 +1,21 @@
-artista,disco,ano
-A1 - inicio
+Artist,Title,Released
+B1 - inicio
 14 Bis,Ao Vivo,1988
-14 Bis,14 Bis,1979
 14 Bis,Além Paraíso,1982
 14 Bis,A Nave Vai,1985
 14 Bis,Sete,1987
+14 Bis,14 Bis,1979
 3 Do Rio,3 Do Rio,1975
 3 Hombres,De Volta Ao Oeste,1993
 3 Hombres,Sob O Sol Que Nunca Morre,2022
-4ª Dimensão,Boatos,1989
 4ª Dimensão,O Poço Pelo Qual Se Chega À Mina,0
+4ª Dimensão,Boatos,1989
 5 A Seco,Sentido,2025
 A Barca Do Sol,Durante O Verão,1976
 A Barca Do Sol & Milton Nascimento,As Gralhas,2026
-A Bolha,Um Passo A Frente,1973
+A Bolha,Um Passo A Frente,Um Passo A Frente
+A Cor Do Som,Menino Deus / A Semente Mágica,1983
+A Cor Do Som,Beleza Pura / Abri A Porta / Swingue Menina / Assanhado,1980
 A Cor Do Som,A  Cor Do Som,1977
 A Cor Do Som,Ao Vivo - Montreux International Jazz Festival,1978
 A Cor Do Som,Frutificar,1979
@@ -25,87 +27,79 @@ A Cor Do Som,O Som Da Cor,1985
 A Cor Do Som,Transe Total,1980
 A Cor Do Som,Gosto Do Prazer,1987
 A Turma de Mosqueiro,O Ritmo Espetacular Carimbó,1974
-a-ha,On Tour In Brazil,1989
-a-ha,Best In Brazil,1991
-Abdias,Sai Do Sereno ,1966
+A Turma Do Pererê,Mata Do Fundão / A Turma Do Pererê,1983
+Abdias,Sai Do Sereno,1966
 Abel Ferreira,Brasil, Sax E Clarineta,1976
 Abel Ferreira E Seu Conjunto,Abel Ferreira E Seu Conjunto,1978
+Absyntho,Meu Ursinho Blau Blau,1983
 Acidental,Objetos Arremessados Pela Janela,2021
 Acordel,Acordel,1980
-Adam And The Ants,Kings Of The Wild Frontier,1981
 Adler São Luiz,Tambô De Criola,0
 Adriana Calcanhotto,Enguiço,1990
-Adrianne Lenker,Bright Future,2024
 Aécio Flávio & Quartezanato,Caminho Da Barra,1980
 Aécio Flávio E Sua Orquestra,Tributo A Chico Buarque,0
+Afoxé Filhos De Gandhi (2),Afoxé,1976
+Afronta / Eskröta,Ultriz,2019
+Agepê,Moça Criança,1976
 Agepê,Moro Onde Não Mora Ninguém,1975
 Agepê,Tipo Exportação,1978
 Agepê,Agepê,1977
 Agepê,Agepê,1979
 Agepê,O Melhor De Agepê,1979
 Agepê,O Melhor De Agepê,1984
-Agepê,Virou Mania,1989
-A1 - fim
-A3 - inicio
+Agnaldo Timóteo,Tristeza Danada / São Coisas Do Amor / Perdido Na Noite / Olhos Nos Olhos,1976
 Agnaldo Timóteo,Eu Agradeço,1983
 Agnaldo Timóteo,Surge Um Astro,1965
 Agostinho Dos Santos,Agostinho Dos Santos,1974
 Agostinho Dos Santos Com Enrico Simonetti E Orquestra RGE,Inimitável,1959
-Agostinho Dos Santos, Sylvia Telles, Ataulfo Alves,Eternamente,1983
-Ahmad Jamal,Jamalca,1974
-Ahmad Jamal,At The Top:  Poinciana Revisited,1969
+Agostinho Dos Santos/ Sylvia Telles/ Ataulfo Alves,Eternamente,1983
 Airto Moreira,Promises Of The Sun,1976
 Airto Moreira,Fingers,1973
 Airto Moreira,Virgin Land,1974
 Airton Barbosa / Chico Buarque,Morte E Vida Severina,1977
-Al Kooper,I Stand Alone,1968
-Al Kooper,The Landlord - Original Movie Picture Soundtrack,1971
-Al Stewart,Modern Times,1978
 Alaide Costa,Canta Herminio Bello De Carvalho - Águas Vivas,1982
 Alaide Costa,Amiga de Verdade,1988
 Alaide Costa,O Que Meus Calos Dizem Sobre Mim,2022
 Alaide Costa,E O Tempo Agora Quer Voar,2024
-Alaide Costa, Zezé Gonzaga, Jose Luiz Mazziotti,Sidney Miller,1982
-Albert Ayler Trio,Spiritual Unity,1978
+Alaide Costa/ Zezé Gonzaga/ Jose Luiz Mazziotti,Sidney Miller,1982
 Alberto Nepomuceno,Música de Câmara Volume 2,1985
 Alberto Nepomuceno  – Quarteto De Cordas Da Rádio MEC,Música De Câmara Do Brasil: Alberto Nepomuceno: Quarteto No. 1, No. 3,1983
-Alberto Nepomuceno, Orquestra de Câmara de Blumenau, Norton Morozowicz, Ruth Staerke,Alberto Nepomuceno,1987
+Alberto Nepomuceno/ Orquestra de Câmara de Blumenau/ Norton Morozowicz/ Ruth Staerke,Alberto Nepomuceno,1987
+Alceu Valença,Ao Vivo,1985
 Alceu Valença,Coração Bobo,1980
 Alceu Valença,Cinco Sentidos,1981
 Alceu Valença,Maracatus, Batuques E Ladeiras,1994
 Alceu Valença,Anjo Avesso,1983
 Alceu Valença,Cavalo De Pau,1982
 Alceu Valença,Mágico,1984
-Alceu Valença,Ao Vivo,1985
 Alceu Valença,7 Desejos,1992
 Alceu Valença,Andar Andar,1990
 Alceu Valença,Estação Da Luz,1985
 Alceu Valença,Rubi,1986
 Alceu Valença,Leque Moleque,1987
 Alceu Valença,Oropa, França E Bahia,1989
-Alceu Valença,Estação Da Luz / Entrevista Com Alceu Concedida À Barclay Nos Estúdios Da RCA Records,1985
 Alceu Valença,Espelho Cristalino,1977
-Alceu Valença,Vivo!,0
 Alceu Valença,Molhado De Suor,2023
+Alceu Valença,Vivo!,0
 Alcione,Alcione,1981
 Alcione,Morte De Um Poeta,1976
 Alcione,Pra Que Chorar,1977
 Alcione,Gostoso Veneno,1979
-Alcione,Romântica,1987
 Alcione,Alerta Geral,1978
 Alcione,Promessa,1991
 Alcione,Brasil De Oliveira Da Silva Do Samba,1994
 Alcione,Da Cor Do Brasil,1984
 Alcione,Ouro & Cobre,1988
 Alcione,Fruto E Raiz,1986
-Aldacir Louro E Seu Grupo De Samba,"""Samba Dolente, Que Mexe Com A Gente""",1969
+Alcione,Romântica,1987
+Aldacir Louro E Seu Grupo De Samba,Samba Dolente, Que Mexe Com A Gente,1969
 Aldir Blanc & Maurício Tapajós,Rio, Ruas E Risos,1984
-Aldo Sena,Aldo Sena ,1987
+Aldo Sena,Aldo Sena E Seu Conjunto,1986
+Aldo Sena,Aldo Sena,1987
 Aldo Sena,Aldo Sena,1983
 Aldo Sena,Dance Lambadas,1988
-Aldo Sena,Aldo Sena E Seu Conjunto,1986
-Alemão (4),Longe Dos Olhos, Perto Do Coração,1981
 Alemão (4),Bem Brasileiro,1987
+Alemão (4),Longe Dos Olhos, Perto Do Coração,1981
 Alessandra Leão,Macumbas e Catimbós,2019
 Alessandra Leão,Dois Cordões,2020
 Alexandre Gnattali e sua Orquestra,Nosso Samba É Assim,1975
@@ -114,48 +108,4179 @@ Alexandre Salles (3),Homem De Plástico,1984
 Alipio Martins,Alipio King Martins,1992
 Alipio Martins,Alipio Martins,1993
 Alipio Martins E Banda Cabeça Enfeitada,Carnaval Do Chifre,1991
-Almir Guineto,O Suburbano,1982
 Almir Guineto,A Chave Do Perdão,1982
+Almir Guineto,O Suburbano,1982
 Almir Guineto,Sorriso Novo,1985
 Almir Guineto,Almir Guineto,1986
 Almir Guineto,Perfume De Champanhe,1987
 Almir Guineto,Olhos Da Vida,1988
 Almir Guineto,De Bem Com A Vida,1991
 Almir Rogério,Sertao Jovem,1982
+Almir Sater,Varandas,1990
 Almir Sater,Cria,1986
 Almir Sater,Almir Sater,1981
 Almir Sater,Instrumental Dois,1990
 Almir Sater,Rasta Bonito,1989
-Almir Sater,Varandas,1990
 Almir Sater,Doma,1982
-Almir Sater,Instrumental,1985
 Almir Sater,Terra de Sonhos,1994
+Almir Sater,Instrumental,1985
 Altamiro Carrilho,Desfile De Sucessos,0
 Altamiro Carrilho,Bem Brasil,0
-Altamiro Carrilho E Conjunto,Boleros Em Desfile N°2,0
 Altamiro Carrilho E Conjunto,Bossa Nova In Rio,1963
+Altamiro Carrilho E Conjunto,Boleros Em Desfile N°2,0
+Altamiro Carrilho E Sua Bandinha,Recordar é viver nº3,0
 Altamiro Carrilho E Sua Bandinha,Natal,1959
-Altamiro Carrilho E Sua Bandinha,Altamiro Carrilho E Sua Bandinha No Largo Da Matriz ,0
+Altamiro Carrilho E Sua Bandinha,Altamiro Carrilho E Sua Bandinha No Largo Da Matriz,0
 Altamiro Carrilho E Sua Bandinha,Recordar É Viver N°2,0
 Altamiro Carrilho E Sua Bandinha,A Banda é o Sucesso,0
-Altamiro Carrilho E Sua Bandinha,Recordar é viver nº3,0
 Altamiro Carrilho E Sua Bandinha,A Furiosa Ataca O Sucesso,1972
-Altamiro Carrilho, Luiz Eça, Galo Preto, Banda Do Corpo De Bombeiros Do Estado Do Rio De Janeiro,Patápio Silva,1984
+Altamiro Carrilho/ Luiz Eça/ Galo Preto/ Banda Do Corpo De Bombeiros Do Estado Do Rio De Janeiro,Patápio Silva,1984
+Altay Veloso,África / Minha Natureza,1982
 Altay Veloso,Sedução,1986
-A3 - fim
+Álvaro Brochado Hilsdorf,Homenagem A 'Garoto,1970
+Álvaro Brochado Hilsdorf Participação Especial: Abel Ferreira E Netinho (2),Bons Tempos - Chorinhos E Valsas,0
+Amadeu Thiago De Mello,Mormaço Na Floresta,1983
+Amado Batista,Sol Vermelho,1982
+Amaro Freitas,Sankofa,2021
+Amaro Freitas,Rasif,2020
+Amaro Freitas,Sangue Negro,2020
+Amaury Ribeiro Jr.,Precoce,0
+Amelinha,Flor Da Paisagem,1977
+Amelinha,Romance Da Lua Lua,1983
+Amelinha,Mulher Nova, Bonita E Carinhosa Faz O Homem Gemer Sem Sentir Dor,1982
+Amelinha,Frevo Mulher,1979
+Amelinha,Água E Luz,1984
+Amilson Godoy,Amilson Godoy,1989
+Ana De Hollanda,Ana De Hollanda,1980
+Ana Frango Elétrico,Me Chama De Gato Que Eu Sou Sua,2024
+Ana Frango Elétrico,Little Electric Chicken Heart,2020
+Ana Frango Elétrico,Mormaço Queima,2022
+Ana Maria Brandão/ Sinhô,Autor: Sinhô - Intérprete: Ana Maria Brandão,1978
+Ana Mazzotti,Ao Vivo Festival De Verão Do Guarujá 82,1982
+André Barbosa Filho,Tradição,1980
+André Penazzi,Orgâo Samba Percussâo,0
+Anelis Assumpção,Sal,2023
+Angela Herz/ Ruy Quaresma/ Tereza Quaresma,Malandragens De Um Urubu,1982
+Ângela Maria,Com Amor E Carinho,1978
+Angela Ro Ro,Angela Ro Ro,1979
+Angela Ro Ro,Só Nos Resta Viver,1980
+Angela Ro Ro,Simples Carinho,1982
+Angela Ro Ro,Eu Desatino,1985
+Angela Ro Ro,Ao Vivo (Nosso Amor Ao Armagedon),1993
+Aniceto Do Império,Partido Alto Nota 10,1984
+Antonio Adolfo,Viva Chiquinha Gonzaga - Antônio Adolfo Abraça Chiquinha Gonzaga,1985
+Antonio Adolfo,Continuidade,1980
+Antonio Adolfo,Encontro Musical,1978
+Antonio Adolfo,Conexões,1987
+Antonio Adolfo,Cristalino,1989
+Antonio Adolfo,Feito Em Casa,1977
+Antonio Adolfo,Viralata,2022
+Antonio Adolfo & Nó Em Pingo D'Água,João Pernambuco,1984
+Antonio Adolfo Abraça Ernesto Nazareth,Os Pianeiros,1981
+Antonio Adolfo/ Nó Em Pingo D'Água,João Pernambuco,1983
+Antonio Carlos E Jocafi,Desacato,1971
+Antonio Carlos E Jocafi,Pássaro Fugido,1984
+Antonio Carlos E Jocafi,Feitiço Moleque,1986
+Antonio Carlos E Jocafi,Elas Por Elas,1978
+Antonio Carlos E Jocafi,Cada Segundo,1972
+Antonio Carlos E Jocafi,Ossos Do Ofício,1975
+Antonio Carlos E Jocafi,Antonio Carlos E Jocafi,1973
+Antonio Carlos E Jocafi,Definitivamente,1974
+Antonio Carlos E Jocafi,Louvado Seja,1977
+Antônio Carlos Gomes - Orquestra Sinfônica Nacional Da Rádio MEC/ Nino Stinco,Seleção De Fosca & Lo Schiavo,1982
+Antônio Carlos Gomes/ Léo Peracchi/ Orquestra Do Sindicato Musical Do Rio De Janeiro,Carlos Gomes,0
+Antonio Carlos Jobim,Passarim,1987
+Antonio Carlos Jobim,Urubu,1976
+Antonio Carlos Jobim,Terra Brasilis - I,1985
+Antonio Carlos Jobim,O Prestígio De Antonio Carlos Jobim,1983
+Antonio Carlos Jobim,Tom Jobim E Convidados,1985
+Antonio Carlos Jobim / Vinicius De Moraes,Brasília Sinfonia Da Alvorada,1983
+Antonio Marcos,Antonio Marcos,1972
+Antonio Marcos,Antonio Marcos,1973
+Antonio Marcos,Antonio Marcos,1970
+Anzol,O Preço Do Mefisto,2013
+Apanhador Só,Antes Que Tu Conte Outra,2018
+B1 - fim
+B2 - inicio
+Aparecida,Aparecida,1975
+Aquarela Carioca,Aquarela Carioca,1989
+Aracy Côrtes,Araci Côrtes,1984
+Aracy Côrtes - Clementina De Jesus,Rosa De Ouro,1970
+Aracy De Almeida,Noel Rosa,1950
+Aracy De Almeida,Noel Rosa (2ª Serie),1951
+Aracy De Almeida,Noel Rosa Na Voz De Araci De Almeida,1967
+Aracy De Almeida,O Samba Em Pessoa,1986
+Ari Vilela,Do Café Da Lapa A Taberna Da Glória (1935 - 1973),1973
+Armandinho E O Trio Elétrico Dodô & Osmar,Pombo Correio,1977
+Armandinho E O Trio Elétrico Dodô & Osmar,Folia Elétrica,1982
+Armandinho E O Trio Elétrico Dodô & Osmar & Moraes Moreira,Viva Dodô E Osmar,1980
+Arnaldo Antunes,Nome,1993
+Arnaldo Antunes,O Real Resiste,2021
+Arnaldo Antunes,Saiba,2024
+Arnaud Rodrigues,Som Do Paulinho,2021
+Aroldo Santos,Até Que Enfim,1975
+Aroldo Santos,Grito Negro,1976
+Arrigo Barnabé,Trilha Sonora Do Filme Cidade Oculta,1986
+Arthur Moreira Lima,Ernesto Nazareth,1983
+Arthur Moreira Lima,De Repente,1984
+Arthur Moreira Lima,Ernesto Nazareth - Volume II,1984
+Arthur Moreira Lima / Francisco Mignone,As 12 Valsas De Esquina De Francisco Mignone,1982
+Arthur Moreira Lima/ Abel Ferreira/ Época De Ouro,Chorando Baixinho - Um Encontro Histórico,0
+Arthur Nogueira (2),Rei Ninguém,2017
+Arthur Verocai,No Voo Do Urubu,2019
+Ary Barroso/ Dorival Caymmi,Ary Caymmi Dorival Barroso,1974
+As Melindrosas,É Proibido Beijar As Melindrosas (No Filme Vamos Cantar Disco Baby) Vol.3,1979
+As Mercenárias,Cadê As Armas?,1986
+As Mercenárias,Trashland,1987
+Ataulfo Alves,Tradição,1967
+Ataulfo Alves,Eu, Ataulfo Alves,1969
+Ataulfo Alves,Eternamente Samba,1966
+Ataulfo Alves,É Bossa Mesmo,0
+Ataulfo Alves E Suas Pastoras,Ataulfo Alves E Suas Pastoras,1969
+Autoramas,Motocross / Bahamas,1999
+Autoramas,HxCxIx,2002
+Autoramas,Couldn't Care At All / Samba-Rock Do Bacalhau,2010
+Autoramas / Green Machine,Autoramas / Green Machine,2007
+Autoramas & Mundo Alto,Autoramas & Mundo Alto,2017
+Ave Sangria,Ave Sangria,2022
+Azambuja & Cia,Azambuja & Cia,1975
+Azymuth,Águia Não Come Mosca,1977
+Azymuth,Rapid Transit,1984
+Azymuth,Outubro,1980
+Azymuth,Light As A Feather,1979
+Azymuth,Azimüth,2024
+B Negão,Metamorfoses, Riddims E Afins,2025
+Babá Okê Sussú,Prêto Velho,1968
+Baby Consuelo,P'ra Enlouquecer,1979
+Baby Consuelo,Kryshna Baby,1984
+Baby Consuelo,Sem Pecado E Sem Juízo,1985
+Baby Consuelo,Cosmica,1982
+Baby Consuelo,Ao Vivo / 14th Montreux Jazz Festival,1980
+Baby Consuelo,Ora Pro Nobis,1991
+Baby Consuelo,Canceriana Telúrica,1981
+Baby Consuelo,O Que Vier Eu Traço,1978
+Baco Exu Do Blues,Bluesman,2019
+Baden Powell,Gravado Ao Vivo Em Paris,1973
+Baden Powell,É De Lei,1972
+Baden Powell,Nosso Baden,1980
+Baden Powell,Rio Das Valsas,1988
+Baden Powell,L'Ame De Baden Powell,1973
+Baden Powell,À Vontade,0
+Baden Powell,Tristeza On Guitar,1982
+Baden Powell,Encosta Pra Vé Se Dá,1973
+Baden Powell,O Melhor De Baden Powell,1973
+Baden Powell,27 Horas de Estúdio,1969
+BaianaSystem,O Futuro Não Demora,2020
+BaianaSystem,Duas Cidades,2018
+Baiano & Os Novos Caetanos,Folia de Rei,1975
+Baiano & Os Novos Caetanos,Painho,1982
+Baiano & Os Novos Caetanos,Sudamérica,1985
+Baiano & Os Novos Caetanos,A Volta,1982
+Baiano & Os Novos Caetanos,Baiano & Os Novos Caetanos,1974
+Baiano & Os Novos Caetanos,Baiano & Os Novos Caetanos - Volume 2,1975
+Baiano E Amaralina,Cuca Fresca,1977
+Bala Desejo,Sim Sim Sim,2022
+Balaio De Gato,Balaio De Gato,1992
+Banana Split (3),Banana Split,1978
+Banda Beijo,Badameiro,1991
+Banda Black Rio,Saci Pererê,2025
+Banda Cabaçal,Banda Cabaçal / Ceará,1978
+Banda De Congos Panela De Barro,Banda De Congos / ES,1980
+Banda De Pau E Corda,Areia / Telha Nua,1976
+Banda De Pau E Corda,Assim... Amém,1976
+Banda De Pau E Corda,Frevo - Pelas Ruas Do Recife,1979
+Banda De Pau E Corda,Vivência,1973
+Banda De Pau E Corda,Redenção,1974
+Banda De Pau E Corda,Arruar,1978
+Banda De Pau E Corda,Nossa Dança,1981
+Banda do Canecão,A Banda Do Canecão No. 2,1968
+Banda Do Canecão,A Banda Do Canecão - Gravado Ao Vivo Na Maior Cervejaria Do Mundo!,1967
+Banda Metalurgia,Banda Metalurgia,1982
+Banda Patrulha,Orixás,1992
+Banda Paulistana,Luzes Da Noite,1984
+Banda Reflexu's,Da Mãe África,1987
+Banda Veneno/ Erlon Chaves,Internacional,1973
+Baracho,Ciranda do Baracho,1972
+Batatinha,50 Anos De Samba,1993
+Bateria Nota 10,Bateria Nota 10 Vol. 9,1983
+Bayside Kings,Warship,2013
+Bebeto,Guerreiro,1982
+Bebeto,Simplesmente Bebeto,1983
+Bebeto,Esperanças Mil,1977
+Bebeto,Bebeto,1975
+Bebeto,Tempo's,1987
+Belchior,Como Se Fosse Pecado / Brincando Com A Vida,1979
+Belchior,Paraíso,1982
+Belchior,Objeto Direto,1980
+Belchior,Um Show: 10 Anos De Sucesso,1986
+Belchior,Alucinação,1976
+Belchior,Melodrama,1987
+Belchior,Todos Os Sentidos,1978
+Belchior,Belchior,2024
+Belchior,Era Uma Vez Um Homem E O Seu Tempo,1979
+Belchior,Coração Selvagem,1977
+Belo Xis/ Samba 5,Sambáutico, Torcida Do Náutico Em Ritmo De Samba,0
+Bendegó,Bendengó,1981
+Benito Di Paula,Gravado Ao Vivo,1974
+Benito Di Paula,Benito Di Paula,1978
+Benito Di Paula,Benito Di Paula,1980
+Benito Di Paula,Benito Di Paula,1976
+Benito Di Paula,Benito Di Paula,1979
+Benito Di Paula,Ela,1972
+Benito Di Paula,Um Novo Samba,1974
+Benito Di Paula,Benito Di Paula,1975
+Benito Di Paula,Brasil Som 75,1975
+Benito Di Paula,Benito Di Paula,1987
+Benito Di Paula,Fazendo Paixão,1990
+Benito Di Paula,Que Brote Enfim O Rouxinol Que Existe Em Mim,1984
+Benito Di Paula,Nação,1985
+Benito Di Paula,Pode Acreditar,1994
+Benito Di Paula,Benito Di Paula,1981
+Benito Di Paula,Benito Di Paula,1982
+Benito Di Paula,Bom Mesmo É O Brasil,1983
+Benito Di Paula,Benito Di Paula,1977
+Berino,Folclore Mineiro,1982
+Beth Carvalho,Alma Do Brasil,1988
+Beth Carvalho,Saudades Da Guanabara,1989
+Beth Carvalho,Mundo Melhor,1976
+Beth Carvalho,Nos Botequins Da Vida,1977
+Beth Carvalho,De Pé No Chão,1978
+Beth Carvalho,No Pagode,1979
+Beth Carvalho,Sentimento Brasileiro,1980
+Beth Carvalho,Na Fonte,1981
+Beth Carvalho,Coração Feliz,1984
+Beth Carvalho,Das Bênçãos Que Virão Com Os Novos Amanhãs,1985
+Beth Carvalho,Beth,1986
+Beth Carvalho,Ao Vivo,1987
+Beth Carvalho,Ao Vivo No Olympia,1991
+Beth Carvalho,Prá Seu Govêrno,1974
+Beth Carvalho,Pandeiro E Viola,1975
+Beth Carvalho,Canto Por Um Novo Dia,0
+Beth Carvalho,Toque De Malícia,1988
+Beto Guedes,O Talento De Beto Guedes,1985
+Beto Guedes,Beto Guedes Ao Vivo,1987
+Beto Guedes,Viagem Das Mãos,1984
+Beto Guedes,Amor De Índio,1978
+Beto Guedes,Sol De Primavera,1979
+Beto Guedes,Alma De Borracha,1986
+Beto Guedes,A Página Do Relâmpago Elétrico,1977
+Beto Guedes,Contos Da Lua Vaga,1981
+Beto Guedes/ Danilo Caymmi/ Novelli/ Toninho Horta,Beto Guedes, Danilo Caymmi, Novelli, Toninho Horta,2025
+Beyond Frequency (2),Man Alone With Himself,2013
+B2 - fim
+B3 - inicio
+Bezerra Da Silva,Partido Alto Nota 10 Vol. 2,1979
+Bezerra Da Silva,Samba Partido E Outras Comidas,1981
+Bezerra Da Silva,Alô Malandragem, Maloca O Flagrante!,1986
+Bezerra Da Silva,Justiça Social,1987
+Biafra,Uma Vez E Nunca Mais / Dor Da Solidão,1980
+Biafra,Menino,1982
+Biafra,Despertar,1981
+Biafra,Primeira Nuvem,1979
+Bidê Ou Balde,Tudo Funcionando Direito,2014
+Bira De Oliveira,Realidade,1982
+Black Alien,Babylon By Gus - Volume 1 - O Ano Do Macaco,2012
+Black Alien,Abaixo De Zero: Hello Hell,2019
+Black Future,Eu Sou O Rio,1988
+Blitz (11),As Aventuras Da Blitz,1982
+Blitz (11),Blitz 3,1984
+Blitz (11),Todas As Aventuras Da Blitz,1988
+Bloco Brasil,Bloco Brasil,1989
+Bloco Carnavalesco Bafo Da Onça,O Melhor Do Bafo,1967
+Bloco Carnavalesco Simpatia É Quase Amor,5 Anos De Samba Em Ipanema,1989
+Blues Etílicos,Salamandra,1994
+Bobby Hackett / Billy Butterfield Featuring The Guitar And Voice Of Luiz Henrique,Bobby / Billy / Brasil,1968
+Boca Livre,Boca Livre,1979
+Boca Livre,Folia,1981
+Boca Livre,Boca Livre,1983
+Boca Nervosa,Boca Nervosa,1993
+Boi Calemba Pintadinho / Bambelô Asa Branca,Boi Calemba / Bambelô,1975
+Boi Da Paraíba,Boi Da Paraíba,0
+Bonifrate,Museu De Arte Moderna,2013
+Bonifrate,Um Futuro Inteiro,2018
+Bonifrate,Corisco,2021
+Boogarins,Sombrou Dúvida,2019
+Boogarins,Bacuri,2025
+Boss In Drama,Favorite Song / I've Got Tonight,2010
+Brasil Show,Feito Para Dançar,1986
+Brenno Blauth/ José Guerra Vicente/ Osvaldo Lacerda,Sonata Para Flauta E Piano, Sonata Para Clarineta E Piano, Duo Para Clarineta E Fagote,1982
+Breno Sauer Quarteto,4 Na Bossa,2001
+Brincantes Do Lelê,Dança Do Lelê / MA,1978
+Bruno Morais,No Estudio A.2,2010
+Bruno Morais,No Estudio A,0
+Bumba Meu Boi De Morros,Bumba Meu Boi De Morros,1991
+Bumba Meu Boi De Morros,Bumba-Meu-Boi De Morros,1988
+Bumba-Boi De Matracas De Maracanã,Banzeiro Grande,0
+Burt Reynolds (4),We Came In Peace For All Mankind,0
+Caçulinha,Classicos Do Sertão,1981
+Cadete,Monumento Da Música Popular Brasileira - Os Pioneiros Vol. 5 - Cadete,0
+Caetano Veloso,Circuladô Vivo,1992
+Caetano Veloso,Massa Real / Badauê,1979
+Caetano Veloso,O Carnaval De Caetano,0
+Caetano Veloso,Circuladô,1991
+Caetano Veloso,Outras Palavras,1981
+Caetano Veloso,Cores, Nomes,1982
+Caetano Veloso,Bicho,1977
+Caetano Veloso,Estrangeiro,1989
+Caetano Veloso,Caetano Veloso,1990
+Caetano Veloso,Uns,1983
+Caetano Veloso,Totalmente Demais,1986
+Caetano Veloso,Velô,1984
+Caetano Veloso,Meu Coco,2023
+Caetano Veloso,Jóia,2023
+Caetano Veloso,Muitos Carnavais,0
+Caetano Veloso,Caetano,1987
+Caetano Veloso,Caetano Veloso,1969
+Caetano Veloso,Caetano Veloso,1982
+Caetano Veloso,Qualquer Coisa,1985
+Caetano Veloso,Araçá Azul,1985
+Caetano Veloso,Transa,2008
+Caetano Veloso,Caetano Canta,1994
+Caetano Veloso & A Outra Banda Da Terra,Cinema Transcendental,1979
+Caetano Veloso & A Outra Banda Da Terra,Muito (Dentro Da Estrela Azulada),1978
+Caetano Veloso E Chico Buarque,Juntos E Ao Vivo,1972
+Caetano Veloso E Gilberto Gil,Tropicália 2,1993
+Caetano Veloso/ Fernando Gama/ Bettina Graziani,O Coronel E O Barbeiro,1982
+Caetano Veloso/ Fernando Gama/ Bettina Graziani/ Jerônimo Jardim,Tião Das Selvas,1982
+Caetano Veloso/ Gal Costa/ Gilberto Gil,Temporada De Verão (Ao Vivo Na Bahia),1974
+Caetano Veloso/ Gilberto Gil,Barra 69 - Caetano E Gil Ao Vivo Na Bahia,1972
+Caetano Veloso/ João Bosco/ Ney Matogrosso,Brazil Night Montreux 83 - Gravado Ao Vivo No 17º Festival De Montreux / Julho 83,1983
+Caetano Veloso/ Maria Bethânia,N. S. da Purificação,1980
+Café Preto + Céu,Água, Fogo, Terramar,2017
+Caio Pagano,Piano,1985
+Cama De Gato,Cama De Gato,1989
+Cambinda Brilhante De Lucena,Cambinda / Paraíba,1978
+Camerata Carioca,Tocar,1983
+Camisa De Vênus,Batalhões De Estranhos,1985
+Camisa de Vênus,Correndo O Risco,1986
+Camisa De Vênus,Camisa De Vênus,1985
+Canarinho,Brasil, Dá-lhe, Dá-lhe Goool!!!,1969
+Canastra,Bom Veneno,2009
+Candeia,Axé!,2020
+Carioca E Sua Orquestra,Chorinhos Brasileiros,0
+Carlinhos Do Repique,Fantástica Nota 10 Brasileira,1991
+Carlinhos Veloz,Carlinhos Veloz,1992
+Carlinhos Vergueiro,Minha Cara,1992
+Carlinhos Vergueiro,Na Ponta da Língua,1980
+Carlinhos Vergueiro,Passagem,1981
+Carlinhos Vergueiro,Felicidade,1983
+Carlinhos Vergueiro,So O Tempo Dirá,1975
+Carlinhos Vergueiro,Brecha,1974
+Carlinhos Vergueiro,Carlinhos Vergueiro,1976
+Carlinhos Vergueiro,Carlinhos Vergueiro,1986
+Carlinhos Vergueiro,Contra Corrente,1978
+Carlos Alexandre,Carlos Alexandre,1978
+Carlos Cachaça,Carlos Cachaça,1976
+Carlos Drummond de Andrade,Antologia Poética,1978
+Carlos Drummond de Andrade,Carlos Drummond de Andrade interpretado por Lima Duarte,1987
+Carlos Lacerda (3),Trechos De Júlio Cesar De William Shakespeare,0
+Carlos Lyra,Transas,1972
+Carlos Lyra,Herói Do Medo,1975
+Carlos Lyra,Carlos Lyra,1974
+Carlos Lyra,...E No Entanto É Preciso Cantar,1971
+Carlos Maia,Pé De Manacá,1992
+Carlos Maia & Dadi Dumonte,Coração De Artista,1989
+Carlos Negreiros,Mamãe, Eu Quero Miar,1982
+Carlos Paiva (4),E.ST.RANGERO,1989
+Carlos Pita,Águas Do São Francisco,1979
+Carmen Costa / Paulo Marquez,A Música De Paulo Vanzolini,1974
+Carmen Miranda,Carmen Miranda,0
+Carmen Miranda,A Música Popular No Rio De Janeiro Vol. 1,1965
+Carolina Cardoso De Menezes,Sucessos Em Desfile N. 2,0
+Cartola,Verde Que Te Quero Rosa,2023
+Casseta & Planeta,Preto Com Um Buraco No Meio,1989
+Cassiano Costa,Pense Mais Um Pouco,1979
+Cassiano Costa,Melô Do Patinete,1982
+Cassiano Costa,Cassiano Costa,1980
+Cassiano Ricardo/ Teatro Experimental Da U.E.G.,Pássaro No Chapéu,0
+Cätärro,Insônia,2013
+Catavento,Disco,0
+Cátia De França,20 Palavras Ao Redor Do Sol,2021
+Cazuza,Burguesia,1989
+Cazuza,Por Aí...,1991
+Cazuza,O Tempo Não Pára - Cazuza Ao Vivo,1988
+Cazuza,Exagerado,2025
+Cecília Meireles/ Guilherme De Almeida,Poesias Volume IX,0
+Célia (2),Célia,1975
+Célia (2),Célia,2023
+Célia (2)/ Fernando Gama/ Bettina Graziani/ Loma Pereira,O Rei Que Não Sabia De Nada,1982
+Celio Balona,Vôo Noturno,1986
+César Camargo Mariano,Cesar Camargo Mariano,1990
+César Camargo Mariano,A Todas As Amizades,1983
+César Camargo Mariano - Nelson Ayres (2),Prisma,1985
+César Camargo Mariano & Hélio Delmiro,Samambaia,1981
+César Camargo Mariano & Prisma (3),Ponte Das Estrelas,1986
+Cesar Costa Filho,Cesar Costa Filho,1978
+Cesar Costa Filho,E Os Sambas Viverão,1973
+Cesar Costa Filho,De Silêncio Em Silêncio,1975
+Cesar Costa Filho,Nesse Mundo,1980
+César Guerra-Peixe/ Orquestra Sinfônica Nacional Da Rádio MEC,A Retirada Da Laguna,1983
+Cesar Mariano & Cia.,São Paulo • Brasil,1977
+Cesar Mariano & Cia.,Cesar Camargo Mariano & Cia.,1985
+Céu,Apká!,2019
+Céu,Novela,2024
+Céu,Céu,2026
+Céu,Um Gosto De Sol,2022
+Charlie Haden/ Jan Garbarek/ Egberto Gismonti,Magico,1980
+Charlie Haden/ Jan Garbarek/ Egberto Gismonti,Folk Songs,1981
+Chave Geral,Chave Geral,1988
+Chegança de Lagarto/ Sergipe,Chegança - Sergipe,1976
+Chemako,Chemako,1991
+Chiclete Com Banana,Fé Brasileira,1987
+Chico Bezerra,Eterna Viagem,1987
+Chico Bezerra,Chico Bezerra,1984
+Chico Buarque,Ópera Do Malandro,1979
+Chico Buarque,O Segredo Do Curumim,1982
+Chico Buarque,Pedro Pedreiro / Sonho De Um Carnaval,2018
+Chico Buarque,Chico Buarque,1984
+Chico Buarque,Construção,1971
+Chico Buarque,Meus Caros Amigos,1976
+Chico Buarque,Vida,1980
+Chico Buarque,Paratodos,1993
+Chico Buarque,Francisco,1987
+Chico Buarque,Chico Buarque,1989
+Chico Buarque,Sinal Fechado,1987
+Chico Buarque / Maria Bethânia / Nara Leão,Quando O Carnaval Chegar (Trilha Original Do Filme),1972
+Chico Buarque & Caetano Veloso,Melhores Momentos De Chico & Caetano,1986
+Chico Buarque & Maria Bethânia,Chico Buarque & Maria Bethânia Ao Vivo,1975
+Chico Buarque De Hollanda,Roda Viva / A Televisão / Carolina / Um Chorinho,1967
+Chico Buarque De Hollanda,Onde É Que Você Estava,1969
+Chico Buarque De Hollanda,Apesar De Você,1970
+Chico Buarque De Hollanda,A Banda,1966
+Chico Buarque De Hollanda,Roda Viva,1967
+Chico Buarque De Hollanda,Chico Buarque De Hollanda Volume 2,1967
+Chico César,Aos Vivos,2020
+Chico Chico,Estopim,2025
+Chico Da Silva,Samba Na Hora H,1984
+Chico Da Silva,Os Afazeres,1981
+Chico Da Silva,Sambaterapia,1983
+Chico Lessa,Chico Lessa,1982
+Chico Memória,Três Coisa,1981
+Chico Science & Nação Zumbi,Afrociberdelia,2010
+China (41),O Rei Da Folia,1984
+Chiquinha Gonzaga,Evocação II,1979
+Cidadão Instigado,O Ciclo Da Dê.Cadência,2017
+Cidadão Instigado,Fortaleza,2017
+Cidinho E O Som Tropical,Muito Suingue,1980
+Cipó,A Gafieira,1979
+Cipó And His Authentic Rhythm Group,Brazilian Beat,1965
+Cipó E Sua Orquestra,Aqui Começa O Mundo Maravilhoso Da Música,1964
+Cipó E Sua Orquestra/ Antonio Laborda,Souvenir Do Rio - Disco Comemorativo Do IV Centenário Do Rio de Janeiro,1965
+Cirino,Estrela Ferrada,1979
+Cirino,Moenda,1981
+Ciro Monteiro,Formosa / Amei Tanto,0
+Ciro Monteiro,Meu Samba Minha Vida,1969
+Ciro Monteiro,A Bossa De Sempre,1966
+Ciro Monteiro,Cyro Monteiro,1979
+Ciro Monteiro & Jorge Veiga,De Leve,1971
+Ciro Monteiro E Dilermando Pinheiro,Teleco Teco Opus N° 1 - Gravado Ao Vivo,1985
+Clara Nunes,Clara Nunes,0
+Clara Nunes,Guerreira,1978
+B3 - fim
+B4 - inio
+Clara Nunes,Esperança,1979
+Clara Nunes,Clara,1981
+Clara Nunes,Canto Das Três Raças,1976
+Clara Nunes,Brasil Mestiço,1980
+Clara Nunes,As Forças Da Natureza,1977
+Clara Nunes,Claridade,1975
+Clara Nunes,Alvorecer,0
+Clara Nunes,Nação,1982
+Clara Nunes,Clara Clarice Clara,0
+Clara Nunes E Paulo Gracindo,Brasileiro Profissão Esperança,1974
+Clara Sverner E Paulo Moura,Clara Sverner E Paulo Moura Interpretam Pixinguinha,1988
+Claudette Soares,De Tanto Amor,1985
+Claudette Soares,Fiz Do Amor Meu Canto,1976
+Cláudia Savaget,Cláudia Savaget,1985
+Claudio Cartier,Claudio Cartier,1982
+Claudio Denis,Linda Manhã,1981
+Cláudio Guimarães,Meu Irmão Toca Na Sinfônica,1981
+Claudio Nucci,Melhor De Três,1984
+Claudio Santoro,Música De Câmara Brasileira 1,1981
+Claudio Zoli,Claudio Zoli,1988
+Claudionor Cruz,Claudionor Cruz, Hoje,1972
+Claudionor Germano/ Kaíto,Homenagem A Caruaru,1984
+Clementina De Jesus,Clementina E Convidados,1979
+Clementina De Jesus,Clementina, Cadê Você?,1988
+Clínica,Clínica,1988
+Coalhada,O Craque Que Faltou Na Seleção!,1978
+Cochabambas,Máquinas Quentes A Todo Vapor Vol.1,1999
+Codó,Coisas Da Minha Terra,1978
+Codó,Codó E O Violão,1977
+Codona,Codona,1980
+Companhia De Moçambique De Aparecida,Moçambique / SP,1980
+Comunidade Suyá/ Anthony Seeger,Música Indígena, A Arte Vocal Dos Suyá Do Rio Xingu,1982
+Congos De Pombal,Congos / Paraíba,1977
+Congos De Saiote / São Gonçalo Do Amarante / RN,Congos De Saiote / RN,1978
+Conjunto Balambossa,Poema Do Adeus,0
+Conjunto Carcará,Barra Limpa,1965
+Conjunto Concerto Viola,Desabafo,1975
+Conjunto Concerto Viola,Vozes da Seca,1978
+Conjunto Diamante Negro,Preto No Branco,1981
+Conjunto Embalo De Soure,Danças Do Marajó,1978
+Conjunto Explosão Do Samba,Rio Fantastico,1973
+Conjunto Farroupilha,Gaúcho,1953
+Conjunto Flor Da Terra,Abertura,1979
+Conjunto Musikantiga De São Paulo,Musikantiga Vol. 2,1968
+Conjunto Musikantiga De São Paulo,Musikantiga,1976
+Conjunto Nosso Samba,Escrete Do Samba (É Samba No Pé),1974
+Conjunto Nosso Samba,Nosso Samba,1978
+Conjunto Romançal,Frevo De Bloco,1980
+Conjunto Samba 5,Brasil, Oh Meu Brasil,1990
+Conjunto Samba 5,Tio Sam Tá Esperando Para Coroar Você,1994
+Conjunto Samba 5,País De Caruaru,1987
+Conjunto Samba 5,Olinda, A Cidade Simpatia Do Brasil,0
+Conjunto Sambacana,Músicas De Pacífico Mascarenhas,1969
+Conjunto Sambas Reunidos,Sambas Reunidos,1973
+Conjunto São João / Lagarto / SE,Zabumba / SE,1979
+Copinha,Amando Sempre,1981
+Copinha E Seu Regional,Revivendo 2 - Bomfiglio De Oliveira Interpretado Por Copinha E Seu Conjunto,1979
+Coral De Brasília,Coral De Brasília,1975
+Coral De Joab / Titulares Do Ritmo,Prá Frente Brasil,1970
+Coral De Ouro Preto,Coral De Ouro Preto,1962
+Cordel do Fogo Encantado,Viagem ao Coração do Sol,2020
+Crash Playground,Crash Playground,2011
+Criolo,Sobre Viver,2022
+Cristina Buarque,Agradeço A Deus,1975
+Cristina Buarque,Vejo Amanhecer,1980
+Cristina Buarque,Cristina,1981
+Cristina Buarque,Cristina,1974
+Cristina Buarque,Prato e Faca,1976
+CSS,Cansei De Ser Sexy,2025
+Curumin,Boca,2017
+Curumin,Pedra De Selva,2026
+Curumin,Achados E Perdidos,2020
+Curumin,Arrocha,2022
+Curumin,Japanpopshow,2022
+Cynara E Cybele,Sem Assunto,1968
+Cyro Aguiar,Cyro Aguiar,1975
+Cyro Aguiar,Proporções,1977
+D'Alma,D'Alma,1983
+D'Alma,D'Alma,0
+Dalto,Um Coração Em Mil,1988
+Daltony Nobrega/ Daltony,Batista / Nouveau Riche,1982
+Dalva De Oliveira,Grossas Nuvens De Amor,1974
+Danças De Santa Cruz Da Aldeia De Carapicuíba,Dança De Santa Cruz / SP,1981
+Daniel Jablonski,Toque Até Morrer,2017
+Daniela Mercury,O Canto Da Cidade,1992
+Danilo Caymmi,Cheiro Verde,2023
+DCV,S/T,2006
+Dead Lovers Twisted Heart,Dead Lover's Twisted Heart,2010
+Defalla,Kingzobullshit Backinfulleffect 92,1992
+Defalla,It's Fuckin Borin To Death,1988
+Denise Emmer,Canto Lunar,1982
+Déo Lopes,Certos Caminhos,1984
+Déo Lopes / Juan Falú,Canticorda,1982
+Déo Rian Participação Especial Quinteto Villa Lobos,Saudades De Um Bandolim,1976
+Dercio Marques,O Pinhão Na Amarração / Vim De Longe,1980
+Dercio Marques,Canto Forte - Coro Da Primavera,1979
+Dhaal,Dhaal,0
+Dhema,Clube Do Swing,1992
+Dialeto,Dialect,1991
+Diana (26),Porque Brigamos,1973
+Diana (26),Diana,1978
+Diana (26),Uma Vez Mais,0
+Diana Pequeno,Canção De Fogo / Los Caminos / Blowin' In The Wind / Milonga De Andar Lejos,1979
+Diana Pequeno,Diana Pequeno,1978
+Diana Pequeno,Eterno Como Areia,1979
+Diana Pequeno,Sinal De Amor,1981
+Dick Farney,Dick Farney,1973
+Dick Farney,Feliz De Amor,1983
+Dick Farney,Noite,1981
+Dick Farney Trio,Concerto De Jazz (Ao Vivo),1973
+Dicró,Bocada,1983
+Dicró,Barra Pesada (Melô Da Baixada) / Ponta Direita / Mão No Fogo / O Barrigudo / Da Vida /,1977
+Dicró,Barra Pesada,1978
+Dicró,Dicró,1979
+Dicró,Dicró,1980
+Dicró,Funeral Do Ricardão,1984
+Dicró,O Professor,1981
+Dicró,Duro Na Queda,1986
+Dicró,Mister Dicró,1988
+Dinamite Club,Do Começo Não Dá Pra Enxergar O Fim,2016
+Divine (7),Souvenir,2000
+Djalma Correa,Baiafro,1978
+Djalma Correa,Baiafro,2024
+Djalma Pires,Djalma Pires,1979
+Djavan,Não É Azul Mas É Mar,1987
+Djavan,Coisa De Acender,1992
+Djavan,Luz,1982
+Djavan,Lilás,1984
+Djavan,Alumbramento,1980
+Djavan,Novena,1994
+Djavan,Meu Lado,1986
+Djavan,Seduzir,0
+Djavan,A Voz, O Violão, A Música De Djavan,2023
+Djavan,Djavan,2019
+Djavan,Djavan,0
+Djonga,Inocente Demotape,2024
+Djonga,O Dono Do Lugar,2023
+Do Amor,Piracema,2013
+Do Amor,Do Amor,2010
+Do Amor,Do Amor,2010
+Dog School,Blue Soda Drink,1999
+Dom & Ravel,Você Também É Responsavel,1971
+Dom & Ravel,Dom & Ravel,1974
+Dom & Ravel,Brasil, Cidade E Campo,1982
+Dom Mita,Mita,2022
+Dom Salvador,Dom Salvador,1969
+Dom Um Romao,Hotmosphere,1977
+Domenico Lancellotti,Sramba,2023
+Dominguinhos,Seu Domingos,1987
+Dominguinhos,Ó Xente!,1978
+Dominguinhos,Querubim,1981
+Don L,Roteiro Pra Aïnouz Vol. 2,2022
+Dona Onete,Feitiço Caboclo,2026
+Dona Onete,Banzeiro,2021
+Dona Onete,Bagaceira,2024
+Dori Caymmi,Dori Caymmi,1980
+Dori Caymmi,Dori Caymmi,1982
+Dori Caymmi/ Nana Caymmi/ Danilo Caymmi & Dorival Caymmi,Família Caymmi,1987
+Dóris Monteiro & Tito Madi,Brasil Samba Canção,1992
+Dóris Monteiro E Lúcio Alves,No Projeto Pixinguinha,1978
+Dóris Monteiro E Miltinho,Doris, Miltinho & Charme Vol. 3,1972
+Dóris Monteiro E Miltinho,Doris - Miltinho E Charme Vol. 4,1973
+Dorival Caymmi,Sambas,1955
+Dorival Caymmi,Eu Vou Pra Maracangalha,1957
+Dorival Caymmi,Setenta Anos,1984
+Dorival Caymmi,Caymmi,1985
+Dorival Caymmi,Caymmi,1972
+Dorival Caymmi,Eu Não Tenho Onde Morar,1960
+Dorival Caymmi,Caymmi E Seu Violão,1959
+Dorival Caymmi & Antonio Carlos Jobim,Caymmi Visita Tom,1975
+Dorival Caymmi/ Nana Caymmi/ Danilo Caymmi,Família Caymmi Em Montreux,1991
+Doroty Marques,Erva Cidreira,1980
+Duda Beat,Sinto Muito,2019
+Duda Beat,Te Amo Lá Fora,2022
+Duda Neves,Tempo Bom,1992
+Dunga (5),Sem Pintura,1987
+Duplo (7),Dor Dor Dor, BB.,2019
+Dykal,João E Maria / Só Lembrança,1983
+Ed Lincoln,A Volta,1964
+Ed Lincoln,Ed Lincoln, Seu Piano E Seu Órgão Espetacular,1961
+Ed Lincoln,Ed Lincoln,1968
+Ed Lincoln,Órgão Espetacular,1960
+Ed Lincoln,Ed Lincoln, Seu Piano E Seu Órgão Espetacular,0
+Eddie (32),Original Olinda Style,2019
+Edgar (28),Ultraleve,2021
+Edgard Scandurra,Amigos Invisíveis,1989
+Edil Pacheco,Estamos Aí,1984
+Edinho Marundelê E Onias Comenda,Eu, Bahia (Atabaque E Berimbau),1972
+Ednardo,Rubi,1990
+Ednardo,Libertree,1985
+Ednardo,Terra da Luz,1982
+Ednardo,Imã,1980
+Ednardo,O Azul E O Encarnado,1977
+Ednardo,Ednardo,1979
+Edson & Tita Lôbo,Novidade De Vida,1983
+Edson E Terezinha,Que Outro Dia Amanheça,1981
+Edson Gama/ Josi (8)/ Luciano Alves,O Bicho Folhagem,1984
+Edson José Alves,Preamar,1988
+Edu Lobo,Filhote De Trem,1982
+Edu Lobo,Limite Das Aguas,1976
+Edu Lobo,Tempo Presente,1980
+Edu Lobo,Jogos de Dança,1981
+Edu Lobo,Sergio Mendes Presents Lobo,2016
+Edu Lobo,Edu Lôbo,2023
+Edu Lobo,Cantiga De Longe,2023
+Edu Lobo / Chico Buarque,O Grande Circo Místico,1983
+Edu Lobo Com A Participação Do Tamba Trio,A Música De Edu Lobo Por Edu Lobo,1964
+Edu Lobo E Antonio Carlos Jobim,Edu & Tom Tom & Edu,1981
+Eduardo Araujo,Um Homem Chamado Cavalo,1987
+Eduardo Araujo,Pé Na Estrada,1990
+Eduardo Delgado,Fábrica De Música,1992
+Eduardo Dusek,Olhar Brasileiro,1981
+Eduardo Dusek,Cantando No Banheiro,1983
+Eduardo Dusek,Brega Chique / Chique Brega,1984
+Eduardo Dusek,Dusek Na Sua,1986
+Eduardo Dusek Com João Penca E Seus Miquinhos Amestrados,Barrados No Baile / Cabelos Negros,1982
+Eduardo Gudin,Balãozinho,1986
+Eduardo Gudin,Eduardo Gudin,1973
+Eduardo Gudin,Eduardo Gudin,1975
+Eduardo Gudin/ Paulo César Pinheiro/ Márcia,O Importante É Que A Nossa Emoção Sobreviva - Gravado Ao Vivo,1975
+Eduardo Gudin/ Vânia Bastos,Eduardo Gudin & Vania Bastos,1989
+Eduardo Hazan/ Andersen Viana,Instrumental De Casaca,1989
+Egberto Gismonti,Dança Dos Escravos,1989
+Egberto Gismonti,Nó Caipira,1978
+B4 - fim
+B5 - inicio
+Egberto Gismonti,Fantasia,1982
+Egberto Gismonti,Alma,1986
+Egberto Gismonti,Sol Do Meio Dia,1979
+Egberto Gismonti,Amazônia,1991
+Egberto Gismonti,Trem Caipira,1985
+Egberto Gismonti,Dança Das Cabeças,1977
+Egberto Gismonti,Kuarup,1989
+Egberto Gismonti,Egberto Gismonti,1985
+Egberto Gismonti,Circense,1980
+Egberto Gismonti,Cidade Coração,1983
+Egberto Gismonti,Academia De Danças,1974
+Egberto Gismonti,Carmo,1977
+Egberto Gismonti,Egberto Gismonti,1973
+Egberto Gismonti,Solo,0
+Egberto Gismonti,Corações Futuristas,1985
+Egberto Gismonti,Água & Vinho,1985
+Egberto Gismonti,Em Família,1981
+Egberto Gismonti,Sonho 70,1976
+Egberto Gismonti,Egberto Gismonti,2025
+Egberto Gismonti / Naná Vasconcelos,Duas Vozes,1985
+Egberto Gismonti & Academia De Danças,Sanfona,1981
+Egberto Gismonti & Academia De Danças,Feixe De Luz Todo Começo É Involuntário,1988
+Egberto Gismonti/ Jaques Morelenbaum/ Zeca Assumpção/ Henrique Cazes/ Beto Cazes,Piazzollando,1992
+Ego (40),Supergay,1984
+Elba Ramalho,Coração Brasileiro,1983
+Elba Ramalho,Ave De Prata,1979
+Elba Ramalho,Fruto,1988
+Elba Ramalho,Felicidade Urgente,1991
+Elba Ramalho,Capim Do Vale,1980
+Elba Ramalho / Toquinho / Moraes Moreira,Brasil Night - Ao Vivo Em Montreux,1981
+Elenco Da Rede Globo/ Zé Catimba E Brasil Ritmo,Um Nôvo Tempo  /  Martim Cererê,1971
+Elenco De Radio Teatro Da Radio Nacional Do Rio De Janeiro,1873-1973 Centenário Alberto Santos=Dumont,1973
+Elenco Do Tuca,Morte E Vida Severina,1966
+Eliana Pittman,Das 200 Para Lá,1971
+Eliana Pittman,Pra Sempre,1976
+Eliete Negreiros,Ângulos: Tudo Está Dito,0
+Elis Regina,Fascinação (O Melhor De Elis Regina),1988
+Elis Regina,As Casas Que Fugiram De Casa,0
+Elis Regina,Madalena,1970
+Elis Regina,Elis,1980
+Elis Regina,Elis,1977
+Elis Regina,Elis,1972
+Elis Regina,Elis,1974
+Elis Regina,13th Montreux Jazz Festival,1988
+Elis Regina,Presença De Elis Regina,0
+Elis Regina,Encontros: Elis Regina E Seus Amigos Em Encontros Históricos,1981
+Elis Regina,O Melhor De Elis,1979
+Elis Regina & Jair Rodrigues,Dois Na Bossa Número 3,1967
+Elizabeth (23),Sou Louca Por Você,1968
+Elizabeth (23),Não Há Luar Nem Céu Bonito,1968
+Elizeth Cardoso,Canções Á Meia Luz Com Elizete Cardoso,1955
+Elizeth Cardoso,A Cantadeira Do Amor,1978
+Elizeth Cardoso,Preciso Aprender A Ser Só,1972
+Elizeth Cardoso,Momento De Amor,1968
+Elizeth Cardoso,Luz E Esplendor,1986
+Elizeth Cardoso,A Mulata Maior,1974
+Elizeth Cardoso,Feito Em Casa,1974
+Elizeth Cardoso,Falou E Disse,1970
+Elizeth Cardoso,O Inverno Do Meu Tempo,1979
+Elizeth Cardoso,Elizethíssima,1981
+Elizeth Cardoso,A Enluarada Elizeth,1967
+Elizeth Cardoso,Live In Japan,1977
+Elizeth Cardoso,Magnífica,1991
+Elizeth Cardoso,Muito Elizeth,0
+Elizeth Cardoso,Elizete Interpreta Vinicius,0
+Elizeth Cardoso,Noturno,0
+Elizeth Cardoso,A Meiga Elizete Nº 2,0
+Elizeth Cardoso,Disco De Ouro,0
+Elizeth Cardoso,Naturalmente,1991
+Elizeth Cardoso & Zimbo Trio,É De Manhã,1970
+Elizeth Cardoso & Zimbo Trio & Jacob Do Bandolim,Vol. 1,1968
+Elizeth Cardoso & Zimbo Trio & Jacob Do Bandolim,Vol. 1,1968
+Elizeth Cardoso & Zimbo Trio & Jacob Do Bandolim,Vol. 2,1968
+Elizeth Cardoso Com Radamés Gnattali & Camerata Carioca,Uma Rosa Para Pixinguinha,1983
+Elizeth Cardoso E Silvio Caldas,Elizeth Cardoso E Silvio Caldas,1991
+Elizeth Cardoso E Zimbo Trio,Elizeth E Zimbo Trio Balançam Na Sucata,1970
+Elizeth Cardoso/ Ciro Monteiro,A Bossa Eterna De Elizeth E Cyro - Vol. 2,0
+Elizeth Cardoso/ Jacob Do Bandolim/ Zimbo Trio/ Época De Ouro,Vol. 3 - Fragmentos Inéditos Do Histórico Recital,1977
+Elizeth Cardoso/ Silvio Caldas,Elizeth Cardoso E Silvio Caldas Vol. 2,1971
+Elma Mara,Porta Da Esperança,0
+Elomar,Na Quadrada Das Águas Perdidas,1979
+Elomar - Geraldo Azevedo - Vital Farias - Xangai,Cantoria,1984
+Elomar E Arthur Moreira Lima,Parcelada Malunga,1980
+Elomar/ Arthur Moreira Lima/ Paulo Moura/ Heraldo Do Monte,ConSertão (Um Passeio Musical Pelo Brasil),1982
+Elza Soares,The Woman At The End Of The World (A Mulher Do Fim Do Mundo),2016
+Elza Soares,Senhora Da Terra,2025
+Elza Soares,Elza Soares,2021
+Elza Soares,No Tempo Da Intolerância,2023
+Elza Soares E Miltinho,Elza, Miltinho E Samba Vol. 2,1968
+Elza Soares/ Miltinho,Elza, Miltinho E Samba,1967
+Elza Soares/ Miltinho,Elza, Miltinho E Samba,0
+Emilio Santiago,Aquarela Brasileira 6,1993
+Emilio Santiago,Guerreiro Coração,1980
+Emilio Santiago,Amor De Lua,1981
+Emilio Santiago,Ensaios De Amor,1982
+Emilio Santiago,Brasileiríssimas,1976
+Emilio Santiago,Comigo É Assim,1977
+Emilio Santiago,Feito Para Ouvir,1977
+Emilio Santiago,Emilio,1978
+Emilio Santiago,O Canto Crescente De Emilio Santiago,1979
+Emilio Santiago,Aquarela Brasileira,1988
+Emilio Santiago,Aquarela Brasileira 3,1990
+Emilio Santiago,Aquarela Brasileira 2,1989
+Emilio Santiago,Aquarela Brasileira 4,1991
+Emilio Santiago,Aquarela Brasileira 5,1992
+Emilio Santiago,Aquarela Brasileira 7,1994
+Emilio Santiago,Emilio Santiago,1978
+Engenheiros Do Hawaii,Ouça O Que Eu Digo, Não Ouça Ninguém,1988
+Época De Ouro,Interpreta Pixinguinha E Benedito Lacerda,1977
+Época De Ouro,Dino 50 Anos,1987
+Época De Ouro,Música Popular Brasileira,1978
+Equipe Esportiva Da Rádio Bandeirantes/ Coro E Orquestra Columbia,Brasil Campeão Do Mundo,1958
+Erasmo Carlos,Cachaça Mechanica,1973
+Erasmo Carlos,Sentado A Beira Do Caminho,1969
+Erasmo Carlos,Abra Seus Olhos,1986
+Erasmo Carlos,Gigante Gentil,2014
+Erasmo Carlos,A Banda Dos Contentes,1976
+Erasmo Carlos,Mulher,1981
+Erasmo Carlos,Amar Pra Viver, Ou Morrer De Amor,1982
+Erasmo Carlos,Apesar Do Tempo Claro...,1988
+Erasmo Carlos,Você Me Acende,1966
+Erasmo Carlos,Erasmo Esteves,2024
+Erasmo Carlos,Erasmo Carlos Convida...,1980
+Erasmo Carlos,Carlos, Erasmo...,2013
+Erlon Chaves E Sua Banda Veneno,Banda Veneno Internacional Vol.5,1974
+Escola De Samba Da Cidade,Batucada Nº 3 The Exciting Rhythm Of The Wild Brazilian Carnival,1971
+Escola De Samba Da Cidade E Paulinho E Sua Bateria,Batucada,1966
+Estevam,Sensações,1981
+Etc & Tal,Parati,1990
+Eugénia Melo E Castro,Terra De Mel,1982
+Eugênio Brito,Trilha Mineira,1991
+Eumir Deodato,Os Catedráticos,1974
+Eumir Deodato,Motion,1984
+Eumir Deodato,Love Island,1978
+Eumir Deodato,Deodato 2,1973
+Eumir Deodato,Whirlwinds,1974
+Eumir Deodato,Whirlwinds,1974
+Eumir Deodato,Artistry,1974
+Eumir Deodato,First Cuckoo,1975
+B5 - fim
+C1 - inicio
+Eumir Deodato featuring João Donato,DonatoDeodato,1973
+Eumir Deodato/ Os Catedráticos,Arranjo E Regência  Vol. 3,1976
+Eustáquio Sena,Brasil Riqueza,1983
+Evaldo Braga,Só Quero / Por Uma Vez Mais,1971
+Evaldo Braga,O Ídolo Negro Vol. 2,1973
+Evaldo Braga,O Ídolo Negro Volume 2,1972
+Evaldo Braga,O Ídolo Negro,1985
+Evandro Mesquita,Evandro,1986
+Fábio (5),Até Parece Que Foi Sonho,1979
+Fábio (5),Velho Camarada,1979
+Fábio (5),Boas Novas / Ponto de Partida,1981
+Fábio Jr.,Fábio Jr.,1982
+Fábio Jr.,Sem Limites Pra Sonhar,1986
+Fábio Jr.,Fábio Jr.,1985
+Fábio Jr.,Vida,1988
+Fábio Jr.,Fábio Jr. Ao Vivo,1989
+Fábio Jr.,Intuição,1991
+Fábio Jr.,Desejos,1993
+Fábio Jr.,Fábio Jr.,1994
+Fábio Jr.,Fabio Jr.,1979
+Fábio Jr.,Fábio Jr.,1981
+Fábrica Fagus,... E O Circo Pega Fogo,1989
+Faca Preta,Faca Preta,2015
+Fafá De Belém,Água,1977
+Fafá De Belém,Estrela Radiante,1979
+Fafá De Belém,Banho De Cheiro,1978
+Fafá De Belém,Tamba-Tajá,1976
+Família Jobim/ Nova Banda,Amazonas - Família Jobim,1991
+Fandango De Capela Do Alto-Sorocaba / Grupo De Moçambique De Aparecida,Fandango / Moçambique,1975
+Fandango De Pajuçara,Fandango / Alagoas,1977
+Fátima Guedes,Fátima Guedes,1980
+Fausto Fawcett E Os Robôs Efêmeros,Fausto Fawcett E Os Robôs Efemeros,1987
+Fausto Papetti,Sax Alto E Ritmi. Serie Ballabili - N. 2,1961
+FBC,Padrim,2024
+Fellini (2),O Adeus De Fellini,1985
+Fellini (2),Fellini Só Vive 2 Vezes,1986
+Fellini (2),3 Lugares Diferentes,1987
+Fellini (2),Amanhã É Tarde,2023
+Fellini (2),Amor Louco,2022
+Fernanda Abreu,Sla Radical Dance Disco Club,2020
+Fernanda Takai,Na Medida Do Impossível,2014
+Fernanda Takai,Onde Brilhem Os Olhos Seus,2010
+Fernando Lona,Cidadão Do Mundo,1977
+Fernando Lopes (3)/ Antônio Carlos Gomes,O Piano Brazileiro De Carlos Gomes,1981
+Fernando Pessoa,Fernando Pessoa 85,1985
+Fernando Santeiro,Fernando Santeiro,1990
+Fernando Veiga,A Historia De 66 Vol. 4,1971
+Filipe Catto,Caminhos Selvagens,2026
+Finis Africae (2),Finis Africae,1987
+Fiori Gigliotti,A Era De Ouro Do Futebol Brasileiro: 1958 - 1970,1978
+Firmino De Itapoã,Firmino De Itapoã,1979
+Five Tracks,Brazilian Sophistication,1991
+Flávio Carvalho,Flávio Carvalho,1980
+Flávio Fonseca,Luz do Ar,1989
+Flávio Luiz do Carmo / Carmo Isaias de Castro Machado / Doralice Ribeiro Brasil / Jaime Couto / Marcelo Nogueira Martins / José Benevenuto dos Santos / Wilson Santos / Mario Alves de Deus / José Assunção,Isto é Makambu,1980
+Flavio Spirito Santo,Flavio Y Spirito Santo,1981
+Flávio Venturini,O Andarilho,1984
+Flávio Venturini,Nascente,1985
+Flor Du Xique Xique,O Canto Da Terra,1977
+Flora Purim,Stories To Tell,1975
+Flora Purim,Open Your Eyes You Can Fly,1976
+Flora Purim,Midnight Sun,1988
+Flora Purim,500 Miles High,1976
+Fogo Baiano,Nada De Cor Nas Peles,1988
+Fogo Cerrado/ Manoel Messias (3),O Melhor Em Repentistas,1979
+Fogo No Circo,Fogo No Circo,1982
+Fontaines D.C.,Romance,2024
+Francis Hime,Essas Parcerias,1984
+Francis Hime,Se Porém Fosse Portanto,1978
+Francis Hime,Passaredo,1977
+Francis Hime,Francis,1980
+Francis Hime,Sonho De Moço,1981
+Francis Hime,Pau Brasil,1982
+Francis Hime,Clareando,1985
+Francis Hime,Francis Hime,1976
+Francisco Mignone,Valsas De Esquina,0
+Francisco Mignone / Henrique David Korenchendler / Nestor De Hollanda Cavalcanti / Raul Do Valle,III Bienal De Música Brasileira Contemporânea 4,1984
+Francisco Mignone/ Maria Josephina Mignone/ Noel Devos/ Orquestra Sinfônica Nacional Da Rádio MEC,Fantasia Brasileira No. 3 Para Piano E Orquestra / Leilão, Bailado / Musica No. 1,1979
+Francisco/ El Hombre,Rasgacabeza,2019
+Franco (19),Bloco Maravilha,1978
+Franco (19),Na Cara Do Povo,1979
+Frank Jorge & Plato Divorak E Empresa Pimenta,Futuristas Antiquados Ou Todavia Crocantismo,2024
+Frank Sinatra & Antonio Carlos Jobim,Francis Albert Sinatra & Antonio Carlos Jobim,1967
+Fredera,Aurora Vermelha,1981
+Fredson,Fredson,1976
+Free-Son,Banguelê,2017
+Freelarmonica,Freelarmonica,1983
+Fruto Da Terra,Fruto Da Terra,1983
+Fundo de Quintal,Seja Sambista Também,1984
+Fundo de Quintal,Samba É No Fundo Do Quintal,1980
+Fundo de Quintal,A Batucada Dos Nossos Tantãs,1993
+G.R.E.S. Beija-Flor,História Do Grêmio Recreativo Escola De Samba Beija-Flor,1976
+G.R.E.S. Unidos De Vila Isabel,10 Anos De Samba-Enredo,1984
+Gabriel Thomaz E Móveis Coloniais De Acaju,Vai Thomaz No Acaju!,2007
+Gal Costa,London, London,1970
+Gal Costa,Fantasia,1981
+Gal Costa,Água Viva,1978
+Gal Costa,Minha Voz,1982
+Gal Costa,Baby Gal,1983
+Gal Costa,Profana,1984
+Gal Costa,Plural,1990
+Gal Costa,Nenhuma Dor,2021
+Gal Costa,Caras & Bocas,1977
+Gal Costa,Gal Tropical,1979
+Gal Costa,Aquarela Do Brasil,1980
+Gal Costa,Bem Bom,1985
+Gal Costa,Índia,2022
+Gal Costa/ AdCanto/ Luiz Duarte,Currupaco Papaco,1984
+Gal Costa/ Lenine,A Jangada Do Natal,1983
+Galinha Preta,Expresso Planalto,2014
+Gang 90,Demo 1982,2019
+Gang 90,Rosas & Tigres,1985
+Gaó,Bem Brasileiro,1969
+Garganta Profunda,Yes, Nós Temos Braguinha,1986
+Garoto,Garoto,1979
+Gattopardo,Gattopardo,2017
+Genaro (2) & Bezerra da Silva,Partido Alto Nota 10,1977
+Gene Araujo,Dor De Cabeça / Paralelepípedos,1980
+Gente Boa (2),...Opa !,1984
+Geraldo Azevedo,Inclinações Musicais,1981
+Geraldo Azevedo,For All Para Todos,1982
+Geraldo Azevedo,A Luz Do Solo,1985
+Geraldo Azevedo,Bicho De 7 Cabeças,1979
+Geraldo Azevedo,Eterno Presente,1988
+Geraldo Azevedo,Bossa Tropical,1989
+Geraldo Vandré,Prá Não Dizer Que Não Falei Das Flores (Caminhando) / Fica Mal Com Deus,1979
+Geraldo Vandré,Cantiga Brava / Modinha,1966
+Geraldo Vandré,Das Terras De Benvirá,1973
+Geraldo Vandré,Prá Não Dizer Que Não Falei Das Flores,1979
+Geraldo Vandré,5 Anos De Canção,0
+Geraldo Vandré,Canto Geral,0
+Geraldo Vandré,Hora De Lutar,1976
+Gereba,Bendengó,1973
+Germano Mathias,Germano Mathias,0
+Gerônimo,Eu Sou Negão,1987
+Gilberto Gil,O Sonho Acabou,1972
+Gilberto Gil,B.O.F. Quilombo,1984
+Gilberto Gil,Gilberto Em Concerto,1987
+Gilberto Gil,Refazenda,1975
+Gilberto Gil,Dia Dorim Noite Neon,1985
+Gilberto Gil,Um Banda Um,1982
+Gilberto Gil,Luar (A Gente Precisa Ver O Luar),1981
+Gilberto Gil,O Eterno Deus Mu Dança,1989
+Gilberto Gil,Gilbertos Samba,2024
+Gilberto Gil,Nightingale,2023
+Gilberto Gil,Refazenda,2025
+Gilberto Gil,Realce,1979
+Gilberto Gil,Raça Humana,1984
+Gilberto Gil,Extra,1983
+Gilberto Gil,Gilberto Gil,2021
+Gilberto Gil,Expresso 2222,2022
+Gilberto Gil,O Melhor De... Gilberto Gil Em Montreux,1981
+Gilberto Gil E Jorge Ben,Ogum Xangô,1975
+Gilberto Gil E Jorge Ben / Raul Seixas / The Who / Cat Stevens,Jurubeba / Como Vovó Já Dizia / Postcard / Ready To Love,1975
+Gilberto Gil/ BaianaSystem,Gil Baiana Ao Vivo Em Salvador,2020
+Gilberto Gil/ Bubuska Valença,Marinho, O Marinheiro,1982
+Gilberto Santamaria,Um Homem Comum / Viva A Vida / Venha Logo / Eu Gosto,1978
+Gilson Peranzzetta,Paisagem Brasileira,1986
+Gilson Peranzzetta,Cantos Da Vida,1988
+Gilson Peranzzetta,Portal Dos Magos,1985
+Gilson Peranzzetta & Mauro Senise,Uma Parte De Nós,1990
+Gilsons,Eu Vejo Luz Em Maior Proporção Do Que Eu Vejo A Escuridão,2026
+Gilvan De Oliveira,Cordas E Coração,1989
+Gilvan De Oliveira,Vinícius Nas Cordas De Gilvan,1990
+Glauco Velásquez / Francisco Braga - Trio Da Rádio MEC,Trio N.º 2 / Trio,1979
+Glen Campbell,Galveston,1969
+Glorinha Gadelha,Bendito O Fruto,1981
+Gonzaguinha,Caminhos Do Coração,1982
+Gonzaguinha,Recado,1978
+Gonzaguinha,Alô Alô Brasil,1983
+Gonzaguinha,Alô Alô Brasil,1983
+Gonzaguinha,Grávido,1984
+Gonzaguinha,Geral,1987
+Gonzaguinha,Moleque,1977
+Gonzaguinha,Corações Marginais,1988
+Gonzaguinha,Luiz Gonzaga Jr.,1974
+Gonzaguinha,Olho De Lince (Trabalho De Parto),1985
+Gonzaguinha,Gonzaguinha Da Vida,1978
+Gonzaguinha,De Volta Ao Começo,1980
+Gonzaguinha,Coisa Mais Maior De Grande Pessoa,1981
+Gonzaguinha,Começaria Tudo Outra Vez...,0
+Gonzaguinha,Plano De Vôo,0
+Gonzaguinha,Luiz Gonzaga Jr.,2023
+Gracia Do Salgueiro & Velha,Fusão Do Samba,1975
+Gracindo Jr./ The Pop's,Liberdade Para As Borboletas,0
+Gracinha Leporace,Gracinha Leporace,2025
+C1 - fim
+C2 - inicio
+Grupo Acaru,Aqualouco,1981
+Grupo Da Velha Guarda,Festival Da Velha Guarda,1956
+Grupo De Cana-Verde Iguape,Cana-Verde / Ceará,1982
+Grupo De Caxambu,Caxambu,1976
+Grupo de Fandango Da Ilha Dos Valadares,Fandango Do Paraná,1976
+Grupo De Fandango Os Tropeiros Da Mata,Fandango / SP,1981
+Grupo De Música Brasileira,Depoimento Instrumental,0
+Grupo De Percussão Do Instituto De Artes Do Planalto - Unesp,II Prêmio Eldorado De Música - 86,1987
+Grupo De Tarituba,Ciranda De Paraty,1976
+Grupo De Torém / Almofala / Acaraú / Ceará,Torém / Ceará,1979
+Grupo Dos Foliões,Folia 78 Comando Geral,1977
+Grupo Dos Jangadeiros / Iguape / Aguirás / Ceará,Coco / Ceará,1980
+Grupo Engenho,Engenho,1981
+Grupo Engenho,Força Madrinheira,1983
+Grupo Engenho,Vou Botá Meu Boi Na Rua,1981
+Grupo Entradas E Bandeiras,Cantos Da Terra,1981
+Grupo Favela,Grupo Favela,1982
+Grupo Folclórico Banzé,Grupo Folclórico Banzé,0
+Grupo Folia De Reis Estrela D'Alva Do Oriente,Folia De Reis,1977
+Grupo Irapuá,Grupo Vocal Irapuá,0
+Grupo Joel Lourenço,Samba De Caboclo - RJ,1977
+Grupo Karetas,Grupos Karetas,1985
+Grupo Matita Perê,Sertanejo Com Amor,1979
+Grupo Medusa,Ferrovias,1983
+Grupo Medusa,Grupo Medusa,1981
+Grupo Opção,Grupo Opção,1981
+Grupo Raizes,Olhe Bem As Montanhas,1980
+Grupo Reis-De-Bois De Conceição Da Barra / Es,Reis-De-Bois / ES,1983
+Grupo Terra De Santa Cruz,Gôôôô-ôôl ! Brasil !!! / A Ordem Do Rei,1978
+Grupo Um,A Flor De Plastico Incinerada,1983
+Grupo Verde Terra,Nós, Os Loucos,1987
+Grupo Zurana,Sorte,1977
+Guaxe,Guaxe,2019
+Guem,O Universo Ritmico De Guem,1982
+Guerreiro Da Boa Sorte,Guerreiro,1975
+Gueto,E Agora Pra Dançar?,1989
+Gueto,Estação Primeira,1987
+Guilherme Arantes,Meu Mundo E Tudo Mais (Ao Vivo),0
+Guilherme Arantes,Deixa Chover,1981
+Guilherme Arantes,Romances Modernos,1989
+Guilherme Arantes,Pão,1990
+Guilherme Arantes,Castelos,1993
+Guilherme Arantes,Despertar,1985
+Guilherme Arantes,Calor,1986
+Guilherme Arantes,Guilherme Arantes,1987
+Guilherme Arantes,Guilherme Arantes,1982
+Guilherme Arantes,Crescente,1992
+Guilherme Arantes,Guilherme Arantes,1976
+Guilherme Arantes,Ligação,1983
+Guilherme Arantes,Coração Paulista,1980
+Guilherme Arantes,Guilherme Arantes,2024
+Guilherme Arantes,Guilherme Arantes,0
+Guilherme Arantes,A Cara E A Coragem,0
+Guilherme Arantes,Êxtase,1988
+Guilherme de Brito,Projeto Preservação Da Música Popular,1988
+Guilherme De Brito,Guilherme De Brito,1980
+Guilherme Lamounier,Guilherme Lamounier,2022
+Guilherme Vergueiro,Naturalmente,1980
+Guilherme Vergueiro,Naturalmente,2002
+Guriatã Do Norte E Waldevino,Na Festa Da Vaquejada,0
+Guttemberg Guarabyra E Grupo Terra Molhada/ Ricardo Magno,Folia De Feijão,1982
+Halley Flamarion,Pianos E Cordas,1988
+Hang The Superstars,Pussy Control,0
+Harry (2),Caos,1987
+Heitor Villa-Lobos,Heitor Villa Lobos,1986
+Heitor Villa-Lobos,Concourse Internacional De Conjuntos Instrumentais 1972,1973
+Heitor Villa-Lobos - Orquestra Do Teatro Municipal Do Rio De Janeiro/ Laszlo Halasz,Villa-Lobos Na Música Sinfônica,1974
+Heitor Villa-Lobos / Burle Marx / Edino Krieger / Marlos Nobre,Violoncelo  Festival Villa-Lobos 1976,1977
+Heitor Villa-Lobos Par Turibio Santos,Douze Etudes Pour Guitare,1969
+Hélio Delmiro,Romã In Concert,1991
+Hélio Delmiro,Chama,1984
+Hélio Delmiro,Emotiva,1980
+Hellnation / Merda,Outlaw Thrash / Radicalismo Fashion,2001
+Henrique Annes E Rossini Ferreira,Chorinho Do Capibaribe,1985
+Henrique Oswald  – Elias Slon/ Jorge Salim/ Michel Verebes/ Kim Cook (3)/ José Eduardo Martins,Música De Câmara Vol. 1,1984
+Henrique Oswald  – Honorina Silva,Honorina Silva Interpreta Henrique Oswald,1979
+Henrique Oswald / Bruno Kiefer (2)  – Trio Da Rádio MEC,Henrique Oswald: Trio Op.45; Bruno Kiefer: Trio,1979
+Heraldo Do Monte,Cordas Mágicas,1987
+Heraldo Do Monte,Cordas Vivas,1983
+Herbert Vianna,Ê Batumaré,1992
+Herman Torres,Herman Torres,1980
+Hermes Dumont,Marcas,1983
+Hermeto Pascoal,Hermeto Solo - Por Diferentes Caminhos,1988
+Hermeto Pascoal,Ao Vivo Montreux Jazz,1979
+Hermeto Pascoal,Cérebro Magnético,1980
+Hermeto Pascoal,Hermeto,2021
+Hermeto Pascoal,Slaves Mass,1977
+Hermeto Pascoal,Zabumbê-bum-á,1979
+Hermeto Pascoal,A Música Livre De Hermeto Paschoal,1986
+Hermeto Pascoal & Hermeto Pascoal & Grupo Vice Versa,Viajando Com O Som (The Lost '76 Vice-Versa Studio Session),2017
+Hermeto Pascoal E Grupo,Hermeto Pascoal & Grupo,1982
+Hermeto Pascoal E Grupo,Lagoa Da Canoa Município De Arapiraca,1984
+Hermeto Pascoal E Grupo,Festa Dos Deuses,2024
+Hermínio Bello De Carvalho Com Ciro Monteiro/ Nora Ney/ Clementina De Jesus/ Conjunto Rosa De Ouro,Mudando De Conversa,1968
+Heróis Da Resistência,Double De Corpo,1987
+Heróis Da Resistência,Heróis Da Resistência,1986
+Heros Vital Brazil,Ironia,0
+Hojerizah,Hojerizah,1987
+Holandes Voador,Holandes Voador,1986
+Homem De Bem,Mantras Indianos,1989
+Honorina Silva/ Joaquim Antônio Barrozo Netto/ Carlos Mesquita,Honorina Silva Interpreta Barrozo Netto E Carlos Mesquita,1984
+Horace Green,Sempre Melhor,2013
+Ilha Do Amor,Bumba Meu Boi,1982
+In Venus,Sintoma,2021
+Indigo Sparke,Echo,2021
+Inimigos Do Rei,Inimigos Do Rei,1989
+Invoquei O Vocal,Invoquei o vocal,1987
+Ira!,Clandestino,1990
+Ira!,Psicoacústica,1988
+Ira!,Ira!,2022
+Ira!,Vivendo E Não Aprendendo,0
+Irene Portela,Rumo Norte,1979
+Isis Moreira/ Almeida Prado/ Heitor Villa-Lobos,Isis Moreira, Pianista - Almeida Prado: Variações, Recitativo E Fuga; Momento / Villa-Lobos: Bachianas Brasileiras Nº 4,1974
+Ivan Carlos,Interpreta Temas Originais Do Filme João de Barro,1978
+Ivan Lins,A Noite,1979
+Ivan Lins,Agora,1971
+Ivan Lins,Daquilo Que Eu Sei,1981
+Ivan Lins,Mãos,1987
+Ivan Lins,Amar Assim,1988
+Ivan Lins,Chama Acesa,1975
+Ivan Lins,Ivan Lins - 20 Anos Ao Vivo,1991
+Ivan Lins,Ivan Lins,1986
+Ivan Lins,Awa Yiô,1990
+Ivan Lins,Nos Dias De Hoje,1978
+Ivan Lins,Novo Tempo,1980
+Ivan Lins,Somos Todos Iguais Nesta Noite,1977
+Ivan Lins,Juntos,0
+Ivan Paulo,Brasil Gafieira,1992
+Ivo Meirelles,Vaidade Verde-Rosa,1986
+Jaceguay Lins,Coronel Delmiro Gouveia,0
+Jackson Do Pandeiro,Jackson Do Pandeiro,1959
+Jackson Do Pandeiro,O Cabra Da Peste,2023
+Jackson Do Pandeiro,Sua Majestade - O Rei Do Ritmo,1960
+Jacob Do Bandolim,Assanhado,0
+Jacob Do Bandolim/ Paulo Tapajós,Os Saraus De Jacob,1971
+Jair Rodrigues,Tengo Tengo / Martim Cererê,1971
+Jair Rodrigues,Os Melhores Sambas Enredo De 1974,1973
+Jair Rodrigues,Jair Rodrigues,1987
+Jair Rodrigues,Jair Rodrigues,1989
+Jair Rodrigues,Lamento Sertanejo,1991
+Jair Rodrigues,Jair Rodrigues,1985
+Jair Rodrigues,Alegria De Um Povo,1981
+Jair Rodrigues,É Isso Aí...,1971
+Jair Rodrigues,10 Anos Depois,1974
+Jair Rodrigues,...Abra Um Sorriso Novamente...,1974
+Jair Rodrigues,Eu Sou O Samba,1975
+Jair Rodrigues,Estou Com O Samba E Não Abro!,1977
+Jair Rodrigues,Antologia Da Seresta,1979
+Jair Rodrigues,Estou Lhe Devendo Um Sorriso,1980
+Jair Rodrigues,Jair De Todos Os Sambas,1969
+Jair Rodrigues,Talento E Bossa,1970
+Jair Rodrigues,Pisei Chão,1978
+Jair Rodrigues,Com A Corda Toda,1972
+Jair Rodrigues,Orgulho De Um Sambista,1973
+Jair Rodrigues,Minha Hora E Vez,1976
+Jair Rodrigues,Couro Comendo,1979
+Jair Rodrigues,Luzes Do Prazer,1984
+Jair Rodrigues,Festa Para Um Rei Negro,1971
+Jair Rodrigues,O Sorriso Do Jair,1966
+Jair Rodrigues,Jair De Todos Os Sambas No. 2,1969
+Jair Rodrigues,Jair,1968
+Jair Rodrigues,Antologia Da Seresta Vol. 2,1981
+Jamelão,Jamelão,1974
+Jamelão,Recantando Mágoas - Lupi, A Dor E Eu,1987
+Jamelão,Minhas Andanças,1993
+Jamelão,Folha Morta,1977
+Jamelão,Jamelão E Os Sambas Mais,1961
+Jamelão,Aqui Mora O Ritmo,1962
+Jamelão,Jamelão,1973
+Jamelão,O Sucesso,1975
+Jamelão,Cuidado Moço,1969
+Jamelão,Jamelão Interpreta Lupicínio Rodrigues,0
+Jamelão,O Autêntico Jamelão (O Bom),0
+Jamelão,Jamelão,1975
+Jamelão,Os Grandes Sucessos De Jamelão,1983
+Jamelão,Ela Disse-me Assim...,0
+Janaína (5),Quem Tem... Tem,1978
+Jane Duboc,Feliz,1988
+Jane Duboc,Jane Duboc,1987
+Jane Duboc,Jane Duboc,1982
+Jararaca E Ratinho,Jararaca E Ratinho,1983
+Jards Macalé,Besta Fera,2019
+Jards Macalé,Jards Macalé,2012
+Jards Macalé/ Dalva Torres,Ismael Silva - Peçam Bis,1988
+Jazz Brazzil,Ao Vivo No People,0
+Jeanne Moreau/ Chico Buarque/ Raimundo Fagner,Trilha Sonora Do Filme Joanna Francesa,1973
+Jerry Adriani,Jerry Adriani,1973
+Jerzy Milewski,Tocando Brasil,1991
+Jô Soares,A B.... E Outras Estórias,1980
+Joana Queiroz,Tempo Sem Tempo,2021
+Joanna (9),Nascente,1979
+Joanna (9),Estrela - Guia,1980
+João Bosco,O Mestre Sala Dos Mares/De Frente Pro Crime/Escadas Da Penha/Kid Cavaquinho,1975
+João Bosco,Comissão De Frente,1982
+João Bosco,Ao Vivo 100ª Apresentação,1983
+João Bosco,Cabeça De Nego,1986
+João Bosco,Bosco,1989
+João Bosco,Zona De Fronteira,1991
+João Bosco,Na Onda Que Balança,1994
+João Bosco,Acústico MTV,1992
+C2 - fim
 C3 - inicio
-Milton Nascimento,Clube daw Esquiffna,1972
-Milton Nascimento,Clube daew Esqffffuina,1972
-Milton Nascimento,Clubwee da Esgfgdquina,1972
-Milton Nascimento,Clube dea Esquin434a,1972
-Milton Nascimento,Cleweube da Esqueweina,1972
+João Bosco,Ai, Ai, Ai De Mim,1986
+João Bosco,Caça À Raposa,1975
+João Bosco,Galos De Briga,1976
+João Bosco,Tiro De Misericórdia,1977
+João Bosco,Linha De Passe,1979
+João Bosco,Bandalhismo,1980
+João Bosco,Essa É A Sua Vida,1981
+João Bosco,João Bosco,1981
+João Bosco,Gagabirô,1985
+João Caetano,João Caetano,1988
+João Chiador,Bumba Meu Boi Da Maioba,1983
+João De Barro,Série Documento,1972
+João Do Vale,João Do Vale,1981
+João Donato,Lugar Comum,1975
+João Donato,Serotonina,2024
+João Donato,Quem É Quem,2017
+João Gilberto,Live At The 19th Montreux Jazz Festival,1986
+João Gilberto,João Gilberto Ao Vivo No Sesc_1998,2023
+João Gilberto,João,1991
+João Gilberto,Amoroso,1977
+João Gilberto,João Gilberto Prado Pereira De Oliveira,1980
+João Gilberto,O Amor, O Sorriso E A Flor,1972
+João Gilberto,Chega De Saudade / Bim Bom,1958
+João Gilberto,Lôbo Bôbo / Maria Ninguém,1959
+João Gilberto/ Maria Bethânia/ Caetano Veloso/ Gilberto Gil,Brasil,1983
+João Nogueira,Vem Quem Tem,1975
+João Nogueira,Boca Do Povo,1980
+João Nogueira,Espelho,1977
+João Nogueira,Vida Boêmia,1978
+João Nogueira,E Lá Vou Eu,1974
+João Nogueira,Clube Do Samba,1979
+João Nogueira,Wilson, Geraldo, Noel,1981
+João Nogueira,O Homem Dos Quarenta,1981
+João Nogueira,Bem Transado,1983
+João Nogueira,Pelas Terras Do Pau-Brasil,1984
+João Nogueira,De Amor É Bom,1985
+João Nogueira,João Nogueira,1986
+João Nogueira,Além Do Espelho,1992
+João Nogueira,João Nogueira,1972
+João Pedro Borges/ Paulinho Da Viola/ César Faria,Brasil Instrumental,1985
+João Penca E Seus Miquinhos Amestrados,Os Maiores Sucessos De,1983
+João Penca E Seus Miquinhos Amestrados,Cem Anos De Rock'N'Roll,1991
+João Penca E Seus Miquinhos Amestrados,Sucesso Do Inconsciente,1989
+João Penca E Seus Miquinhos Amestrados,Além Da Alienação,1988
+João Ricardo (2),João Ricardo,1975
+João Saldanha (3),O Mundo De João Saldanha,0
+João Villaret,Recital de Poesia Brasileira,0
+João Villaret,Moderna Poesia Brasileira,0
+Joãozinho Da Goméia,Rei Do Candomblé,1969
+Joel Bello Soares,Momentos Musicais, De Carlos Gomes A Nazareth,1980
+Joel De Castro,Interpreta Os Poetas Da Portela,0
+Jograis De São Paulo,MODERNA POESIA BRASILEIRA,0
+Johnny Alf,Olhos Negros,1990
+Jonas Sá,Puber,2018
+Jorge Autuori Trio,Jorge Autuori Trio - Vol.1,2002
+Jorge Ben,O Circo Chegou,1973
+Jorge Ben,Jazz Potatoes,1973
+Jorge Ben,O Reino Encantado Do Amor / Rio Babilônia,1983
+Jorge Ben,Ben,1972
+Jorge Ben,À L'Olympia,1975
+Jorge Ben,Solta O Pavão,1975
+Jorge Ben,Tropical,1977
+Jorge Ben,Salve Simpatia,1979
+Jorge Ben,Alô Alô, Como Vai?,1980
+Jorge Ben,Benjor,1989
+Jorge Ben,Negro É Lindo,2012
+Jorge Ben,Ben É Samba Bom,2014
+Jorge Ben,A Tábua De Esmeralda,2020
+Jorge Ben,Jorge Ben,1969
+Jorge Ben,O Bidú: Silêncio No Brooklin,0
+Jorge Ben,Fôrça Bruta,0
+Jorge Ben,África Brasil,2010
+Jorge Ben,Recital,1977
+Jorge Ben,10 Anos Depois,1973
+Jorge Ben,Sabor Tropical,1986
+Jorge Ben E Ruy Quaresma/ Nelson Wellington/ Alceu Maia,Marte Invade A Terra,1982
+Jorge Ben E Trio Mocotó,Cosa Nostra,1970
+Jorge Mautner,Cidadão-Cidadã / Samba Japonês,1980
+Jorge Mautner,Bomba De Estrelas,1981
+Jorge Mautner,Não Há Abismo Em Que O Brasil Caiba,2019
+Jorge Mello,Um Trovador Eletrônico - Volume 2,0
+Jorge Mello,Integral,1977
+Jorge Veiga,Alô! Alô! Canta Jorge Veiga,1958
+Jorge Veiga,O Caricaturista Do Samba,0
+Jorginho Do Império,Brasil... Quem Quiser Pode Ir,1973
+Jorginho Do Império,Viagem Encantada,1975
+José Camelo De Mello,O Pavão Misterioso,1983
+José João Dos Santos,Literatura De Cordel,1975
+José Mauricio Nunes Garcia,Missa de Santa Cecília,1982
+José Mauricio Nunes Garcia/ Orquestra Sinfônica Brasileira/ Edoardo de Guarnieri,Missa De Requiem (1816),1968
+José Mauricio Nunes Garcia/ Ruth Serrão,Método De Pianoforte Do Compêndio De Música,1983
+José Ribamar da Silva,Nosso Encontro De Amor,1969
+José Tobias & Radamés Gnattali/ Camerata Carioca/ Octeto Brasilis,Rapsódia Brasileira,0
+Josyara,Mansa Fúria,2019
+Jota.pê,Se O Meu Peito Fosse O Mundo,2024
+Jovelina Pérola Negra,Jovelina Pérola Negra,1986
+Jovelina Pérola Negra,Luz Do Repente,1987
+Joyce,Music Inside,1990
+Joyce,Passarinho Urbano,2022
+Joyce & Gilson Peranzzetta,Tom Jobim Os Anos 60,1987
+Joyce/ Vinicius De Moraes,Negro Demais No Coração,1988
+Juarez E Seu Conjunto,Bossa Nova Nos States,1962
+Juarez Moreira,Bom Dia,1989
+Juca Chaves,As Músicas Proibidas,1968
+Juca Chaves,Ao Vivo,1972
+Juçara Marçal,Delta Estácio Blues,2022
+Juliano Holanda,Espaço - Tempo,2015
+Junia Horta,Não Me Lembre Demais, Nem Me Esqueça,1980
+Junior (226),Voa Canarinho,1982
+Jupiter Maçã,Beatle George / Scotch And Coffee At Regent Street,2006
+Jupiter Maçã,A Marchinha Psicótica De Dr. Soup / Mademoiselle Marchand,2006
+Jurema,Eu Nasci No Samba,1979
+K. Ximbinho,Saudades De Um Clarinete,1981
+Karina Buhr,Desmanche,2019
+Karina Buhr,Longe De Onde,2020
+Karma (37),Karma,1972
+Kid Abelha,Pintura Intima,1983
+Kid Abelha,Educação Sentimental,1985
+Kid Abelha,Seu Espião,1984
+Kid Vinil E Os Heróis Do Brasil,Kid Vinil E Os Heróis Do Brasil,1986
+Kiko Dinucci,Rastilho,2020
+Kiko Dinucci,Na Boca Dos Outros,2022
+Kiko Zambianchi,Kiko Zambianchi,1987
+Kiko Zambianchi,Era Das Flores,1989
+Kiko Zambianchi,Quadro Vivo,1986
+Kiko Zambianchi,Choque,1985
+Killing Chainsaw,Killing Chainsaw,1992
+Kleiton & Kledir,Kleiton & Kledir,1980
+Kleiton & Kledir,Kleiton & Kledir,1981
+Kleiton & Kledir,Kleiton & Kledir,1984
+Kleiton & Kledir,Kleiton E Kledir,1986
+Kleiton & Kledir,Kleiton & Kledir,1983
+Kongo,King Kongo,1986
+Lado B,Lado B,1985
+Laércio De Freitas,São Paulo No Balanço Do Choro - Ao Nosso Amigo Esmê,1980
+Lafayette (5),Music To Watch Girls By,1967
+Lafayette (5),Apresenta Os Sucessos Vol. 13,1972
+Lafayette (5),Apresenta Os Sucessos Vol.XX,1977
+Lafayette (5),Lafayette,1976
+Lafayette (5),Apresenta Os Sucessos Vol.11,1971
+Lafayette & Os Tremendões,Lafayette & Os Tremendões,2006
+Lásaro Sampaio,Lásaro Especial,0
+Lázaro Do Piauí,Pão Com Mel,1990
+Lê Almeida,Revi,2009
+Lê Almeida,Mono Maçã,2011
+Leci Brandão,Comprometida,1991
+Leci Brandão,Leci Brandão,1985
+Leci Brandão,Um Beijo No Seu Coração,1988
+Leci Brandão,As Coisas Que Mamãe Me Ensinou,1989
+Leci Brandão,Cidadã Brasileira,1990
+Leci Brandão,Dignidade,1987
+Leci Brandão,Coisas Do Meu Pessoal,1977
+Leci Brandão,Atitude,1993
+Leci Estrada,Voar Com Gaiola E Tudo / Seu Moço,1980
+Leci Estrada,Leci Estrada,1981
+Lee Marcos,Fim de Semana,1986
+Legião Urbana,O Descobrimento Do Brasil,1993
+Legião Urbana,Dois,1986
+Legião Urbana,Que País É Este 1978/1987,1987
+Legião Urbana,As Quatro Estações,1989
+Legião Urbana,Legião Urbana,1985
+Legião Urbana,V,1991
+Lenine & Marcos Suzano,Olho De Peixe,2023
+Lenita Bruno/ Francisco Mignone/ Mozart Camargo Guarnieri,Trezentos, 350,1983
+Leno (2),Encontros No Tempo,1981
+Leny Andrade,Leny Andrade,1984
+Leny Andrade,Inverno & Verão Apresenta Leny Andrade,1985
+Leny Andrade & César Camargo Mariano,Nós,1993
+Leny Eversong,A Voz De Leny Eversong,1955
+Leo Jaime,Sônia,1983
+Leo Jaime,Sessão Da Tarde,1985
+Leo Jaime,Vida Difícil,1986
+Leo Jaime,Direto Do Meu Coração Pro Seu,1988
+Leo Jaime,Sexo, Drops & Rock'N'Roll,1990
+Leo Jaime,Avenida Das Desilusões,1989
+Leonardo Boccia,Homenagem,2018
+Leoni (11),Garotos II -  O Outro Lado,1993
 C3 - fim
+C4 - inicio
+Les Incompris,Les Incompris,0
+Letieres Leite & Orkestra Rumpilezz,Moacir De Todos Os Santos,2022
+Letieres Leite Quinteto,O Enigma Lexeu,2026
+Letrux,Letrux Como Mulher Girafa,2023
+Lia De Itamaracá,Ciranda Sem Fim,2019
+Liniker,Indigo Borboleta Anil,2021
+Lívia Nery,Estranha Melodia,2020
+Lo Borges,Sonho Real,1984
+Lo Borges,Nuvem Cigana,1982
+Lo Borges,Solo,1987
+Lo Borges,A Via-Láctea,1982
+Lo Borges,Lô Borges,2017
+Lobão,Cuidado!,1988
+Lobão,Vida Bandida,1987
+Lobão,Sob O Sol De Parador,1989
+Lobão E Os Ronaldos,Ronaldo Foi Pra Guerra,1984
+Los Hermanos (3),4,2024
+Lourdes Rodrigues,Utopia,1985
+Lourenço Baeta,Lourenço Baêta,1979
+Lourinaldo Vitorino,Aboios E Poemas Matutos,0
+Lucas Santtana,Super Violão Mashup / Recado Para Pio Lobato,2011
+Luciano Perrone E Seus Os Ritmistas Brasileiros,Batucada Fantástica Vol. 3 (Grand Prix Du Disque),0
+Lucinha Araújo,Do Mesmo Verão,1980
+Ludovic (5),Idioma Morto,2022
+Ludovic (5),Servil,2024
+Luedji Luna,Bom Mesmo É Estar Debaixo D'Água,2021
+Luedji Luna,Um Mar Pra Cada Um,,2025
+Luis Bacalov/ Sergio Bardotti E Chico Buarque,Os Saltimbancos Trapalhões,1981
+Luis Vagner,Simples,2021
+Luiz Américo,Camisa 10,1973
+Luiz Arruda Paes/ Nelson Ayres (2)/ Luiz Roberto/ Heraldo Do Monte,O Som Brasileiro Do Bamerindus,1981
+Luiz Avellar,Luiz Avellar,0
+Luiz Ayrão,Conto Ate Dez,1976
+Luiz Ayrão,Novidades,1982
+Luiz Ayrão,Luiz Ayrão,1974
+Luiz Ayrão,Missão,1975
+Luiz Bandeira,Nas Madrugadas Do Rio,1965
+Luiz Bonfá,Luiz Bonfá Toca Melodias Das Américas,1958
+Luiz Bonfá,Alta Versatilidade,1957
+Luiz Bonfá,Jacarandá,1973
+Luiz Bonfá,Black Orpheus Impressions,1972
+Luiz Caldas,Magia,1985
+Luiz Caldas,Retrato,1992
+Luiz Caldas,Flor Cigana,1986
+Luiz Caldas,Lá Vem O Guarda,1987
+Luiz Caldas,Muito Obrigado,1988
+Luiz Caldas,Timbres,1989
+Luiz Caldas,Nós,1990
+Luiz Camilo,Luiz Camilo,1987
+Luiz Carlos Magno,Tudo Gira / Eu Te Amo, Eu Te Quero, Eu Te Adoro / Calendário / Marionettes,1978
+Luiz Carlos Magno,Luiz Carlos Magno,1979
+Luiz Claudio Ramos,Luiz Claudio Ramos,1980
+Luiz Duarte,Testemunho,1979
+Luiz Eça & Jerzy Milewski,Ensemble, Duas Suítes Instrumentais De Luiz Eça,1988
+Luiz Gonzaga,Eu E Meu Pai,1979
+Luiz Gonzaga,O Homem Da Terra,1980
+Luiz Gonzaga,Sertão 70,1970
+Luiz Gonzaga,A Triste Partida,0
+Luiz Gonzaga & Raimundo Fagner,Luiz Gonzaga & Fagner,1984
+Luiz Gonzaga E Gonzaguinha,A Vida Do Viajante,1981
+Luiz Henrique,Mestiço,2022
+Luiz Melodia,Felino,1983
+Luiz Melodia,Claro,1987
+Luiz Melodia,Pintando O Sete,1991
+Luiz Melodia,Pérola Negra,2020
+Luiz Melodia,Nós,1991
+Luiz Vieira,Na Asa Do Vento,1978
+Luiz Vieira,Luiz Vieira,1974
+Luiz Waack,Vidros E Trilhos,1990
+Luiza Maura,Recado De Samba,1976
+Lula Carvalho,Coisas Da Vida,1978
+Lula Queiroga,Aboiando A Vaca Mecânica,2025
+Luli E Lucina,Luli & Lucinha,2023
+Lulu Santos,Mondo Cane,1992
+Lulu Santos,Assim Caminha A Humanidade,1994
+Lulu Santos,Honolulu,1990
+Lulu Santos,Lulu,1986
+Lulu Santos,Toda Forma De Amor,1988
+Lulu Santos,Popsambalanço E Outras Levadas,1989
+Lulu Santos,Tempos Modernos,1982
+Lulu Santos,O Ritmo Do Momento,1983
+Lulu Santos,Tudo Azul,1984
+Lulu Santos,Normal,1985
+Lulu Santos & Auxílio Luxuoso,Amor À Arte,1988
+Luni,Luni,1988
+Luperce Miranda,Sapequinha,1978
+Lupicínio Rodrigues,Dor De Cotovelo,1983
+Lupicínio Rodrigues,Gravações Originais,1974
+Madrigal Renascentista,Música Nova do Brasil,1979
+Magazine (2),Magazine,1983
+Mahmundi,Mahmundi,2024
+Majó,O Carimbó,1976
+Manfredo Fest,Brazilian Dorian Dream,2020
+Manito,O Incrível Manito,2025
+Manoel Batista X Zé Batista,Repentes E Emboladas,1986
+Manuel Bandeira/ Carlos Drummond de Andrade,Poesias Volume I,0
+Manuel Marques,As Pupilas Do Senhor Reitor,1970
+Mara Do Nascimento,Instrumental,1982
+Marcelo (2),Olhos Diamante,1987
+Marcelo Barra/ José Eduardo Morais,Coisas Tão Nossas,1981
+Marcelo Callado,Musical Porém,2017
+Marcelo Callado,Callado Compacto,2016
+Marcelo D2,Assim Tocam Os Meus Tambores,2020
+Marcelo D2,A Procura Da Batida Perfeita,2025
+Marcelo D2,Iboru,2024
+Marcelo D2,Eu Tiro É Onda,2021
+Marcelo D2 & SambaDrive,Direct-To-Disc,2025
+Márcia/ Eduardo Gudin/ Paulo César Pinheiro,O Importante É Que A Nossa Emoção Sobreviva Nº2,1976
+Márcio Greyck,Sentimento,1979
+Márcio Hallack,Talismã,1987
+Marcio Montarroyos,Carioca,0
+Marcio Montarroyos/ Orquestra Som Livre,4 Temas Originais De Novela - Carinhoso,1973
+Marcio Montarroyos/ Stone Alliance,Marcio Montarroyos / Stone Alliance,1978
+Marco Antonio Araujo,Influências,1981
+Marco Antonio Araujo,Lucas,1984
+Marco Antonio Araujo,Entre Um Silencio E Outro,1983
+Marco Antonio Araujo,Animal Racional,1985
+Marcos Ariel & Grupo Usina,O Malabarista,1983
+Marcos Resende,Por Incrível Que Pareça (Trilha Sonora Original),1986
+Marcos Resende & Index,Festa Para Um Novo Rei,1978
+Marcos Resende & Nivaldo Ornelas,Som E Fantasia,0
+Marcos Sabino,Simples Situation,1985
+Marcos Sabino,Reluz,1982
+Marcos Sabino,Iluminar,1983
+Marcos Valle,Marcos Valle,1974
+Marcos Valle,Previsão Do Tempo,1973
+Marcos Valle,Marcos Valle,2023
+Marcos Valle/ Paulo Sérgio Valle/ Azymuth,O Fabuloso Fittipaldi,1973
+Marcus Drummond,Tanta Festa,1982
+Marcus Viana,Fantasia De Natal,1989
+Marcus Vinicius,Nordestino,1979
+Margareth Menezes,Um Canto Pra Subir,1990
+Maria Alcina,Maria Alcina,1974
+Maria Alcina,Maria Alcina,1973
+Maria Beraldo,Cavala,2019
+Maria Bethânia,Teresinha,1978
+Maria Bethânia,Olho D'Água,1992
+Maria Bethânia,Talismã,1980
+Maria Bethânia,Ciclo,1983
+Maria Bethânia,A Beira E O Mar,1984
+Maria Bethânia,Memória Da Pele,1989
+Maria Bethânia,Alteza,1981
+Maria Bethânia,Álibi,1978
+Maria Bethânia,Mel,1979
+Maria Bethânia,Dezembros,1986
+Maria Bethânia,Maria,1988
+Maria Bethânia,Nossos Momentos,1982
+Maria Bethânia,Pássaro Proibido,1976
+Maria Bethânia,Pássaro Da Manhã,1977
+Maria Bethânia,Drama,1972
+Maria Bethânia,Drama 3º Ato Luz Da Noite,1973
+Maria Bethânia,Ao Vivo,1970
+Maria Bethânia,A Tua Presença,1971
+Maria Bethânia,Maria Bethania,1971
+Maria Bethânia,Maria Bethânia,1981
+Maria Bethânia,Recital Na Boite Barroco,0
+Maria Bethânia,Maria Bethânia,0
+Maria Bethânia,Rosa Dos Ventos,1985
+Maria Bethânia,A Cena Muda,1974
+Maria Bethânia,Palco Iluminado,1985
+Maria Bethânia E Caetano Veloso,Ao Vivo,1978
+Maria Creuza,Eu Disse Adeus,1973
+Maria Creuza,Doce Veneno,1978
+Maria Creuza,Pecado,1979
+Maria Creuza,Maria Creuza,1972
+Maria Creuza,Da Cor Do Pecado,1989
+Maria Creuza,Todo Sentimento,1991
+Maria Creuza,Maria Creuza E Os Grandes Mestres Do Samba,1975
+Maria Creuza,Sessão Nostalgia,1974
+Maria Creuza,Meia Noite,1977
+Maria Creuza/ Toquinho & Vinicius,Eu Sei Que Vou Te Amar...,1972
+Maria D'Apparecida,Chante Baden Powell,1977
+Maria do Socorro,Revoada,1989
+Maria Lúcia Godoy,Maria Lúcia Godoy Interpreta Villa Lobos,1977
+Maricene Costa,Correntes Alternadas,1992
+Marilia Barbosa,Filme Nacional,1978
+Marilia Medalha,Boias De Luz,1978
+Marilia Medalha,Caminhada,1973
+Marilia Medalha & Vinicius De Moraes,Marilia Vinicius,1972
+Marina Lima,Certos Acordes,1981
+Marina Lima,Desta Vida, Desta Arte,1982
+Marina Lima,Marina Lima,1991
+Marina Lima,O Chamado,1993
+Marina Lima,Todas,1985
+Marina Lima,Todas Ao Vivo,1986
+Marina Lima,Virgem,1987
+Marina Lima,Próxima Parada,1989
+Marina Lima,Fullgás,1984
+Marina Lima,Simples Como Fogo,1988
+Marina Sena (2),Vício Inerente,2023
+Marina Sena (2),Coisas Naturais,2025
+Marina Sena (2),De Primeira,2021
+Marinho,Eu Sou Assim / A Minha Vinganca,1977
+Marinho Da Muda,Ninguem Tasca (O Gavião),1972
+Marino Cafundó De Moraes/ Casa Dos Violeiros Do Brasil,Missa Sertaneja,1979
+Mário Albanese,Jequibáu Na Broadway,1967
+C4 - fim
+C5 - inicio
+Mário Lago,Nada Além,1991
+Mario Pinheiro,Monumento Da Música Popular Brasileira - Os Pioneiros Vol. 3 - Mário Pinheiro,0
+Mario Quintana,Antologia Poética De Mário Quintana,1983
+Marisa,Viagem / Samba Do Estácio,1972
+Marisa,Marisa,1974
+Marisa,Encontro De Amor,1976
+Marisa Monte,Mais,1991
+Marisa Monte,Verde Anil Amarelo Cor De Rosa E Carvão,2021
+Marisa Monte,Memórias, Crônicas E Declarações De Amor,2026
+Markinhos Moura,Meu Mel / Vibração,1987
+Marku,Marku,2020
+Marlene (9),Te Pego Pela Palavra,1974
+Marlos Nobre,Mosaico / Rhythmetron,1972
+Marlos Nobre,Concerto Breve / Divertimento Para Piano E Orquesta,1976
+Marlos Nobre/ Nicolau Kokron/ Rinaldo Rossi,MEC 70 Música Do Brasil Vol. 2,0
+Marquinhos Satã,Meu Dia A Dia,1991
+Mart'Nália,Pagode Da Mart’Nália,2025
+Martinho Da Vila,Vai Meu Samba, Vai!,1991
+Martinho Da Vila,Ao Rio De Janeiro,1994
+Martinho Da Vila,Festa Da Raça,1988
+Martinho Da Vila,O Canto Das Lavadeiras,1989
+Martinho Da Vila,Portuñol  Latinoamericano,1980
+Martinho Da Vila,Verso... Reverso,1982
+Martinho Da Vila,Samba Enredo,1980
+Martinho Da Vila,Novas Palavras,1983
+Martinho Da Vila,Criações E Recriações,1985
+Martinho Da Vila,Batuqueiro,1986
+Martinho Da Vila,Coração Malandro,1987
+Martinho Da Vila,Martinho Da Vila Isabel,1984
+Martinho Da Vila,Batuque Na Cozinha,1972
+Martinho Da Vila,Meu Laiáraiá,1970
+Martinho Da Vila,Origens (Pelo Telefone),1973
+Martinho Da Vila,Martinho Da Vida,1990
+Martinho Da Vila,Canta Canta, Minha Gente,1974
+Martinho Da Vila,Maravilha De Cenário,1975
+Martinho Da Vila,Rosa Do Povo,1976
+Martinho Da Vila,Presente,1977
+Martinho Da Vila,Tendinha,1978
+Martinho Da Vila,Terreiro, Sala E Salão,1979
+Martinho Da Vila,Martinho Da Vila,1969
+Martinho Da Vila,Martinho Da Vila,1974
+Martinho Da Vila,Memórias De Um Sargento De Milícias,0
+Martinho Da Vila E Seus Convidados Antonio Grande/ Darcy da Mangueira/ Zuzuca/ Anália Mendonça,Nem Todo Crioulo É Doido,1978
+Martins (2),Martins,2023
+Mateus Aleluia,Cinco Sentidos,2020
+Mateus Aleluia,Fogueira Doce,2019
+Mathuzalém,As Aventuras De Mathuzalem / Antes Do Fim Do Mundo,1977
+Matí E Malú,Amando A Natureza,1979
+Matogrosso & Mathias,Pedaço De Minha Vida,1978
+Maura Moreira,O Canto da Terra,1979
+Maurício (4),Maurício,1982
+Mauricio Einhorn,Me,1980
+Mauricio Einhorn & Sebastião Tapajós,Maurício Einhorn & Sebastião Tapajós,1984
+Maurício Pereira,Micro,2022
+Maurício Pereira,Outono No Sudeste,2020
+Maurício Tapajós,Olha Aí!,1980
+Maurício Tizumba,Caras e Caretas,1988
+Mauro Senise,Jade,1989
+Mauro Senise,Mauro Senise,1988
+Maysa Matarazzo,Ando Só Numa Multidão De Amores,1970
+MC Sombra,Fantástico Mundo Popular,2019
+MC Tha,Rito De Passá,2020
+Mechanics (4),Sex, Rockets And Filthy Songs,1998
+Meirelles E Sua Orquestra,Brazilian Beat Vol. 2,1967
+Meirelles E Sua Orquestra,Brasilian Explosion,1974
+Meirelles E Sua Orquestra,Brazilian Beat Vol. 4,1969
+Mentecaptos Eróticos,Soundtrack! Demo EP,1991
+Merda,Descarga Adrenérgica,2017
+Mestre Ambrósio,Terceiro Samba,2021
+Mestre Ambrósio,Fuá Na Casa De Cabral,2021
+Mestre Anderson Miguel,Sonorosa,2020
+Metá Metá,Metal Metal,2021
+Metá Metá,IGBÁ,2020
+Metrô,A Mão De Mao,1987
+Metrô,Olhar,1985
+Michael Sullivan (2),Sou Brasileiro...,1978
+Michael Sullivan (2),Talismã,1992
+Mike Falcão,Jato Ao Redor Do Mundo,1961
+Millor Fernandes,O Melhor Do Millôr,1978
+Miltinho,Reprise De Sucessos,1964
+Miltinho,Poema Do Olhar,1962
+Miltinho,Poema Do Adeus,1961
+Miltinho,Miltinho É Samba,1963
+Miltinho (2),New Malemolência,1986
+Milton Banana,Milton Banana,1973
+Milton Banana,Milton Banana,1975
+Milton Banana,Milton Banana,1971
+Milton Banana Trio,Ao Meu Amigo Chico,1979
+Milton Banana Trio,Ao Meu Amigo Vinicius (Samba É Isso Vol. 5),1981
+Milton Banana Trio,Samba É Isso,1977
+Milton Banana Trio,Balançando Com Milton Banana Trio,0
+Milton Carlos,Largo do Boticário,1976
+Milton Carlos,Inédito,1978
+Milton Carlos,Samba Quadrado,1975
+Milton Nascimento,Clube Da Esquina 2,1978
+Milton Nascimento,Zé Prequeté,1982
+Milton Nascimento,Sentinela,1980
+Milton Nascimento,Caçador De Mim,1981
+Milton Nascimento,Ănĭmă,1982
+Milton Nascimento,Encontros E Despedidas,1985
+Milton Nascimento,Miltons,1988
+Milton Nascimento,O Planeta Blue Na Estrada Do Sol,1991
+Milton Nascimento,Txai,1990
+Milton Nascimento,Journey To Dawn,1979
+Milton Nascimento,Minas,1975
+Milton Nascimento,Tarde,2026
+Milton Nascimento,Travessia,2025
+Milton Nascimento,Milton,2022
+Milton Nascimento,Yauaretê,1987
+Milton Nascimento,Milton,1977
+Milton Nascimento,Milagre Dos Peixes,1973
+Milton Nascimento,Milton Nascimento,1981
+Milton Nascimento,Courage,0
+Milton Nascimento,Travessia (Edição Histórica),0
+Milton Nascimento,Milagre Dos Peixes,1985
+Milton Nascimento,Milton Nascimento,0
+Milton Nascimento,Ao Vivo,1986
+Milton Nascimento,Geraes,0
+Milton Nascimento & Lo Borges,Clube Da Esquina,0
+Milton Nascimento & Som Imaginario,Milagre Dos Peixes (Gravado Ao Vivo),1974
+Milton Nascimento & Wayne Shorter,A Barca Dos Amantes,1986
+Milton Nascimento/ Pedro Casaldáliga/ Pedro Tierra,Missa Dos Quilombos,1982
+Mineiro-Pau / Santo Antônio de Pádua,Mineiro-Pau / RJ,1977
+Miss Lene,Quem É Ele,1978
+Missinho,Garoto De Rua,1987
+Missinho,Neons Dos Guetos,1986
+Mister Sam,O Melhor Do Mister Sam,1983
+Miucha,Cálice,1978
+Miucha E  Antonio Carlos Jobim,Vai Levando / Maninha,1977
+Moacir Santos,Coisas,2013
+Moacyr Franco,Moacyr Franco,1973
+Moleque De Rua,Moleque De Rua,1992
+Mombojó,Nadadenovo,2019
+Momento 68,1-3-4 O'Clock,2000
+Monarco,Terreiro,1980
+Monarco,Monarco,1986
+Mongol (5),Atalho,1981
+Mongol (5),Esse Fogo Em Mim / Alguma Coisa,1980
+Mônica Salmaso,Iaiá,2021
+Monkey Jhayam,Pulele,2019
+Moraes Moreira,Sangue Swing E Cintura,1982
+Moraes Moreira,Bazar Brasileiro,1980
+Moraes Moreira,Moraes Moreira,1981
+Moraes Moreira,Pintando O Oito,1983
+Moraes Moreira,República da Música,1988
+Moraes Moreira,Cidadão,1991
+Moraes Moreira,Mancha De Dendê Não Sai,1984
+Moraes Moreira,Bahiano Fala Cantando,1988
+Moraes Moreira,Mestiço É Isso,1986
+Moraes Moreira,Terreiro Do Mundo,1993
+Moraes Moreira,Cara E Coração,1977
+Moraes Moreira,Alto Falante,1978
+Moraes Moreira,Lá Vem O Brasil Descendo A Ladeira,1979
+Moraes Moreira,Moraes Moreira,2024
+Moraes Moreira,Moraes Moreira,2024
+Moraes Moreira,Coleção Sucessos,1991
+Moraes Moreira,Coisa Acesa,1982
+Moraes Moreira & Pepeu Gomes,Moraes & Pepeu,1990
+Moreira Da Silva,O Jovem Moreira,1979
+Moreira Da Silva,Morengueira,1968
+Moreira Da Silva,O Rei Do Gatilho,1985
+C5 - fim
+D1 - inicio
+Moreira Da Silva,Conversa De Botequim,1970
+Moreira Da Silva,O Último Malandro,1968
+Moreira Da Silva,MoRingoEira,0
+Moreno Veloso,Mundo Paralelo,2025
+Moto Perpétuo,Moto Perpétuo,2024
+MPB4,Sucessos Vol. 5,1976
+MPB4,Tempo Tempo,1982
+MPB4,Caminhos Livres,1983
+MPB4,Adivinha O Que É,1981
+MPB4,4 Coringas,1984
+MPB4,MPB-4 Interpreta Chico Buarque,1985
+MPB4,Feitiço Carioca - Do MPB4 Para Noel Rosa,1987
+MPB4,Antologia,1974
+MPB4,Palhaços E Reis,1974
+MPB4,10 Anos Depois,1975
+MPB4,Bons Tempos, Hein?!,1979
+MPB4,Canto Dos Homens,1976
+MPB4,Antologia do Samba - Vol. II,1977
+MPB4,Amigo É Pra Essas Coisas,1989
+MPB4,Sambas Da Minha Terra,1991
+MPB4,MPB4,1969
+MPB4,MPB4,1967
+MPB4,Vira Virou,0
+MPB4,De Palavra Em Palavra,1985
+MPB4,Cicatrizes,0
+MPB4 / Os Mutantes,Sabiá / Caminhante Noturno,1968
+MPB4/ Fernando Gama/ Bettina Graziani/ Loma Pereira,Adivinhe Se É Capaz,1983
+MPB4/ Quarteto Em Cy,Cobra De Vidro,1978
+MQN,Devil Woman,2001
+MQN,Fuck CD Sessions Vol.1,2007
+MQN / Satan Dealers,We Feel Like A Bullet,2006
+MQN/ Thee Butchers' Orchestra,Hot Rod Music,2001
+Mukeka Di Rato,Hitler's Dog Stalin Rats,2015
+Mundo Livre SA,Samba Esquema Noise,2024
+Mundo Livre SA,Guentando A Ôia,2020
+Mundo Livre SA,Por Pouco,2024
+Mustache & Os Apaches,Chuva Ácida / Todo Trem,2014
+MV Bill,Traficando Informação,2020
+Nalva Aguiar/ Marcelo Costa (2),Sinfonia Sertaneja - Trilha Sonora do Filme,1979
+Nana Caymmi,Renascer,1976
+Nana Caymmi,Nana Caymmi,1975
+Nana Caymmi,E A Gente Nem Deu Nome,1981
+Nana Caymmi,Nana,1977
+Nana Caymmi,Atras Da Porta,1977
+Nana Caymmi,Nana Caymmi,1979
+Nana Caymmi & Wagner Tiso,Só Louco,1989
+Nana Caymmi e César Camargo Mariano,Voz E Suor,1983
+Nana Caymmi/ Dori Caymmi E Danilo Caymmi,Caymmi's Grandes Amigos,1986
+Naná Vasconcelos,Amazonas,1973
+Naná Vasconcelos E Itamar Assumpção,Isso Vai Dar Repercussão,2022
+Naná Vasconcelos/ Nelson Angelo/ Novelli,Naná Nelson Angelo Novelli,2023
+Nando Carneiro,Topazio,1988
+Nando Cordel,Folia Brasileira,1987
+Nando Reis,Para Quando O Arco-Íris Encontrar O Pote De Ouro,2022
+Nara Leão,O Rapto Das Cebolinhas,1982
+Nara Leão,A Banda,1966
+Nara Leão,Meu Primeiro Amor,1975
+Nara Leão,Com Açúcar Com Afeto,1980
+Nara Leão,Garota De Ipanema,1986
+Nara Leão,Meus Sonhos Dourados,1987
+Nara Leão,Os Meus Amigos São Um Barato,1977
+Nara Leão,...E Que Tudo Mais Vá Pro Inferno,1978
+Nara Leão,Meu Samba Encabulado,1983
+Nara Leão,Abraços E Beijinhos E Carinhos Sem Ter Fim...,1984
+Nara Leão,Opinião De Nara,2022
+Nara Leão,Nara Leão,1984
+Nara Leão & Roberto Menescal,Um Cantinho, Um Violão,1985
+Nara Leão E Teresa Quaresma,O Circo Cheio De Lua,1984
+Nara Leão/ Fernando Gama/ Luciano Alves,A Salamanca Do Jarau,1984
+Nara Leão/ Ronaldo Mota/ Jane Duboc,Sapo Vira Rei Vira Sapo,1982
+Natan Marques & Ricardo Leão,Dois,1989
+Natan Marques & Ricardo Leão,Comboio,1987
+Naum (3),Temas Do Filme Rockmania,1986
+Nazareno E Pena Branca,Imenso Prazer / Culpas,1976
+Nazareno E Pena Branca,Vai Doer / Frevo Do Adeus,1974
+Nazareno E Pena Branca,Um Sorriso E Tudo Bem,1975
+Neguinho da Beija-Flor,Ofício De Puxador,1985
+Neguinho Da Beija-Flor,Poetas De Calçada,1991
+Neguinho da Beija-Flor,Carente De Afeto,1989
+Neguinho da Beija-Flor,Meu Sorriso,1987
+Neguinho da Beija-Flor,Meu Mundo Novo,1983
+Nei Lopes,Negro Mesmo,1983
+Nélio Torres,Tambaú,1990
+Nelsinho E Sua Orquestra,Nelsinho Espetacular,1968
+Nelson Ayres (2),Nelson Ayres,1978
+Nelson Ayres (2),Mantiqueira,1981
+Nelson Cavaquinho,As Flores Em Vida,1985
+Nelson Ferreira,50 Anos Em 7 Notas: Meio Século De Frevo De Rua Vol. 2,1973
+Nelson Ned,Nelson Ned,1970
+Nelson Sargento,Encanto Da Paisagem,1986
+Nerino Silva,Nerino Silva,1974
+Ney Matogrosso,Água Do Céu - Pássaro,2023
+Ney Matogrosso,As Ilhas,1975
+Ney Matogrosso,Mato Grosso,1982
+Ney Matogrosso,...Pois É,1983
+Ney Matogrosso,Destino De Aventureiro,1984
+Ney Matogrosso,Bugre,1986
+Ney Matogrosso,Pecado,1977
+Ney Matogrosso,Bandido,1976
+Ney Matogrosso,Quem Não Vive Tem Medo Da Morte,1988
+Ney Matogrosso,Pescador De Pérolas,1987
+Ney Matogrosso,Ao Vivo,1989
+Ney Matogrosso,Seu Tipo,1979
+Ney Matogrosso,Sujeito Estranho,1980
+Ney Matogrosso,Bandido,2025
+Ney Matogrosso,Feitiço,1978
+Ney Matogrosso,Ney Matogrosso,1982
+Ney Matogrosso,Coração Aprisionado,1983
+Ney Matogrosso & Aquarela Carioca,As Aparências Enganam,1993
+Ney Matogrosso & Raphael Rabello,À Flor Da Pele,1990
+Ney Matogrosso/ Vital Lima,Perere Na Pororoca,1983
+Nilo Amaro E Seus Cantores De Ébano,Raízes,1980
+Nilo Amaro E Seus Cantores De Ébano,Os Anjos Cantam,1962
+Nilson Chaves,Dança De Tudo,1981
+Nilson Chaves & Vital Lima,Interior,1986
+Nilton Delfino Marçal,Recompensa,1985
+Nilton Delfino Marçal,Senti Firmeza,1986
+Nilton Delfino Marçal,Sem Meu Tamborim Não Vou,1987
+Nilton Delfino Marçal,A Incrível Bateria Do Mestre Marçal,1987
+Nilze Carvalho,Choro De Menina Vol. 2,1981
+Nilze Carvalho,Choro De Menina Vol. 3,1982
+Nilze Carvalho,Choro De Menina Vol.4,1983
+Nilze Carvalho,Choro De Menina,1983
+Nina Becker,Vermelho,2010
+Nivaldo Ornelas,Nivaldo Ornelas,1978
+No Artist,O Brasil Na Copa Do Mundo (A Conquista Do Tri Minuto Por Minuto),0
+Nó Brasileiro,Nó Brasileiro,1990
+Noca Da Portela E Ratinho De Pilares,Não Me Venha Com Indireta,1984
+Noel Rosa,Canções De Noel Rosa Cantadas Por Noel Rosa,1955
+Noite Ilustrada,Noite Ilustrada,1976
+Nonato Buzar,Nonato Buzar E O País Tropical,1976
+Nora Ney,Tire Seu Sorriso Do Caminho, Que Eu Quero Passar Com A Minha Dor,1974
+Norma Bengell,Norma Canta Mulheres,1977
+Nostalgia Eletrônica Orchestra,Nostalgia Eletrônica Orchestra,1975
+Nouvelle Cuisine (3),Nouvelle Cuisine,1988
+Novelli,Canções Brasileiras,2024
+Núbia Lafayette,Brasil Sentimental,0
+Núbia Moreira,Canto Ecológico,0
+O Cúmplice,O Cúmplice,2012
+O Grande Ah!,O Grande Ah!,1988
+O Pessoal,O Pessoal,1973
+O Terno,O Terno,2024
+Obina Shok,Obina Shok,1986
+Obina Shok,Salleé,1988
+Octavio Burnier,Dança Infernal,1979
+Odair José,Esta Noite Voce Vai Ter Que Ser Minha / Mande Nem Que Seja Um Telegrama / Cristo, Quem É Voce? / Eu Queria Ser John Lennon,1972
+Odair José,Uma Vida Só (Pare De Tomar A Pílula),1973
+Odair José,Odair José,1980
+Odair José,Luz Acesa,1994
+Odair José,Odair José,1992
+Odair José,Odair José,1990
+Odair José,Odair José,1985
+Odair José,Eu, Você E O Sofá,1984
+Odair José,Fome De Amor,1983
+Odair José,Viva E Deixa Viver,1981
+Odair José,Odair José,1993
+Odair José,Lembranças,1974
+Odair José,Odair,1975
+Odair José,Histórias E Pensamentos,1975
+Odair José,Assim Sou Eu...,1972
+Odair José,Odair José,1986
+Odair José,Só Por Amor,1982
+Odair José,O Filho De José E Maria,2019
+Olegário Mariano/ Álvaro Moreyra,Poesias Volume 5,0
+Olivia Hime,O Fio Da Meada,1985
+Olodum,The Best Of Olodum,1992
+Onéssimo Gomes,Serestas Do Brasil,1957
+Orchestra Lyrio Panicali,A Lira Do Lírio,1972
+Orchestre National De France/ Heitor Villa-Lobos/ Victoria De Los Angeles/ Fernand Dufrène/ René Plessier,Bachianas Brasileiras - Vol. 3  - Bachianas Nos. 5, 6 E 7,0
+Orlando Silva,Orlando Silva,1985
+Orlando Silveira E Seu Conjunto,Lábios Que Beijei,1962
+Orquestra Afro-Brasileira,Orquestra Afro-Brasileira,2014
+Orquestra Afrosinfônica,Orín, A Língua Dos Anjos,2021
+Orquestra Armorial,Orquestra Armorial,1975
+Orquestra Armorial,Chamada,1975
+Orquestra Armorial,Orquestra Armorial Vol. 4,1979
+Orquestra Armorial,Gavião,1976
+Orquestra De Cordas Brasileiras,Orquestra De Cordas Brasileiras,1989
+Orquestra De Cordas Dedilhadas De Pernambuco,Cordas Dedilhadas,1987
+Orquestra De Cordas Dedilhadas De Pernambuco,Orquestra De Cordas Dedilhadas De Pernambuco,1984
+Orquestra De Cordas Dedilhadas De Pernambuco/ Claudionor Germano/ Expedito Baracho/ Martha (25),Capiba 80 Anos,1984
+Orquestra E Coro Cid,Hinos Dos Campeōes,1977
+Orquestra Frevo Do Mundo,Orquestra Frevo Do Mundo, Vol. 1,2020
+Orquestra Harmônicas De Curitiba,Orquestra Harmônicas De Curitiba,1988
+Orquestra Lira Sanjoanense / Coral Da Orquestra Lira Sanjoanense / Lira Ceciliana,Minas, 1717-1977 (Região Do Rio Das Mortes),1977
+Orquestra Tabajara De Severino Araújo,Amazonas,1986
+Os 6 Mais Numa Imagem Barroca,Os 6 Mais Numa Imagem Barroca,1968
+Os Cariocas,Os Cariocas De Quatrocentas Bossas,1965
+Os Cariocas,A Bossa Dos Cariocas,1978
+Os Carioquinhas,Os Carioquinhas No Choro,1977
+Os Estudantes / Merda,Os Estudantes / Merda,2015
+Os Haxixins,Noites Brancas,2010
+Os Mulheres Negras,Música E Ciência,1988
+Os Mulheres Negras,Música Serve Pra Isso,2019
+Os Novos Baianos,Bêsta É Tu,1972
+Os Novos Baianos,Acabou Chorare,2025
+Os Novos Baianos,Novos Baianos F.C.,2022
+Os Novos Baianos,Acabou Chorare,1984
+Os Novos Batutas,Os Melhores Sambas De Todos Os Tempos,0
+Os Originais Do Samba,Pra Que Tristeza,1974
+Os Originais Do Samba,Alegria De Sambar,1975
+Os Paralamas Do Sucesso,D,1987
+Os Paralamas Do Sucesso,Bora-Bora,1988
+Os Paralamas Do Sucesso,Big Bang,1989
+Os Paralamas Do Sucesso,Selvagem?,1986
+Os Paralamas Do Sucesso,Os Grãos,1991
+Os Paralamas Do Sucesso,Cinema Mudo,1983
+Os Paralamas Do Sucesso,Ronca Ronca Apresenta Os Paralamas Do Sucesso Ao Vivo,2022
+Os Paralamas Do Sucesso,Severino,2019
+Os Pedrero,Pin Up Gordinha,2010
+Os Pedrero,Lúcifer,2013
+Os Populares De Igarapé-Miri,Lambadas Incrementadas,1980
+Os Replicantes,Papel De Mau,1989
+Os Replicantes,O Futuro É Vórtex,1986
+Os Ritmistas Brasileiros Conduzidos Por Luciano Perrone,Batucada Fantástica,1967
+Os Ritmistas Brasileiros Conduzidos Por Luciano Perrone,Batucada Fantástica,1975
+Os Rouxinóis,Isto É Lamartine,1963
+Os Saltimbancos,Os Saltimbancos,1977
+Os Tatuís,Os Tatuís,1965
+Os Tincoãs,Canto Coral Afrobrasileiro,2023
+Os Trapalhões,Os Trapalhões Na Serra Pelada,1982
+Os Trapalhões,Vol. I  - Gravado Ao Vivo,0
+Os Últimos Românticos Da Rua Augusta,Boliviano,2013
+Oscar Borgerth/ Ilara Gomes Grosso/ Heitor Villa-Lobos,Sonata-Fantasia (Desperance),1979
+Osvaldo Nunes,Você Me Chamou,1971
+Osvaldo Nunes,Osvaldo Nunes,1972
+Osvaldo Nunes,Ai, Que Vontade,1978
+Osvaldo Nunes,Bota Samba Nisso,1970
+Osvaldo Nunes,Ôba!,1968
+Osvaldo Nunes E The Pop's,Segura Este Samba Ogunhê,1970
+Oswaldinho Do Acordeon,Céu E Chão,1983
+Oswaldinho Do Acordeon,Forró In Concert,1980
+Oswaldo Montenegro,Condor,1985
+Otacílio Batista/ Oliveira De Panelas,A Arte Da Cantoria, V. 2 - Regras Da Cantoria,1984
+Otto,Certa Manhã Acordei De Sonhos Intranquilos,2024
+Otto/ Tulipa Ruiz/ Do Amor/ Cidadão Instigado,Ronca Ronca,2010
+P. Trio,Embalo,1967
+Pachequinho,Brasil: New Dimension Of Samba,0
+Pachequinho,Música Do Coração,1961
+Pacifico Mascarenhas,Sambacana,1981
+Pacifico Mascarenhas,IV Sambacana,1976
+Pacifico Mascarenhas/ Conjunto Sambacana,VI Sambacana (Praça Da Savassi),1988
+Padre Cícero,Sua Vida, Seus Milagres,1975
+Papangu,Holoceno,2022
+Papangu,Lampião Rei,2025
+Papavento,Aurora Dórica,1984
+Papete,Papete,1987
+Papete,Planador,1981
+Papete,Rompendo Fogo,1990
+Papete,Bela Mocidade,1991
+Partido Em 5,Partido Em 5,1982
+Pascoal Meirelles,Considerações A Respeito,1981
+Pascoal Meirelles,Anna,1987
+Pascoal Meirelles,Tambá,1983
+Passoca,Que Moda!,1979
+Patife Band,Corredor Polonês,1987
+Pato Fu,30,2025
+Patrick Hernandez And Jorge Ben,Someone's Stepping On My Mushrooms,1980
+Pau Brasil,Cenas Brasileiras,1987
+Pau Brasil,Pau Brasil,1983
+Pau Brasil,Pindorama,1986
+Paulinho Boca De Cantor,Carnaval Já,1984
+Paulinho Boca De Cantor,Prazer De Viver,1982
+Paulinho Da Costa,Paulinho Da Costa,1984
+Paulinho Da Viola,Foi Um Rio Que Passou Em Minha Vida,1970
+Paulinho Da Viola,Prisma Luminoso,1983
+Paulinho Da Viola,Paulinho Da Viola,1971
+Paulinho Da Viola,Nervos De Aço,1973
+Paulinho Da Viola,Paulinho Da Viola,1975
+Paulinho Da Viola,Memórias 2 Chorando,1976
+Paulinho Da Viola,Memórias 1 Cantando,1976
+Paulinho Da Viola,Eu Canto Samba,1989
+Paulinho Da Viola,Paulinho Da Viola,1978
+Paulinho Da Viola,Foi Um Rio Que Passou Em Minha Vida,1970
+Paulinho Da Viola,A Dança Da Solidão,1972
+Paulinho Da Viola,Dez Anos,1985
+Paulinho Da Viola & Elton Medeiros / Velha Guarda da Portela,A Arte Do Encontro,1991
+Paulinho Da Viola E A Voz Do Morro,Roda De Samba Volume 2,1974
+Paulinho Moska,Vontade,1993
+Paulinho Nogueira,Nas Asas Do Moinho,1979
+Paulinho Nogueira,Moda De Craviola,1975
+Paulinho Nogueira,Paulinho Nogueira, Violão E Samba,1973
+Paulinho Nogueira,Paulinho Nogueira,1977
+Paulinho Nogueira,Água Branca,1983
+Paulinho Nogueira,O Fino Do Violão,1965
+Paulinho Nogueira,Canta Suas Composições,1970
+Paulinho Queiroga & Marcelo Farias,Música Doce,1982
+Paulinho Soares,Paulinho Soares,1978
+Paulinho Tapajós,Coisas Do Coração,1981
+Paulinho Tapajós,Paulinho Tapajós,1974
+Paulinho Tapajós,A História Se Repete,1978
+Paulo Autran,Paulo Autran,1982
+Paulo Autran/ Carlos Drummond De Andrade,Paulo Autran Interpreta Carlos Drummond De Andrade: Poemas E Crônicas,1986
+Paulo Barroso,Vozes Da Cidade,1982
+Paulo Britto,Atenção,1977
+Paulo César Pinheiro,Paulo César Pinheiro,1980
+Paulo César Pinheiro,Poemas Escolhidos,1984
+Paulo César Pinheiro,Paulo Cesar Pinheiro,1974
+Paulo Diniz,Canção Do Exílio,1984
+Paulo Diniz,Lugar Comum,1973
+Paulo Diniz,Estradas,1976
+Paulo Diniz,Brasil, Brasa, Braseiro,0
+Paulo Fabiano,O Marginal / Travesseiro Molhado,1979
+Paulo Florence/ Claudio Santoro E Mozart Camargo Guarnieri - Oscar Borgerth,Sonata Fantasia / Sonata Para Violino Solo / Canto No. 1 E Sonata No. 4,1979
+Paulo Freire,Órgão + Batucada = Samba,1978
+Paulo Miklos,A Gente Mora No Agora,2017
+Paulo Moura,Mistura E Manda,1984
+D1 - fim
 D2 - inicio
-Secos & Molhados,Secos & Molhados,1973
-Milton Nascimento,Clube da Esquina 2,1978
-Flaming Lips,Clube we Esquiffna,1972
-Queens of the stone age,Clube we Esquiffna,1972
+Paulo Moura,Gafieira Etc & Tal,1986
+Paulo Moura,Confusão Urbana, Suburbana E Rural,1976
+Paulo Moura E Ociladocê,Interpretam Dorival Caymmi,1991
+Paulo Ramos,A Vida Me Ensinou,1981
+Paulo Sérgio (2),Amor Tem Que Ser Amor,1977
+Paulo Tapajós,Monumento Da Música Popular Brasileira - Paulo Tapajós,1976
+Paulo Vanzolini,Onze Sambas E Uma Capoeira,1975
+Paulo Vanzolini,Por Ele Mesmo,1979
+Pedra De Cantaria,Projeto Guriatã,1980
+Pedrinho Rodrigues,Geraldo Pereira,1984
+Pedrinho Rodrigues,Samba É Bom Assim,1976
+Pedrinho Rodrigues,Geraldo Pereira,1984
+Pedrinho Rodrigues / Os Nacionais,Brasil . . . Sambe Ou Se Mande,1972
+Pedrinho Rodrigues / Os Nacionais,Brasil . . . Sambe Ou Se Mande. Vol. II,1973
+Pedrinho Rodrigues E Samba Som Sete,Adeus Guanabara,1974
+Pedro Luís E A Parede,Astronauta Tupy,2024
+Pedro Paulo Castro-Neves & Michel Legrand,Pedro Paulo Castro Neves & Michel Legrand,1985
+Pedro Santos,Krishnanda,2016
+Pelé,O Mundo De Pelé,1969
+Pelé/ Various,Vida E Glória De Pelé,1971
+Pena Branca & Xavantinho,Velha Morada,1991
+Pena Branca & Xavantinho,Cio Da Terra,1987
+Pena Branca & Xavantinho,Canto Violeiro,1988
+Pena Branca & Xavantinho,Violas E Canções,1993
+Pena Branca & Xavantinho,Uma Dupla Brasileira,1988
+Pepe Castro Neves,Coração Vulgar,1979
+Pepeu Gomes,Energia Positiva,1985
+Pepeu Gomes,Masculino E Feminino,1983
+Pepeu Gomes,Pepeu Gomes,1981
+Pepeu Gomes,Um Raio Laser,1982
+Pepeu Gomes,Pepeu Gomes,1988
+Pepeu Gomes,Instrumental On The Road,1989
+Pepeu Gomes,Pepeu Gomes,1993
+Pepeu Gomes,Na Terra A Mais De Mil,1979
+Perla (4),Brindo Por Ti E Por Mim,1975
+Pery Ribeiro,Alvorada,1979
+Pery Ribeiro,Pery É Todo Bossa,1963
+Pery Ribeiro - Leny Andrade - Bossa Três,Gemini V,1965
+Pery Ribeiro & Leny Andrade,Gemini Cinco Anos Depois,1972
+Pery Ribeiro/ Wanda Sá/ Osmar Milito,Brasil Bossa Nova,1992
+Pery Souza,Pery Souza,1984
+Pessoal Do Victor,Na Carrêra Do Divino,1980
+Pharmacia,Pharmacia,1985
+Picassos Falsos,Picassos Falsos,1987
+Picassos Falsos,Supercarioca,1988
+Pinduca,Apresenta Kizomba Vol.17,1990
+Pinduca,No Embalo Do Carimbó E Sirimbó Vol. 5,1976
+Pinduca,Vol. 15,1986
+Pinduca,No Embalo Do Pinduca - Vol. 10,1981
+Pinduca,No Embalo Do Carimbó E Sirimbó - Vol. 7,1991
+Piry Reis,Vocês Querem Mate?,1970
+Pixinguinha,Vida E Obra,1978
+Pixinguinha,5 Companheiros,1968
+Pixinguinha,São Pixinguinha (Reedição Comemorativa Ao Projeto Pixinguinha),0
+Planet Hemp,Jardineiros,2023
+Plebe Rude,Nunca Fomos Tão Brasileiros,1987
+Plebe Rude,Plebe Rude,1988
+Plebe Rude,O Concreto Já Rachou,1985
+Poly (7)/ Waldir Azevedo,Dois Bicudos Não Se Beijam,1962
+Poly E Seu Conjunto,Jóias Sertanejas,1981
+Ponta De Rama,Ponta De Rama,1980
+Portinho E Sua Orquestra,Fogo Nos Metais,1974
+Premeditando O Breque,Alegria Dos Homens,1991
+Premeditando O Breque,Grande Coisa,1986
+Premeditando O Breque,O Melhor Dos Iguais,1985
+Premeditando O Breque,Premeditando O Breque,1981
+Premeditando O Breque,Quase Lindo,1983
+Professor Antena,Professor Antena,1994
+Quarteto Em Cy,Samba Do Crioulo Doido / Rancho De Ano Novo,1967
+Quarteto Em Cy,Antologia Do Samba Canção Vol. 2,1976
+Quarteto Em Cy,Antologia Do Samba Canção,1975
+Quarteto Em Cy,Em 1000 Kilohertz,1979
+Quarteto Em Cy,Quarteto Em Cy Interpreta: Gonzaguinha, Caetano, Ivan, Milton,1980
+Quarteto Em Cy,Resistindo - Ao Vivo,1977
+Quarteto Em Cy,Pontos De Luz,1983
+Quarteto Novo,Quarteto Novo,1973
+Quarteto Teorema,Mengo 70,1969
+Quinteto Agreste,Pássaro De Luz,0
+Quinteto Armorial,Do Romance Ao Galope Nordestino,1974
+Quinteto Armorial,Aralume,1976
+Quinteto Armorial,Quinteto Armorial,1978
+Quinteto Armorial,Sete Flechas,1980
+Quinteto Villa Lobos,Quinteto Villa-Lobos Interpreta,1977
+Quinteto Villa Lobos,Quinteto Villa-Lobos,1979
+Quinteto Violado,Severino Faz Chover,1982
+Quinteto Violado,Desafio,1981
+Quinteto Violado,Quinteto Violado,1972
+Quinteto Violado,A Feira,1974
+Quinteto Violado,Folguedo,1975
+Quinteto Violado,Antologia Do Baião,1977
+Quinteto Violado,... Até A Amazônia?!,1978
+Quinteto Violado,Pilogamia Do Baião,1979
+Quinteto Violado,Kuiré, O Concerto,1989
+Quinteto Violado,Berra Boi,1973
+Quinteto Violado,Missa Do Vaqueiro,1976
+Quinteto Violado,Missa Do Vaqueiro,1992
+Quinteto Violado,Notícias Do Brasil,1982
+Rachel Reis,Meu Esquema,2023
+Radamés Gnattali,50 Anos A Serviço Da Música Brasileira,1975
+Radamés Gnattali,Dois Concêrtos De Radamés Gnattali,1969
+Radamés Gnattali/ Adoniran Barbosa,Eles Não Usam Black-Tie,1983
+Radamés Gnattali/ Antonio Carlos Jobim/ Paulinho Da Viola/ Zé Menezes/ Chiquinho do Acordeon/ Camerata Carioca/ Brasil Quarteto,Projeto Almirante,1985
+Radamés Gnattali/ Camerata Carioca,Vivaldi & Pixinguinha,1980
+Radamés Gnattali/ Jacob Do Bandolim/ Época De Ouro/ Os Boêmios/ Orquestra Do Teatro Municipal Do Rio De Janeiro,Pinguinha/70 (Concerto Comemorativo Do 70° Aniversário De Mestre Pizinguin / Ao Vivo / 18/Maio/1968, Teatro Municipal),1977
+Rádio Jornal Do Brasil,A História De 70 Em Música E Informação,1970
+Rádio Jornal Do Brasil,A História De 68 Em Música E Informação,1968
+Raimundo Fagner,Vento Forte / Canção Brasileira,1981
+Raimundo Fagner,Raimundo Fagner,1976
+Raimundo Fagner,Palavra De Amor,1983
+Raimundo Fagner,Fagner,1985
+Raimundo Fagner,A Mesma Pessoa,1984
+Raimundo Fagner,Traduzir Se,1981
+Raimundo Fagner,Fagner,1982
+Raimundo Fagner,Beleza,1979
+Raimundo Fagner,Pedras Que Cantam,1991
+Raimundo Fagner,Demais,1993
+Raimundo Fagner,Fagner,1986
+Raimundo Fagner,Romance No Deserto,1987
+Raimundo Fagner,Caboclo Sonhador,1994
+Raimundo Fagner,O Quinze,1989
+Raimundo Fagner,Orós,1977
+Raimundo Fagner,Eu Canto / Quem Viver Chorará,1978
+Raimundo Fagner,Raimundo Fagner,1980
+Raimundo Fagner,Manera Fru Fru, Manera,1980
+Raimundo Fagner,Ave Noturna,0
+Raimundo Sodré,A Massa,1980
+Raimundo Soldado,Raimundo Soldado,1987
+Raimundo Soldado,O Astro Do Maranhão,1985
+Rakta (2),Falha Comum,2019
+Rakta (2),III,2017
+Rallye,Please Drive Faster,2013
+Rashid,Portal,2025
+Ratos De Porão,Guerra Civil Canibal,2000
+Raul de Barros,O Trombone De Ouro,1983
+Raul de Barros,Brasil, Trombone,1974
+Raul de Barros,Um Trombone Na Gafieira,1967
+Raul de Barros E Orquestra Brasilian Serenade,O Som Da Gafieira,1979
+Raul De Barros E Sua Orquestra,Ginga De Gafieira,1979
+Raul De Souza,Don't Ask My Neighbors,1978
+Raul Ellwanger,Teimoso E Vivo,1979
+Raul Seixas,Ouro De Tolo,1973
+Raul Seixas,O Dia Em Que A Terra Parou,2019
+Raul Seixas,Rock,1985
+Régis Duprat E Rogério Duprat,Valsas & Polcas,1978
+Régis Duprat E Rogério Duprat,Maxixes,1978
+Régis Duprat E Rogério Duprat,Dobrados,1978
+Régis Duprat E Rogério Duprat,A Bela Época,1978
+Reisado Do Mestre Jorge,Reisado Do Piauí,1977
+Renata Lú,Tô Voltando,1979
+Renata Rosa,Zunido Da Mata,2024
+Renato Andrade,A Magia Da Viola,1987
+Renato Andrade,A Fantástica Viola De Renato Andrade,1977
+Renato Andrade,Viola De Queluz Vol. 2,1979
+Renato Andrade,Raízes,1985
+Renato Mendes,Electronicus,1974
+Renato Motha,Brasileiro,1992
+Renato Teixeira,Iluminação - Rural,1980
+Renato Teixeira,Renato Teixeira,1986
+Renato Teixeira,Azul,1984
+Renato Teixeira,Garapa,1980
+Renato Teixeira,Romaria,1978
+Renato Teixeira,Amora,1979
+Renato Teixeira,Paisagem,1973
+Renato Teixeira,Álbum De Família,1978
+Renato Teixeira/ Chico Maranhão,Maranhão & Renato Teixeira,1969
+Renato Terra,Baby, Baby,1986
+Renato Terra/ Fernando Gama,Bom-Dia, Todas As Cores,1982
+Renegades Of Punk,Espelho Negro,2014
+Renegades Of Punk / Tuna (6),Grão,2016
+Retrofoguetes,O Maravilhoso Natal Dos Retrofoguetes,2004
+Rey Zulu,Pai É Pai, Mãe É Mãe,1992
+Reynan Di Oliveira,Menino Danado,0
+Ric Hermeto,Pedaços Do Tempo,1990
+Ricardo Bezerra,Maraponga,1978
+Ricardo Dias Gomes,-11,2015
+Ricardo Silveira,Ricardo Silveira,1987
+Rico Dalasam,Dolores Dala Guardião Do Alívio,2021
+Rildo Hora ...E Sérgio Cabral,Rildo Hora...E Sérgio Cabral,1980
+Rildo Hora E O Clube Dos 7,Samba Made In Brazil,0
+Rita Lee,José = Joséph,1970
+Rita Lee,Rita Lee,1979
+Rita Lee,Rita Lee,1980
+Rita Lee,Rita Lee Em Bossa 'N Roll,1991
+Rita Lee,Rita Lee,1993
+Rita Lee & Roberto,Zona Zen,1988
 D2 - fim
+D3 - inicio
+Rita Lee & Roberto,Rita Lee E Roberto De Carvalho,1990
+Rita Lee & Roberto,Flerte Fatal,1987
+Rita Lee & Roberto,Saúde,1981
+Rita Lee & Roberto,Rita Lee - Roberto De Carvalho,1982
+Rita Lee & Roberto,Bombom,1983
+Rita Lee & Roberto,Rita E Roberto,1985
+Rita Lee & Tutti Frutti (3),Babilônia,0
+Rita Lee & Tutti Frutti (3),Atrás Do Porto Tem Uma Cidade,2017
+Rita Lee & Tutti Frutti (3),Fruto Proibido,2023
+Rita Lee & Tutti Frutti (3),Entradas E Bandeiras,2022
+Ritchie,Canta En Español Menina Veneno,1983
+Ritchie,Loucura & Mágica,1987
+Ritchie,...E A Vida Continua...,1984
+Ritchie,Circular,1985
+Ritchie,Vôo De Coração,1983
+Ritchie,Pra Ficar Contigo,1988
+Riviera Gaz,Connection,2018
+Robertinho De Recife,E Agora Pra Vocês,1979
+Robertinho De Recife,Jardim Da Infância,1977
+Robertinho De Recife,Robertinho No Passo,1978
+Robertinho De Recife,Rapsodia Rock,1990
+Robertinho De Recife,Satisfação,1981
+Robertinho De Recife,Metal Mania,1984
+Robertinho De Recife E Emilinha,Robertinho De Recife E Emilinha,1982
+Robertinho Silva,Bodas De Prata,1989
+Roberto Carlos,Canta Para A Juventude Vol. II,1973
+Roberto Carlos,Roberto Carlos,1978
+Roberto Carlos,Quero Me Casar Contigo / Só Por Amor / Nunca Mais Te Deixarei / Oração De Um Triste,1973
+Roberto Carlos,Roberto Carlos,1969
+Roberto Carlos,Roberto Carlos,1971
+Roberto Carlos,Roberto Carlos,1972
+Roberto Carlos,Roberto Carlos,1973
+Roberto Carlos,Roberto Carlos,1974
+Roberto Carlos,Roberto,0
+Roberto Carlos,Roberto Carlos,1991
+Roberto Carlos,Roberto Carlos,1977
+Roberto Carlos,Roberto Carlos,1985
+Roberto Carlos,Roberto Carlos,1978
+Roberto Carlos,Jovem Guarda,1965
+Roberto Carlos,Roberto Carlos,1970
+Roberto Carlos,Canta Para A Juventude,0
+Roberto Carlos,O Inimitável,0
+Roberto Corrêa,Viola Caipira - Um Pequeno Concerto,1988
+Roberto Corrêa/ João Lyra/ Adelmo Arcoverde,Ao Capitão Furtado - Marvada Viola,1987
+Roberto Menescal,Ditos & Feitos,1992
+Roberto Menescal E Seu Conjunto,Bossa Nova,1964
+Roberto Ribeiro,Brasil Samba,0
+Roberto Ribeiro,Sorri Pra Vida,1987
+Roberto Ribeiro,Fala Meu Povo,1980
+Roberto Ribeiro,Roberto Ribeiro,1983
+Roberto Ribeiro,De Palmares Ao Tamborim,1984
+Roberto Ribeiro,Fantasias,1982
+Roberto Ribeiro,Roberto Ribeiro,1978
+Roberto Ribeiro,Coisas Da Vida,1979
+Roberto Ribeiro,Massa, Raça E Emoção,1981
+Roberto Ribeiro,Corrente De Aço,1985
+Roberto Ribeiro,Arrasta Povo,1976
+Roberto Ribeiro,Poeira Pura,1977
+Roberto Ribeiro,Roberto Ribeiro,1981
+Roberto Silva,Descendo O Morro Nº 4,1961
+Roberto Silva,Saudade Em Forma De Samba,0
+Roberto Silva,Descendo O Morro,0
+Roberto Silva,Samba De Morro,0
+Roberto Silva,O Samba É Roberto Silva - Nº 2,0
+Roberto Silva,Roberto Silva Interpreta Haroldo Lobo, Geraldo Pereira E Seus Parceiros,0
+Roberto Sion,Roberto Sion,1981
+Roberval Taylor,Roberval Taylor,1976
+Robynn,Sarro De Trem / Luzes Coloridos,1984
+Rock Rocket,A Dança Do Exciter,2011
+Rock Rocket,Rocket Jane,2009
+Rodger Rogério E Teti,Chão Sagrado,1975
+Rodrigo Amarante,Drama,2021
+Rodrigo Campos (2)/ Gui Amabis/ Juçara Marçal,Sambas Do Absurdo,2018
+Rodrigo Campos (2)/ Gui Amabis/ Juçara Marçal,Sambas Do Absurdo, Vol. 2,2022
+Rodrigo Vellozo,O Mestre-Sala Da Minha Saudade,2020
+Rogério Duprat,Brasil Com S,1974
+Rogério Duprat,Evocação IV - Anacleto De Medeiros,1981
+Rolando Boldrin,Giro-O-Giro,1980
+Rolando Boldrin,Rio-Abaixo,1979
+Rolando Boldrin,Violeiro,1982
+Ronald Golias,Olímpiaaaa,0
+Ronnie Von,Tranquei A Vida,1977
+Ronnie Von,Certo E Errado,1974
+Ronnie Von,Minha Gente Amiga,1971
+Ronnie Von,Tempo De Acordar / Aquela Mesma Sensação,1972
+Ronnie Von,Colher De Chá / Coisas Que Acontecem,1973
+Ronnie Von,Banda Da Ilusão / Velho Sermão,1974
+Ronnie Von,Música Para Ver A Garôta Passar,1967
+Ronnie Von,Vida E Volta,1987
+Ronnie Von,Ronnie Von,1973
+Ronnie Von,Ronnie Von,1972
+Ronnie Von,Ronnie Von,1977
+Ronnie Von,Ronnie Von,1978
+Ronnie Von,Ronnie Von,1989
+Ronnie Von,Sinal Dos Tempos,1981
+Ronnie Von,Ronnie Von,1984
+Ronnie Von,Ronnie Von,1966
+Ronnie Von,Ronnie Von Nº 3,1967
+Ronnie Von,A Misteriosa Luta Do Reino De Parassempre Contra O Império De Nuncamais,2013
+Rosa Maria,Vagando,1980
+Rosa Maria,Rosa Maria,1989
+Rosa Maria,Garra,1983
+Rosinha De Valença,Ao Vivo,1975
+Rosinha De Valença,Um Violão Em Primeiro Plano,2021
+Rossini (4),Sonhar Entre As Nuvens,1981
+Roupa Nova,Roupa Nova,1982
+Roupa Nova,Roupa Nova,1983
+Roupa Nova,Roupa Nova,1985
+Roze (3),A História Do Cavaleiro Enluarado Com A Donzela Do Bem Amar,1981
+RPM (3),Revoluções Por Minuto,1985
+RPM (3),Rádio Pirata Ao Vivo,1986
+Rubel,Beleza. Mas Agora A Gente Faz O Que Com Isso?,2025
+Rumo,Quero Passear,1988
+Rumo,Rumo Aos Antigos,1981
+Rumo,Rumo,1981
+Rumo,Caprichoso,1985
+Rumo,Diletantismo,1983
+Russo Passapusso,Paraíso Da Miragem,2021
+Russo Passapusso/ Antonio Carlos E Jocafi,Alto Da Maravilha,2023
+Ruy Maurity,Nem Ouro Nem Prata,1976
+Ruy Maurity,A Viola No Peito,1984
+Ruy Maurity,Nem Ouro, Nem Prata,1976
+Ruy Maurity,Ganga Brasil,1977
+Ruy Maurity,Natureza,1980
+Sá & Guarabyra,Roque Santeiro / A Longa Noite,1985
+Sá & Guarabyra,Cartas, Canções E Palavras,1987
+Sá & Guarabyra,Vamos Por Aí,1990
+Sá & Guarabyra,Harmonia,1985
+Sá & Guarabyra,10 Anos Juntos,1983
+Sá & Guarabyra,Paraíso Agora,1984
+Sá & Guarabyra,Pirão De Peixe Com Pimenta,1977
+Sá & Guarabyra,Quatro,1979
+Sá & Guarabyra,Nunca,1983
+Sá & Guarabyra Com Marisa Fossa,Cadernos De Viagem,1975
+Sagrado Coração Da Terra,Flecha,1987
+Sagrado Coração Da Terra,Sagrado Coração Da Terra,1985
+Samba Livre,Samba, Suor E Ouriço - Vol. 2,1977
+Samba Som Sete,Abrindo Espaço,1980
+Samuel Rosa,Rosa,2025
+Sandra De Sá,Olhos Coloridos,1982
+Sandra De Sá,Sandra!,1990
+Sandra De Sá,Lucky,1991
+Sandra De Sá,Sandra Sá,1986
+Sandra De Sá,Sandra De Sá,1988
+Sandra De Sá,Demônio Colorido,1980
+Sandra De Sá,Sandra Sá,2023
+Sandro Becker,Sandro Becker,1979
+Santa Morena,De Tudo Um Pouco,1983
+Se Essa Rua Fosse Minha,Se Essa Rua Fosse Minha,1991
+Sebastião Tapajós,Guitarra Fantástica,1977
+Sebastião Tapajós/ Pedro Santos,Sebastião Tapajós & Pedro Dos Santos - Vol.1 & 2,2022
+Secos & Molhados,Que Fim Levaram Todas As Flores,1978
+Secos & Molhados,Secos & Molhados,1973
+Secos & Molhados/ Miriam Peracchi/ Simiana Resende/ Marize De Resende,Saci Pererê Da Mata Escura,1982
+Serena Assumpção,Ascensão,2019
+Sérgio & Odair Assad,Alma Brasileira,1989
+Sérgio Mendes,Confetti,1984
+Sérgio Mendes & Brasil '66,Herb Alpert Apresenta Sergio Mendes & Brasil '66,1966
+Sérgio Mendes & Brasil '66,Ye-Me-Le,1970
+Sergio Moreira,Sergio Moreira,1986
+Sérgio Ricardo,Nova História Da Música Popular Brasileira - Sérgio Ricardo,1979
+Sérgio Ricardo,Do Lago À Cachoeira,1979
+Sérgio Ricardo,Um Senhor Talento,1967
+Sérgio Ricardo,Sergio Ricardo,1975
+Sérgio Ricardo,Estória De João-Joana,1985
+Sérgio Ricardo,A Grande Música De Sérgio Ricardo,1967
+Sérgio Sá,Voa Vida,1982
+Sérgio Sampaio,Tem Que Acontecer,2023
+Sérgio Sampaio,Sinceramente,2019
+Seu Jorge,Cru,2022
+Severino Araújo E Orquestra Tabajara,A Tabajara De Severino Araújo,1977
+Severino Araújo E Orquestra Tabajara,O Melhor Da Música Popular Brasileira,1977
+Sexo Explícito,O Disco Dos Mistérios Ou 3 Diabos E ½ Ou Sexplícito Visita O Sítio Do Pica-Pau Amarelo Ou Tributo A H. Romeu Pinto,1991
+Sexo Explícito,Combustível Para O Fogo,1989
+Sexteto Do Beco,Sexteto Do Beco,1980
+Siba (2),Máquina De Fazer Festa,2025
+Siba (2),Coruja Muda,2019
+Sidney Jones (3),Juventude, Música E Amor,0
+Sidney Magal,Sidney Magal,1977
+Sidney Magal,O Amante,1979
+Sidney Magal,Quero Te Fazer Feliz,1981
+Sidney Magal,Vibrações,1984
+Sidney Magal,Sidney Magal,1978
+Silva (13),Claridão,2012
+Silva (13),Cinco,2021
+Silvia Tape E Edgard Scandurra,Est,2016
+Silvio Brito,Proversos,1977
+Silvio Brito,Panorama Mundial,1982
+Simone (3),Cigarra,1978
+Simone (3),Sedução,1988
+Simone (3),Simone Ao Vivo (Show Gravado no Canecão em 30-12-79),1980
+Simone (3),Simone,1980
+Simone (3),Gotas D'Água,1975
+Simone (3),Quatro Paredes,1974
+Simone (3),Face A Face,1977
+Simone (3),Cigarra,1978
+Simone (3),Pedaços,1979
+Simone (3),Simone,1981
+Simone (3),Prá Não Dizer Que Não Falei Das Flores,1982
+Sirlan,Profissão De Fé,1979
+Sivuca,Sivuca Et Ses Rythmes Bresiliens,0
+Sivuca,Um Pé No Asfalto, Um Pé Na Buraqueira,1990
+Sivuca,Forró E Frevo,1980
+Sivuca,Sivuca,1978
+Sivuca,Forró E Frevo - Vol. 2,1982
+Sivuca,Forró E Frevo - Vol. 3,1983
+Sivuca,Onça Caetana,1983
+Sivuca,Cabelo De Milho,1980
+Sivuca,Live At The Village Gate,1975
+Sivuca,Som Brasil,1986
+Sivuca/ Rosinha de Valença,Gravado Ao Vivo,1977
+Skank (2),In(dig)Nação,1993
+Skank (2),Skank,1993
+Smack (3),Ao Vivo No Mosh,1985
+Smack (3),Noite E Dia,1986
+Sociedade Folclórica Boi-De-Mamão De Itacorobi,Boi-De-Mamão / SC,1978
+Som Imaginario,Som Imaginário,2020
+Som Três,Som Três Show,1968
+Som Três,Tobogã,1970
+Sombrinha,Pintura Na Tela,1994
+Sonia Lemos,O Amor Seja Bem-Vindo,1978
+Soninha Moreira,Feminino Em Canto,1989
+Sossega Leão,Sossega Leão,1985
+Stéphane Grappelli / Baden Powell,La Grande Reunion,0
+Sueli Costa,Vida De Artista,1978
+Sueli Costa,Sueli Costa,1975
+Sylvia Telles,U.S.A.,1978
+Tacio Natan,Tacio Natan*,1993
+Tagua Tagua,Inteiro Metade,2020
+Taieiras De Laranjeiras,Taieira,1976
+Taiguara,Teu Sonho Não Acabou,1972
+Taiguara,Canções De Amor E Liberdade,1983
+D3 - fim
+D4 - inicio
+Taiguara,Fotografias,1973
+Taiguara,Piano E Viola,1972
+Taiguara,Carne E Osso,1971
+Taiguara,Viagem,1970
+Taiguara,Imyra, Tayra, Ipy - Taiguara,0
+Tamba Trio,Tamba,1974
+Tamba Trio,Tamba Trio,1962
+Tambor-De-Crioula,Tambor-De-Crioula,1976
+Tania Maria,Piquant,1982
+Tania Maria et Niels-Henning Ørsted Pedersen,Tania Maria Et Niels-Henning Ørsted Pedersen,1979
+Tássia Reis,Topo Da Minha Cabeça,2024
+Tavinho Moura,Engenho Trapizonga,1982
+Tavinho Moura,Noites Do Sertão,1984
+Tavinho Moura,Tavinho Moura,1980
+Teca & Ricardo,Povo Daqui,1980
+Telex (2),Mundo Cão,1986
+Telinho / Dominguinhos do Estácio,Sambistas Unidos,1975
+Tenorio Jr.,Embalo,2017
+Teo Azevedo,Morte de Vaqueiro,1979
+Terça Maior,Menina Dos Olhos De Mar / Lendas Da Velha,1977
+Terno Rei,Gêmeos,2022
+TEST (9),Espécies,2017
+Tetê Espíndola,Gaiola,1985
+Tetê Espíndola,Pássaros Na Garganta,1982
+The Big Seven,Um Ouriço,1971
+The Big Seven,Curtição,1971
+The Big Seven,Jóia,1972
+The Big Seven,Xuxú Beleza,1973
+The Big Seven,Uma Viagem Com Os Sucessos,1970
+The Crazy Boys,Sabor De Juventude,1965
+The Dead Rocks,Tiki Twist,2007
+The Fevers,O Sol Nasce Para Todos,1975
+The Fevers,Fevers,1983
+The Night Boys,Aquarius,0
+The Pessimists,Six Songs,2016
+The Rock Fingers,Hot Line,1981
+The Tamborines,Black & Blue / Indian Hill,2011
+The War On Drugs,Lost In The Dream,2014
+Thelma Soares,Thelma Soares Interpreta Nelson Cavaquinho,1979
+Theo De Barros,Primeiro Disco,1980
+Thereza Tinoco,Sempre Me Acontece,1979
+Thiago França,Sambanzo: Etiópia,2021
+Tião Carreiro,Em Solo De Viola Caipira,0
+Ticumbi De São Benedito / Conceição Da Barra / ES,Ticumbi / ES,1979
+Tiganá Santana,Vida Codigo / Meios,2019
+Tiganá Santana,Vida-Código,2020
+Tilt (21),Flippinho,1983
+Tim Bernardes,Mil Coisas Invisíveis,2022
+Tim Bernardes,Recomeçar,2022
+Tim Maia,Acenda O Farol,1978
+Tim Maia,Leva,1984
+Tim Maia,Somos América,1987
+Tim Maia,Tim Maia,1973
+Tim Maia,Carinhos,1988
+Tim Maia,Tim Maia,1985
+Tim Maia,Disco Club,2021
+Tim Maia,Racional Vol. 1,2026
+Tim Maia,Tim Maia,1970
+Tim Maia,Tim Maia,2019
+Tim Rescala,Cliché Music,1985
+Titane,Arraial,1984
+Titãs,Titanomaquia,1993
+Titãs,Jesus Não Tem Dentes No País Dos Banguelas,1987
+Titãs,Televisão,1985
+Titãs,Cabeça Dinossauro,1986
+Titãs,Go Back,1988
+Titãs,Õ Blésq Blom,1989
+Titãs,Tudo Ao Mesmo Tempo Agora,1991
+Tito Madi,Em Nova Dimensao,1968
+Titulares Do Ritmo,Titulares Do Ritmo Interpretam Antonio Carlos Jobim E Vinicius De Moraes,1973
+Tokyo (2),Humanos,1985
+Tom E Dito,Tom E Dito,1981
+Tom Zé,Malaquias, O Macaco Cismado,1982
+Tom Zé,A Ratinha Ritinha,1982
+Tom Zé,Dona Baratinha,1983
+Tom Zé,O Mistério De Zuambelê,1982
+Tom Zé,São São Paulo,1968
+Tom Zé,Silêncio De Nós Dois,1971
+Tom Zé,Estudando O Samba,2010
+Tom Zé,Todos Os Olhos,2010
+Toninho Horta,Diamond Land,1988
+Toninho Horta,Moonstone,1990
+Toninho Horta,Toninho Horta,1989
+Tony Osanah,Touch Of Love,1987
+Toquinho,Meu Tempo E Castro Alves,1971
+Toquinho,Doce Vida,1981
+Toquinho,Coisas Do Coração,1986
+Toquinho,Boca Da Noite,1974
+Toquinho,Tocando,1977
+Toquinho,Toquinho Cantando - Pequeno Perfil De Um Cidadão Comum...,1978
+Toquinho,O Viajante Do Sonho,1992
+Toquinho,A Luz Do Solo,1989
+Toquinho & Gianfrancesco Guarnieri,Botequim,1974
+Toquinho & Vinicius,Um Pouco De Ilusão,1980
+Toquinho & Vinicius,Toquinho E Vinicius,1971
+Toquinho & Vinicius,São Demais Os Perigos Desta Vida...,1972
+Toquinho & Vinicius,O Poeta E O Violão,1975
+Toquinho & Vinicius,Vinícius & Toquinho,1974
+Toquinho & Vinicius,Vinicius  / Toquinho,1975
+Totonho,Dia A Dia,1978
+Três Marias/ Leal Brito E Orquestra,Baião Vol. 1,0
+Trio Elétrico Dodô E Osmar,Vassourinha Elétrica,1980
+Trio Elétrico Dodô E Osmar,Trio Elétrico Dodô E Osmar,1981
+Trio Elétrico Tapajós,Caetanave,1972
+Trio Esperança,Você Só Pensa Em Você / Queria Confessar,1968
+Trio Esperança,Tema de Praia / Sinto A Chuva E Vejo O Sol / Que Mais Eu Poderia Me Dar / A Noite, O Tempo E Você,1970
+Trio Esperança,O Passo Do Elefantinho / Aconteça O Que Acontecer / Filme Triste / Brôto No Cha-Cha-Cha,1963
+Trio Irakitan,Outros Sambas Que Gostamos De Cantar,1959
+Trio Mocotó,Coqueiro Verde,1970
+Trio Mocotó,Trio Mocotó,2021
+Trio Nordestino,Forró Temperado,1986
+Trio Parada Dura,Alto Astral,1983
+Trio Parada Dura,Cruz Pesada,1991
+Túlio Mourão,Jasmineiro,1984
+Túlio Mourão,Trilhos,1980
+Tulipa Ruiz,Habilidades Extraordinárias,2023
+Tulipa Ruiz,Efêmera,2020
+Tunai,Sobrou Pra Mim,1988
+Turbo Trio,Baile Bass,2022
+Turibio Santos,Choros Do Brasil,1977
+Turibio Santos E O Choros Do Brasil,Valsas E Choros,1979
+Turibio Santos/ Heitor Villa-Lobos,Villa-Violão,1987
+Turma Do P.Z.,Só Samba? Falooou!,0
+Uakti,Uakti II,1987
+Ubiratan Marques - Rowney Scott/ Reinaldo Boaventura/ Alexandre Vieira (7)/ Tâmara Pessôa,Dança Do Tempo,2024
+Uccio Gaeta,O Nôvo Som De Uccio Gaeta,1968
+Ultraje A Rigor,Inútil / Mim Quer Tocar,1983
+Uncle Butcher,African Boogie,2006
+Valdênio,Esquinas E Bares,0
+Vanusa,Um Abraço Pro Chico,1976
+Vanusa,Manhãs De Setembro,1974
+Vanusa,Vanusa 30 Anos,1977
+Varsóvia,Varsóvia,1987
+Vavá (9),Princesa Dos Canaviais,1978
+Vavá Machado E Marcolino,Isto É Festa De Vaqueiro (Aboios E Toadas),1977
+Vavá Machado E Marcolino,Aboios E Toadas,0
+Velha Guarda Da Portela,Grandes Sambistas,1986
+Venâncio E Os Baianos de Aracajú,Brasil Com S,1978
+Verônica Sabino,Brasil Romântico,1992
+Vestidos De Espaço,Pipi Popô,1989
+Victor Assis Brasil,Victor Assis Brasil,1974
+Victor Assis Brasil,Toca Antonio Carlos Jobim,1970
+Victor Assis Brasil,Esperanto,2018
+Victor Assis Brasil,Toca Antonio Carlos Jobim,1975
+Victor Assis Brasil Quarteto,Pedrinho,1980
+Victor Assis Brasil Quinteto,Victor Assis Brasil Quinteto,1979
+Victor Biglione,Victor Biglione,1986
+Victor Biglione,Baleia Azul,1987
+Vieira E Seu Conjunto,Lambadas e Cambará,1990
+Vila Sésamo,Vila Sésamo,1974
+Vilma Nascimento,Conquistado,1980
+Vinicius Cantuária,Rio Negro,1991
+Vinicius Cantuária,Sutis Diferenças,1984
+Vinicius Cantuária,Siga-Me,1985
+Vinicius Cantuária,Nu Brasil,1986
+Vinicius Cantuária,Gávea De Manhã,1983
+Vinicius De Moraes,A Arte De Vinicius De Moraes,1976
+Vinicius De Moraes,Samba Da Bênção,1967
+Vinicius De Moraes,Vinícius: Poesia E Canção Vol. II,1966
+Vinicius De Moraes,Canta Nossa Filha Gabriela,1972
+Vinicius De Moraes & Carlos Drummond De Andrade,Vinicius & Drummond,1981
+Vinicius De Moraes/ Marilia Medalha/ Toquinho,Como Dizia O Poeta...,1971
+Vinicius De Moraes/ Paulo Mendes Campos,Poesias Vol. II,1957
+Virna Lisi (2),Esperar O Que?,1993
+Vital Lima,Pastores Da Noite,1978
+Vitor Ramil,Engenho,1981
+Vitor Ramil,Tango,1987
+Vitor Ramil,Estrela, Estrela,1981
+Vitor Ramil,Ramilonga - A Estética Do Frio,2024
+Viva Voz,Viva Voz,1979
+Volantes,Maçã,2010
+Voluntários Da Pátria,Voluntários Da Pátria,1984
+Vôo Livre (4),Mala De Couro,1983
+Wagner Tiso,Toca Brasil (Arraial Das Candongas),1982
+Wagner Tiso,Ao Vivo Na Europa,1983
+Wagner Tiso,Coração De Estudante,1985
+Wagner Tiso,Branco E Preto,1986
+Wagner Tiso,Wagner Tiso's Brasil,1990
+Wagner Tiso,Trem Mineiro,1980
+Wagner Tiso,Wagner Tiso,1978
+Wagner Tiso,Assim Seja,1979
+Wagner Tiso,Profissão: Música,1991
+Wagner Tiso,Manú Çaruê - Uma Aventura Holística,1988
+Wagner Tiso,Cine Brasil,1989
+Wagner Tiso,Baobab,1990
+Wagner Tiso & César Camargo Mariano,Todas As Teclas,1983
+Waldik Soriano,Waldik Soriano,1962
+Waldir Amaral,Seleções Na Copa Do Mundo 1962,1963
+Waldir Amaral/ Jorge Curi,Mengão Bi-Campeão do Brasil,1983
+Waldir Azevedo,Delicado,0
+Waldir Azevedo/ Zé Da Velha/ Abel Ferreira/ Paulo Moura/ Copinha/ Joel Nascimento,Choro Na Praça,1977
+Waldir Calmon E Seu Conjunto,Uma Noite No Arpège N°2,1957
+Waldir Silva,Cavaquinho Camarada,1977
+Walter Franco,Revolver,2015
+Walter Franco,Ou Não,2022
+Walter Smetak,Smetak,1975
+Walter Wanderley,The Return Of The Original Walter Wanderley Sound,0
+Walter Wanderley,O Sucesso É Samba,1961
+Walter Wanderley,Brazilian Mood,0
+Walter Wanderley Set,When It Was Done,1969
+Walter Wanderley Trio,Chegança,1967
+Wander Wildner / Handsome And Heartbreakers,Caminando Y Cantando / Meus Olhos Estão Chorando,2011
+Wanderléa,Wanderléa,1981
+Wanderléa / Antônio Cláudio,A Charanga / Aleluia, Aleluinha Para Cinco Cavaleiros,1970
+Wando,Coisa Cristalina,1983
+Wando,Wando,1976
+Wando,Wando,1975
+Wando,Gôsto De Maçã,1978
+Wando,Gazela,1979
+Wando,Bem-Vindo.,1980
+Wando,Pelas Noites Do Brasil,1981
+Wando,Fantasia Noturna,1982
+Wando,Coisa Cristalina,1983
+Wando,Ilusão,1977
+Wando,Glória A Deus No Céu E Samba Na Terra,2023
+Wild Nothing,Gemini,2015
+Wilson Miranda,Relevo,1978
+Wilson Miranda,Tempo Novo,1965
+Wilson Miranda/ Chiquinho De Moraes,Independência Ou Morte (Trilha Sonora Original Do Filme),1972
+Wilson Moreira & Nei Lopes,O Partido Muito! Alto De Wilson Moreira & Nei Lopes,1985
+Wilson Simonal,Macumbancheiro / Vamos Vencer,1978
+Wilson Simonal,Jóia, Jóia,1971
+Wilson Simonal,Se Dependesse De Mim,1972
+Wilson Simonal,Alegria, Alegria Vol. 3 Ou... Cada Um Tem O Disco Que Merece,1969
+Wilson Simonal,Tem Algo Mais,1964
+Wry,Come and Fall,2005
+Xande De Pilares,Xande Canta Caetano,2025
+Xangô Da Mangueira,O Rei Do Partido Alto,1972
+Xênia França,Em Nome Da Estrela,2022
+Xingu (2),O Mundo Mítico Do Índio,1977
+Xingu (2),Brésil: Musiques Du Haut Xingu,1977
+Xixo Rosine,Sem Rasuras,0
+Yago Oproprio,Oproprio,2025
+Yam (25),Bob Dog Blues,1989
+Yo-Ho Delic,Yo-Ho Delic,1992
+Zé Carlos Damas,O Filho Do Seu Menino / Missão Cumprida,1982
+Zé Carlos Damas,Vamos Nessa,1979
+Zé Coco Do Riachão,Vôo Das Garças,1987
+Ze Da Onça,Forró Danado,1982
+Zé Di,Último Verão,1980
+Zé Di,Samba,1973
+Zé Do Cavaco,Canto de Rua,1981
+Zé Duarte,Quero Me Confessar,1987
+Zé Geraldo,Sol Girassol,1984
+Zé Gonzaga,Asa Branca,1975
+Zé Ibarra,Afim,2026
+Zé Indio,Vamos Defender A Vida,1988
+Zé Luiz Jr. e Paulo Barbosa,Repentistas Do Nordeste,1973
+Zé Manoel,Do Meu Coração Nu,2021
+Zé Ramalho,Hino Amizade / Jardim Das Acácias,1980
+Zé Ramalho,Frevoador,1992
+Zé Ramalho,Por Aquelas Que Foram Bem Amadas Ou Pra Não Dizer Que Não Falei De Rock,1984
+Zé Ramalho,De Gosto, De Água E De Amigos,1985
+Zé Ramalho,Décimas De Um Cantador,1987
+Zé Ramalho,A Peleja Do Diabo Com O Dono Do Céu,1979
+Zé Ramalho,Opus Visionário,1986
+Zé Ramalho,Orquídea Negra,1983
+Zé Ramalho,A Terceira Lâmina,1981
+Zé Ramalho,Zé Ramalho,1978
+Zé Ramalho,Força Verde,1982
+Zé Ramalho,Dez Anos,1985
+Zé Renato,Pegadas Frescas,1991
+Zé Renato,Fonte Da Vida,1982
+Zé Renato,Luz E Mistério,1984
+Zé Rodrix,Quando Será / Água Que Não Vais Beber,1977
+Zé Rodrix,¿Quando Será?,1977
+Zé Rodrix,Soy Latino Americano,1976
+D4 - fim
+D5 - inicio
+Zeca Do Trombone,Longa Caminhada,1991
+Zeca Pagodinho,Água Da Minha Sede,2023
+Zeca Pagodinho,Patota De Cosme,1987
+Zeca Pagodinho,Mania Da Gente,1990
+Zeca Pagodinho,Pixote,1991
+Zeca Pagodinho,Um Dos Poetas Do Samba,1992
+Zeca Pagodinho,Boêmio Feliz,1989
+Zeca Pagodinho,Zeca Pagodinho,1986
+Zenilton,O Cachimbo da Mulher,1981
+Zenilton,Comilho Cru,1986
+Zequinha Abreu/ Jacques Klein/ Ezequiel Moreira,Evocação I (Zequinha De Abreu Interpretado Por Jacques Klein / Ezequiel Moreira),1979
+Zero (7),Carne Humana,1987
+Zero (7),Passos No Escuro,1985
+Zero Zero (14),Back To Basics,2012
+Zeza Amaral,Clareia,1986
+Zezé Gonzaga & Quinteto Radamés Gnattali,Valzinho: Um Doce Veneno,1979
+Zezé Motta,Dengo,1980
+Zezé Motta,Frágil Força,1984
+Zezé Motta,Zezé Motta,1978
+Zil (3),Zil,1987
+Zimbo Trio,Tristeza,1971
+Zimbo Trio,Trocando Em Miúdos, A Tristeza Do Jeca...,1983
+Zimbo Trio,Zimbo Trio E O Tom - Tributo A Tom Jobim Volume 1,1988
+Zimbo Trio,Zimbo Convida,1982
+Zimbo Trio,Zimbo,1976
+Zimbo Trio,Opus Pop Nº 2,1973
+Zimbo Trio,Zimbo Trio + Cordas Volume 2,1968
+Zimbo Trio,Zimbo Trio Vol. 2,1965
+Zimbo Trio,Decisão,1969
+Zimbo Trio,Zimbo Trio,1964
+Zimbo Trio,Zimbo Trio + Cordas - É Tempo De Samba,1967
+Zimbo Trio/ Sebastião Tapajós,Zimbo Convida Sebastião Tapajós,1982
+Zizi Possi,Valsa Brasileira,1993
+Zizi Possi,Um Minuto Além,1981
+Zizi Possi,Dê Um Rolê,1984
+Zizi Possi,Zizi,1986
+Zizi Possi,Amor & Música,1987
+Zizi Possi,Estrebucha Baby,1989
+Zizi Possi,Pedaço De Mim,1979
+Zizi Possi,Flor Do Mal,1978
+Zizi Possi,Pra Sempre E Mais Um Dia,1983
+Zonazul,Zonazul,1986
+Zumba Cinco,Zumba Cinco,2002
+Zumbis Do Espaço,O Circo Da Fé,2013
+D5 - fim
+B6 - inicio
+The Alan Parsons Project,Pyramid,0
+The Alan Parsons Project,Tales Of Mystery And Imagination,1985
+The Alarm,Strength,1985
+The Art Of Noise,The Best Of The Art Of Noise,1988
+13th Floor Elevators,The Psychedelic Sounds Of The 13th Floor Elevators,0
+a-ha,On Tour In Brazil,1989
+a-ha,Best In Brazil,1991
+Adam And The Ants,Kings Of The Wild Frontier,1981
+Adrianne Lenker,Bright Future,2024
+Ahmad Jamal,Jamalca,1974
+Ahmad Jamal,At The Top:  Poinciana Revisited,1969
+Al Kooper,I Stand Alone,1968
+Al Kooper,The Landlord - Original Movie Picture Soundtrack,1971
+Al Stewart,Modern Times,1978
+Albert Ayler Trio,Spiritual Unity,1978
+Ambitious Lovers,Lust,1991
+Ambitious Lovers,Greed,1988
+Angel Olsen,Burn Your Fire For No Witness,2014
+Anthrax,I'm The Man,1988
+Anthrax,Sound Of White Noise,1993
+Anthrax,Among The Living,1988
+Anthrax,Persistence Of Time,1990
+Aphrodite's Child,Break,1972
+Arcade Fire,The Suburbs,2010
+Arcade Fire,Neon Bible,2007
+Arcade Fire,We,2022
+Arcade Fire,Funeral,2005
+Arcade Fire,Everything Now,2017
+Aretha Franklin,Love All The Hurt Away,1981
+Aretha Franklin,Respect,1968
+Aretha Franklin,People,1970
+Arlo Guthrie,Hobo's Lullabye,1972
+Arlo Guthrie,Arlo,1970
+Arlo Guthrie,Alice's Restaurant,1967
+Art Blakey & The Jazz Messengers,Moanin',2008
+Art Blakey & The Jazz Messengers,Album Of The Year,1981
+Art Blakey & The Jazz Messengers,A Night In Tunisia,1963
+Art Garfunkel,Garfunkel,1988
+Audrey Hepburn/ Rex Harrison,Minha Querida Lady,0
+Aztec Camera,Love,1988
+Aztec Camera,Knife,1986
+Back Door,The Impulse Session,2023
+Barbra Streisand,Butterfly,1974
+Barrabas,Barrabas Soul,1972
+Bassholes,Archive Series - Vol. 7 ...And Without A Name,2009
+Battles,Mirrored,2007
+Be Bop Deluxe,Modern Music,1976
+Bear Hands,You'll Pay For This,2016
+Bearns & Dexter,The Golden Voyage Vol. One,1981
+Beastie Boys,Licensed To Ill,1986
+Beats International,Let Them Eat Bingo,1990
+Bee Gees,My World,1972
+Ben Howard (2),Collections From The Whiteout,2021
+Ben Reed (2),Bandaged,2024
+Ben Sidran,Free In America,1976
+Benjamin Booker,Lower,2025
+The B-52's,Mesopotamia,1982
+The B-52's,Whammy!,1983
+The B-52's,Bouncing Off The Satellites,1986
+The B-52's,The B-52's,0
+The B-52's,Wild  Planet,0
+The Band,The Last Waltz,1978
+The Band,Cahoots,2021
+The Band,The Band,1969
+The Band,Stage Fright,1970
+The Beach Boys,L.A. (Light Album),1979
+The Beach Boys,Holland,1973
+The Beach Boys,Pet Sounds,2016
+The Beatles,1962-1966,1973
+The Beatles,The Beatles,0
+The Beatles,1967-1970,0
+The Beatles,The Beatles At The Hollywood Bowl,1977
+The Beatles,Os Reis Do Ié, Ié, Ié!,1965
+The Beatles,Revolver,1966
+The Beatles,Rubber Soul,1966
+The Beatles,Help!,1965
+The Beatles,With The Beatles,1985
+The Beatles,Please Please Me,1988
+The Beatles,A Hard Day's Night,1988
+The Beatles,Help!,1988
+The Beatles,Rubber Soul,1988
+The Beatles,Revolver,1988
+The Beatles,Let It Be,1988
+The Beatles,Beatles For Sale,1988
+The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1988
+The Beatles,The Beatles Ballads - 20 Original Tracks,1985
+The Beatles,Hey Jude!,1985
+B6 - fim
+B7 - inicio
+The Bill Evans Trio,Explorations,1984
+The Black Keys,Brothers,2010
+The Black Keys,Chulahoma,2006
+The Black Keys,Attack & Release,2008
+The Black Keys,Magic Potion,2006
+The Black Keys,El Camino,2011
+The Black Keys,Rubber Factory,2004
+The Black Keys,Thickfreakness,2009
+Big Audio Dynamite,Megatop Phoenix,1989
+Big Audio Dynamite,This Is Big Audio Dynamite,1985
+Big Audio Dynamite II,The Globe,1991
+Big Black,Atomizer,2023
+Big Black,Songs About Fucking,0
+Big Joe Turner / Count Basie,The Bosses,1975
+Big Thief,Two Hands,2019
+Big Thief,Capacity,2017
+Big Thief,Masterpiece,2017
+Bill Evans,Autumn Leaves,1984
+Bill Haley And His Comets,Rock Around The Clock / The Saint's Rock And Roil / Shake, Rattle And Roll / Rock-A-Beatin' Boogie,1975
+Bill MacKay,Fountain Fire,2019
+Billie Holiday,Billie Holiday,1985
+Billy Bragg,Talking With The Taxman About Poetry,1988
+Billy Bragg,The Million Things That Never Happened,2022
+Billy Preston,It's My Pleasure,0
+Black Midi,Schlagenheim,2019
+Black Sabbath,13,2013
+Black Sabbath,Technical Ecstasy,1976
+Black Sabbath,Never Say Die!,1979
+Black Sabbath,Black Sabbath,2010
+Black Sabbath,Master Of Reality,2010
+Black Sabbath,Black Sabbath Vol 4,2011
+Black Sabbath,Sabbath Bloody Sabbath,2011
+Black Sabbath,Sabotage,2011
+Black Sabbath,Paranoid,2006
+Black Sabbath,Recorded Live In 1978,1996
+Black Train Jack,No Reward,1993
+Bleachers,Take The Sadness Out Of Saturday Night,2021
+Blonde Redhead,In An Expression Of The Inexpressible,2021
+Blondie,The Tide Is High,1980
+Blondie,AutoAmerican,1980
+Blood/ Sweat And Tears,New Blood,1972
+Blue Cheer,Vincebus Eruptum,1968
+Bob Dylan,Biograph,1985
+Bob Dylan / The Band,Before The Flood,1982
+Bob Marley & The Wailers,Rebel Music,1987
+Bob Mould,Patch The Sky,2016
+Bob Mould,Blue Hearts,2020
+Bob Mould,Silver Age,2012
+Bobbi Humphrey,Fancy Dancer,1975
+Bobby Womack,Understanding,1973
+Bobby Womack & J.J. Johnson,Across 110th Street,1973
+Bombino,Deran,2018
+Bon Iver,Bon Iver, Bon Iver,2011
+Bottom & Co.,Rock Bottom,1976
+Boz Scaggs,Down Two Then Left,1977
+Braid,Frankie Welfare Boy Age 5,2010
+Branford Marsalis,Royal Garden Blues,1986
+Brenton Wood,Gimme Little Sign,1968
+Brian Eno,Ambient 1 (Music For Airports),1987
+Brian Eno - David Byrne,My Life In The Bush Of Ghosts,1983
+Brian Eno / John Cale,Wrong Way Up,2020
+Bruce Springsteen,Born In The U.S.A.,0
+Bryan Ferry,Boys And Girls,1985
+Bryan Ferry,Another Time, Another Place,1975
+Bryan Ferry,Bête Noire,1987
+Burt Bacharach,Plays His Hits,1969
+Calvin Johnson,Gallows Wine,2023
+Cannonball Adderley,Cannonball Adderley's Fiddler On The Roof,1972
+Cannonball Adderley,Somethin' Else,2008
+Cannonball Adderley And Bossa Rio With Sérgio Mendes,Cannonball Adderley And The Bossa Rio Sextet With Sérgio Mendes,1968
+Captain Beyond,Captain Beyond,1973
+Carlos Santana & John McLaughlin,Love Devotion Surrender,1973
+Carpenters,Close To You,0
+Cat Stevens,Numbers,1976
+Cat Stevens,Foreigner = O Estrangeiro,1973
+Cat Stevens,Buddha And The Chocolate Box,1974
+Cat Stevens,Catch Bull At Four,1972
+Cat Stevens,Izitso,1977
+Cat Stevens,Tea For The Tillerman,0
+Charles Mingus,Changes One,1977
+Charles Mingus,Changes Two,1977
+Charlie Byrd,Brazilian Byrd,1965
+Charlie Parker,Vol. 4,1985
+Chick Corea,The Leprechaun,1976
+Chick Corea,Piano Improvisations, Vol. 1,1983
+Chick Corea / Dave Holland / Barry Altschul,A.R.C.,1983
+Chris Isaak,Heart Shaped World,1989
+Chubby & The Gang,The Mutt's Nuts,2021
+Chubby & The Gang,Speed Kills,2020
+Clem Snide,Forever Just Beyond,2020
+Count Basie,Um Nobre Band-Leader,1980
+Count Basie Orchestra,High Voltage,0
+Count Basie Orchestra,Afrique,1972
+Courtney Barnett And Kurt Vile,Lotta Sea Lice,2017
+The Cannonball Adderley Quintet featuring Nat Adderley,The Cannonball Adderley Quintet In San Francisco,1984
+The Cave Singers,Invitation Songs,2007
+The Chick Corea Elektric Band,The Chick Corea Elektric Band,1986
+The Chico Hamilton Quintet,Chico Hamilton Quintet,1955
+The Clash,Live At Shea Stadium,2008
+B7 - fim
+B8 - inicio
+The Gun Club,Fire Of Love,2025
+The Horrors,Luminous,2014
+The House Of Love,The House Of Love,1989
+The Icicle Works,If You Want To Defeat Your Enemy Sing His Song,1987
+The Jackson 5,Lookin' Through The Windows,1972
+The Jayhawks,Hollywood Town Hall,2010
+The Jayhawks,Tomorrow The Green Grass,2011
+The Cramps,Smell Of Female,2011
+The Crusaders,Ghetto Blaster,1984
+The Crusaders,Standing Tall,1981
+The Cure,Wish,1992
+The Cure,Concert - The Cure Live,1985
+The Cure,The Top,1987
+The Cure,Standing On A Beach - The Singles,1986
+The Dave Brubeck Quartet,Gone With The Wind And Time Out,0
+The Dave Brubeck Quartet,Time Further Out: Miro Reflections,1971
+The Dave Brubeck Trio Featuring Gerry Mulligan & Cincinnati Symphony Orchestra Conducted By  Erich Kunzel,Brubeck/Mulligan/Cincinnati,1971
+The Dave Myers Effect,Os Maiores Temas de Corridas: Greatest Racing Themes,1968
+The Decemberists,Castaways And Cutouts,2020
+The Dream Academy,A Different Kind Of Weather,0
+The Dream Academy,The Dream Academy,1986
+The DT's,Sweet Words,2006
+The Durutti Column,Without Mercy,1988
+The Fall,Bend Sinister,0
+The Fall,The Frenz Experiment,1988
+The Flaming Lips,American Head,2020
+The Flaming Lips,Heady Nuggs: The First 5 Warner Bros. Records 1992-2002,2011
+The Flaming Lips,Oczy Mlody,2017
+The Flaming Lips Featuring Narration By Mick Jones,King's Mouth Music And Songs,2019
+The Foundations,Digging The Foundations,1969
+Cowboy Junkies,The Caution Horses,1990
+Cream (2),Live Cream,1970
+Crosby & Nash,Graham Nash / David Crosby,1972
+Crosby & Nash,Wind On The Water,1975
+Crosby/ Stills & Nash,Crosby, Stills & Nash,1969
+Crosby/ Stills & Nash,CSN,1977
+Crosby/ Stills/ Nash & Young,Déjà Vu,1970
+Crosby/ Stills/ Nash & Young,Déjà Vu,0
+Crosby/ Stills/ Nash & Young,So Far,1977
+Curtis Mayfield,Super Fly,1972
+Curtis Mayfield,Sweet Exorcist,1975
+D.O.A. (2),Hardcore '81,2003
+Daft Punk,Random Access Memories (10th Anniversary Edition),2023
+Danny Wilson (2),Meet Danny Wilson,1987
+David Bazan,Curse Your Branches,2009
+David Bazan/ Sean Lane (3),Rare Coins,2018
+David Bowie,The Next Day,2013
+David Bowie,David Live,1974
+David Bowie,Tonight,1984
+David Bowie,Heroes,2018
+David Bowie,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,2012
+David Byrne,Rei Momo,1990
+David Clayton-Thomas,David Clayton-Thomas,1972
+David Martial,Tamba / Celimene,1977
+David Ruffin,Walk Away From Love,1976
+Davie Allan & The Arrows Featuring  Davie Allan,Cycle-Delic Sounds,2006
+Dawes (2),North Hills,2009
+Dawes (2),Nothing Is Wrong,2021
+Dawes (2),Good Luck With Whatever,2020
+Dead Kennedys,Fresh Fruit For Rotting Vegetables,0
+Death Cab For Cutie,Asphalt Meadows (Acoustic),2023
+Deep Purple,Made In Europe,1976
+Deerhoof,Future Teenage Cave Artists,2020
+Dexter Gordon,Go!,2008
+Dexys Midnight Runners,Don't Stand Me Down,1985
+Diesel Park West,Shakespeare Alabama,1989
+Dinah Washington,Unforgettable,1960
+Divine Fits,A Thing Called Divine Fits,2012
+Dizzy Gillespie,The Sonny Rollins/Sonny Stitt Sessions,1976
+Dizzy Gillespie,Closer To The Source,1986
+Dogleg,Melee,2021
+Dollar Brand,African Space Program,1974
+Donald Byrd,Byrd In Flight / Royal Flush,1980
+Donald Byrd,Chant,1980
+Donald Fagen,The Nightfly,1982
+Donny Hathaway,Extension Of A Man,1973
+Donovan,Donovan,1977
+Donovan,Open Road,1970
+Donovan,Donovan In Concert,1968
+Double Negative,The Wonderful And Frightening World Of Double Negative,2007
+Dr. Dog,The Psychedelic Swamp,2016
+Duke Ellington,Unknown Session,1979
+Duke Ellington And Johnny Hodges,Side By Side,1988
+Duran Duran,Decade,1989
+Earth/ Wind & Fire,That's The Way Of The World,1975
+Eddie Harris & Les McCann,Second Movement,1971
+Eddie Henderson,Sunburst,1975
+Eddie Henderson,Mahal,1978
+Edgar Froese,Aqua,1975
+Electric Light Orchestra,Secret Messages,1983
+Electric Light Orchestra,Eldorado - A Symphony By The Electric Light Orchestra,1975
+Ella Fitzgerald,The Cole Porter Songbook,1985
+Ella Fitzgerald - Joe Pass,Take Love Easy,1974
+Ella Fitzgerald And Louis Armstrong,Porgy & Bess,0
+Elton John,Honky Château,1972
+Elton John,Don't Shoot Me I'm Only The Piano Player,1973
+Elton John,Rock Of The Westies,1975
+Elton John,Captain Fantastic And The Brown Dirt Cowboy,1975
+Elton John,Here And There,1976
+Elton John,Honky Tonk Women,1977
+Elton John,One Day At A Time,1976
+Elvis Costello,Spike,1989
+Elvis Costello,This Year's Model,1978
+Elvis Costello Featuring The Attractions And The Confederates,King Of America,1986
+Elvis Presley,Suspicion / Kiss Me Quick,1971
+Elvis Presley,Elvis,1973
+Enoch Light And The Light Brigade,Spaced Out,0
+Eric Clapton,O Rock de Eric Clapton,1985
+Eric Clapton,Eric Clapton,1970
+Eric Clapton,Time Pieces - The Best Of Eric Clapton,1982
+Eric Clapton,Timepieces Vol. II - 'Live' In The Seventies,1987
+Eurythmics,We Too Are One,1989
+Everything But The Girl,Love Not Money,1986
+Faces (3),Ooh La La,1979
+Faith No More,Live At The Brixton Academy,1991
+Faith No More,Angel Dust,1992
+Fantômas,The Director's Cut,2024
+Father John Misty,God's Favorite Customer,2018
+Fear Factory,Soul Of A New Machine,1993
+Felt,Ignite The Seven Cannons And Set Sail For The Sun,1987
+fIREHOSE,If'n,0
+Floating Points/ Pharoah Sanders & London Symphony Orchestra,Promises,2021
+Focus (2),Hamburger Concerto,1974
+Focus (2),Moving Waves,1971
+Fontaines D.C.,Skinty Fia,2022
+Four Tops,Catfish,1976
+Françoise Hardy,Françoise Hardy,1968
+Francy Boland And Orchestra,3. White Heat,1978
+Frank Sinatra,Watertown,1970
+Fugazi,First Demo,2023
+Gabor Szabo,Mizrab,1973
+Galt MacDermot,Cotton Comes To Harlem (Original Motion Picture Score),0
+Gang Of Four,Hard,1983
+B8 - fim
+C6 - inicio
+Gang Of Four,Songs Of The Free,1982
+Gary Glitter,Glitter,1973
+Gary McFarland,Soft Samba Strings,0
+Gary Peacock/ Keith Jarrett/ Jack DeJohnette,Tales Of Another,1977
+Gato Barbieri,Tropico,1978
+Gato Barbieri,Under Fire,1973
+Gato Barbieri,Last Tango In Paris,1973
+Gato Barbieri,El Pampero,1972
+Geese (11),3D Country,2023
+Genesis,The Lamb Lies Down On Broadway,1989
+Genesis,Wind & Wuthering,1977
+Genesis,Duke,1980
+George Adams,Sound Suggestions,1980
+George Benson,Beyond The Blue Horizon,1978
+George Duke,A Brazilian Love Affair,1980
+George Harrison,George Harrison,1979
+George Harrison,Living In The Material World,1973
+George Harrison,Dark Horse,1974
+George Harrison,The Best Of George Harrison,1976
+George Russell (3),Easy Listening,1969
+Gil Evans,Svengali,1987
+Gil Scott-Heron,I'm New Here,2016
+Ginger Baker,Horses & Trees,1986
+Giorgio Moroder,Lonely Lovers' Symphony,1973
+Giorgio Moroder,From Here To Eternity,1977
+Gladys Knight And The Pips,A Little Knight Music,1975
+Goblin,Prelúdio Para Matar (Profondo Rosso) (Trilha Sonora Original Do Filme),1976
+Gong,Shamal,1976
+Goo Goo Dolls,Hold Me Up,1990
+Gordon Parks,Shaft's Big Score! - The Original Motion Picture Soundtrack,1973
+Government Warning,Paranoid Mess,2009
+Graham Nash,Songs For Beginners,1971
+Graham Nash,Wild Tales,1973
+Graham Parker,The Up Escalator,1980
+Grant Green,Solid,1980
+Grant Lee Buffalo,Fuzzy,2023
+Green On Red,Gas Food Lodging,1985
+Greenslade,Spyglass Guest,1975
+Grinderman,Grinderman 2,2010
+Grub Nap,God Pile,2023
+Gruntruck,Push,1993
+Gumball (2),Super Tasty,1993
+Guns N' Roses,Use Your Illusion I,1991
+Guns N' Roses,G N' R Lies,1991
+Hamilton Leithauser + Rostam,I Had A Dream That You Were Mine,2016
+Hank Mobley / Al Cohn / John Coltrane / Zoot Sims,Tenor Conclave,0
+Harold Melvin And The Blue Notes Featuring Sharon Paige,The Blue Album,1980
+Hawkwind,Warrior On The Edge Of Time,1975
+Heads Up,Soul Brother Crisis Intervention,1991
+Helmet (2),Strap It On,1993
+Herb Alpert,Just You And Me,1976
+Herbie Hancock,Head Hunters,1976
+Herbie Hancock,Secrets,1976
+Herbie Hancock,Takin' Off,1966
+Herbie Hancock,Maiden Voyage,2021
+Herbie Mann,Push Push,1972
+Hiatus Kaiyote,Mood Valiant,2022
+Holy Fuck,Lovely Allen,2008
+Home,Seventeen,2010
+Horace Silver,Further Explorations,1980
+Hot Blood,Soul Dracula,1977
+Hubert Laws,Morning Star,1972
+Hubert Laws,Afro-Classic,1973
+Hurray For The Riff Raff,Life On Earth,2022
+Hüsker Dü,Warehouse: Songs And Stories,1987
+Hüsker Dü,Candy Apple Grey,1986
+Ian McCulloch,Candleland,1989
+Iceage,Seek Shelter,2021
+Idles,A Beautiful Thing: Idles Live At Le Bataclan,2020
+Idles,Crawler,2021
+Idles,Joy Como Um Ato de Resistência,2020
+Idles,Brutalism,2018
+Idris Muhammad,Power Of Soul,1974
+Iggy Pop,Free,2019
+Iggy Pop,Blah-Blah-Blah,1986
+Iggy Pop,Zombie Birdhouse,2019
+Ike & Tina Turner,Ike & Tina's Greatest Hits,1970
+Infectious Grooves,The Plague That Makes Your Booty Move... It's The Infectious Grooves,1991
+Inspiral Carpets,Caravan,1991
+INXS,The Swing,1984
+Isaac Hayes,Juicy Fruit (Disco Freak),1976
+Isaac Hayes,In The Beginning,1972
+Isaac Hayes,For The Sake Of Love,1979
+Isaac Hayes,And Once Again,1980
+Isaac Hayes,Joy,1973
+J Mascis,Several Shades Of Why,2011
+Jack DeJohnette,Special Edition,1980
+Jack DeJohnette's Special Edition,Tin Can Alley,1981
+Jackie McLean,Consequence,1980
+Jackson Browne,Running On Empty,1977
+Jade Warrior,Floating World,1974
+James Brown,Love Over-Due,1991
+James Taylor (2),Gorilla,1975
+James Taylor (2),Mud Slide Slim And The Blue Horizon,1971
+James Vincent McMorrow,Grapefruit Season,2021
+James William Guercio,Electra Glide In Blue (Original Motion Picture Soundtrack),1973
+Jan Akkerman,Profile,1973
+Jan Garbarek Group,Photo With Blue Sky, White Cloud, Wires, Windows And A Red Roof,1979
+Jane Birkin & Serge Gainsbourg,Je T'aime... Moi Non Plus,1971
+Jeff Buckley,You And I,2016
+Jeff Buckley,Live At Sin-é,2026
+Jeff Tweedy,Warm,2018
+Jennifer Warnes,Famous Blue Raincoat (The Songs Of Leonard Cohen),1987
+C6 - fim
+C7 - inicio
+The Jesus Lizard,Rack,2024
+The Jesus Lizard,Head,2009
+The Jimmy Castor Bunch Featuring The Everything Man,Supersound,1975
+The Kay-Gees,Keep On Bumpin' & Master Plan,1975
+The Kinks,Low Budget,1979
+The KLF,The White Room,1991
+The Merry-Go-Round,The Merry-Go-Round,2010
+The Messthetics And James Brandon Lewis,The Messthetics And James Brandon Lewis,2024
+The Modern Jazz Quartet,At Birdland,1976
+The Modern Jazz Quartet,Sait On Jamais,1978
+The Modern Jazz Quartet,Concorde,1985
+The Monkees,Headquarters,1967
+The Monkees,Pisces, Aquarius, Capricorn & Jones Ltd.,1968
+Jenny Hval,Blood Bitch,2016
+Jeronimo (2),Time Ride,1975
+Jerry Harrison: Casual Gods,Casual Gods,1988
+Jim James,Regions Of Light And Sound Of God,2013
+Jimmy McGriff Organ And Blues Band,The Worm,0
+Jimmy Page,Death Wish II (The Original Soundtrack),1982
+Jimmy Page & Robert Plant,No Quarter: Jimmy Page & Robert Plant Unledded,1994
+Jimmy Smith,The Fantastic Jimmy Smith,1977
+Jimmy Smith,Confirmation,1980
+Jimmy Smith,Just Friends,0
+Jimmy Smith,Bashin' - The Unpredictable Jimmy Smith,0
+Jimmy Smith,The Best Of Jimmy Smith,1970
+Joan Baez,Gulf Winds,1976
+Joan Baez,5,0
+Joan Baez,David's Album,0
+Joan Baez,In Concert Part 2,1963
+Joan Manuel Serrat,Miguel Hernandez,1972
+Joan Manuel Serrat,Dedicado A Antonio Machado, Poeta,1977
+Joan Manuel Serrat,Mediterráneo,1972
+Joe Cocker,With A Little Help From My Friends,1972
+Joe Farrell,Outback,1980
+Joe Henderson,Power To The People,2024
+Joe Henderson Featuring Alice Coltrane,The Elements,2017
+Joe Jackson,I'm The Man,1979
+John Coltrane,A Love Supreme,1995
+John Coltrane,Coltrane,1984
+John Coltrane,Blue Train,1993
+John Lennon,Imagine (Music From The Original Motion Picture),1988
+John Lennon,Mind Games,1974
+John Lennon,Walls And Bridges,1974
+John Lennon,Rock 'N' Roll,1985
+John Lennon,Imagine,0
+John Lennon & Yoko Ono,Happy Xmas (War Is Over),1972
+John Lennon & Yoko Ono,Happy Xmas (War Is Over),0
+John Lennon & Yoko Ono,Double Fantasy,1980
+John Mayall,The Turning Point,1969
+John McLaughlin With The One Truth Band,Electric Dreams,1979
+John Prine,The Tree Of Forgiveness,2018
+John Prine,John Prine,2023
+Johnny Cash,American V: A Hundred Highways,0
+Jonathan Richman & The Modern Lovers,It's Time For,0
+Joni Mitchell,Hejira,2014
+Joni Mitchell,Court And Spark,0
+Jónsi,Shiver,2020
+Joseph Arthur,Our Shadows Will Remain,2004
+Joy Division,Closer,1987
+Julianna Barwick,Healing Is A Miracle,2020
+Julien Clerc,Jaloux,1979
+Karma (9),Celebration,1976
+Kate Bush,Babooshka,1980
+Keith Jarrett,Staircase,1983
+Keith Jarrett,Nude Ants (Live At The Village Vanguard),1985
+Keith Jarrett,The Köln Concert,1983
+Keith Jarrett,Solo Concerts: Bremen / Lausanne,1973
+Keith Jarrett,Eyes Of The Heart,1979
+Keith Jarrett,My Song,1984
+Keith Jarrett Trio,Somewhere Before,1990
+Keith Jarrett/ Gary Peacock/ Jack DeJohnette,Changes,1984
+Keith Jarrett/ Gary Peacock/ Jack DeJohnette,Standards, Vol. 1,1986
+Kendrick Lamar,To Pimp A Butterfly,0
+Kenny Burrell,Midnight Blue,2008
+Kenny Burrell / Grover Washington/ Jr.,Togethering,1986
+Killing Joke,Brighter Than A Thousand Suns,1987
+Kim Gordon,The Collective,2024
+King Crimson,Larks' Tongues In Aspic,1973
+King Crimson,Starless And Bible Black,1974
+King Crimson,In The Wake Of Poseidon,1970
+King Crimson,Lizard,1970
+Kings Of Leon,The Early Vinyl,2011
+Kyuss,Blues For The Red Sun,2022
+Kyuss,...And The Circus Leaves Town,2014
+La Bionda,Bandido,1979
+Lalo Schifrin,The Dissection And Reconstruction Of Music From The Past As Performed By The Inmates Of Lalo Schifrin's Demented Ensemble As A Tribute To The Memory Of The Marquis De Sade,1970
+Lalo Schifrin,Bullitt (Music From The Motion Picture),1969
+Led Zeppelin,The Soundtrack From The Film The Song Remains The Same,2008
+Led Zeppelin,Led Zeppelin II,0
+Led Zeppelin,Untitled,0
+Lee Morgan,The Sidewinder,2008
+Left Side,Like A Locomotion,1975
+Lena Horne & Gabor Szabo,Lena & Gabor,1970
+Leonard Cohen,I'm Your Man,1989
+Leonard Cohen,Various Positions,2017
+Living Colour,Time's Up,1990
+Lonnie Holley,Oh Me Oh My,2023
+Lonnie Liston Smith And The Cosmic Echoes,Cosmic Funk,2022
+Los Lobos,The Neighborhood,1990
+Los Lobos,By The Light Of The Moon,1987
+Lou Rawls,Naturally,1977
+Lou Reed,Words & Music May 1965,2022
+Lou Reed,New York,1989
+Lou Reed,Magic And Loss,1992
+Lou Reed,Berlin,2008
+Lou Reed,Rock N Roll Animal,2012
+Lou Reed,Transformer,2012
+Lou Reed / John Cale,Songs For Drella,1990
+Louis Armstrong,Hello, Dolly!,1982
+Louis Armstrong,A Personificação Do Jazz,1980
+Love And Rockets,Earth • Sun • Moon,1988
+Lucy Dacus,2019,2019
+Lucy Dacus,Historian,2018
+Madness,Keep Moving,1984
+Madonna,Like A Virgin,1984
+Madredeus,Os Dias Da Madredeus,1987
+Mahavishnu Orchestra,Birds Of Fire,0
+Malcolm McLaren,Duck Rock,1983
+Malcolm McLaren And The Bootzilla Orchestra,Waltz Darling,1989
+Malo (2),Evolution,1973
+Mandrill,Mandrilland - Vol.1,1975
+Mandrill,Mandrill,1971
+Mandrill / Michael Masser / George Benson,Muhammad Ali In The Greatest - Trilha Sonora Original Do Filme O Maior De Todos,1977
+Manic Street Preachers,Motorcycle Emptiness,1992
+Marianne Faithfull,Dangerous Acquaintances,1981
+Marianne Faithfull,Broken English,1979
+Mark Lanegan Band,Live At Rockefeller, Oslo February 25, 2012,2017
+Mark Lanegan Band,De Melkweg Live In Amsterdam July 29, 2016,2017
+Mark Lanegan Band,Bubblegum,0
+MC5,Kick Out The Jams,1969
+McCoy Tyner = McCoy Tyner,Echoes Of A Friend = エコーズ・オブ・ア・フレンド,1974
+Meco Monardo,El Imperio Contraataca (Medley),1980
+Meltdown (8),The Map,2000
+Melvins,Bad Mood Rising,2022
+Merger (7),S​/​T,2019
+C7 - fim
+C8 - inicio
+The O'Jays,Identify Yourself,1979
+The O'Jays,Love Fever,1985
+The Ornette Coleman Double Quartet,Free Jazz,1978
+The Platters,The Platters' Golden Hits,1972
+The Platters,Encore Of Golden Hits,1960
+The Pretenders,Learning To Crawl,1984
+The Primitives,Lovely,1988
+The Radha Krsna Temple,Hare Krishna Festival,1977
+The Railway Children,Reunion Wilderness,1987
+The Replacements,Don't Tell A Soul,1989
+The Replacements,Pleased To Meet Me,1987
+The Replacements,Tim,2017
+The Replacements,Let It Be,2016
+The Rolling Stones,It's Only Rock & Roll,1974
+The Rolling Stones,Emotional Rescue,1980
+The Rolling Stones,Goats Head Soup,1985
+The Rolling Stones,Black And Blue,0
+The Royal Assassins,Open Up The Rivers,1988
+The Rural Alberta Advantage,The Rise & The Fall,2023
+Merl Saunders,Fire Up,1973
+Metallica,Master Of Puppets,1989
+Metallica,Kill 'Em All,1990
+Metz,Strange Peace,2017
+mewithoutYou,Pale Horses,2015
+MFSB,Universal Love,1975
+Michael Jackson,Ben,1972
+Mick Jagger,Primitive Cool,1987
+Mick Jagger,She's The Boss,1985
+Mike Watt,Ring Spiel Tour '95,2016
+Mike Watt + The Bobblymen,The Bobblymen EP,2016
+Miles Davis,Enigma,2014
+Miles Davis,Live-Evil,1981
+Miles Davis,Bitches Brew,2010
+Miles Davis,Kind Of Blue,2008
+Miles Davis,The Man With The Horn,1981
+Miles Davis,Amandla,1989
+Miles Davis,Quiet Nights,1964
+Miles Davis,Tutu,1988
+Miles Davis,A Tribute To Jack Johnson,2020
+Milt Jackson,Milt Jackson Quartet,1984
+Milt Jackson With Hubert Laws,Goodbye,1974
+Minor Threat,First Demo Tape,2013
+Minor Threat,Minor Threat,2023
+MinuteFlag,MinuteFlag,1986
+Minutemen,Buzz Or Howl Under The Influence Of Heat,0
+Minutemen,Double Nickels On The Dime,0
+Minutemen,What Makes A Man Start Fires?,0
+Miriam Klein,Lady Like - Miriam Klein sings Billie Holiday,1973
+Morrissey,Everyday Is Like Sunday,2010
+Mucky Pup,Now,1991
+Mudhoney,Superfuzz Bigmuff,2009
+Mudhoney,Vanishing Point,2013
+Mudhoney,Every Good Boy Deserves Fudge,2009
+Mudhoney,Mudhoney,2009
+My Morning Jacket,My Morning Jacket,2021
+My Morning Jacket,Chapter 1: The Sandworm Cometh : Early Recordings, B-Sides, Covers, Y Mas,2021
+Nat King Cole,Thank You, Pretty Baby,1969
+Ned's Atomic Dustbin,Are You Normal?,1992
+Neil Young,Journey Through The Past,1972
+Neil Young,Oceanside Countryside,2025
+Neil Young,Comes A Time,1978
+Neil Young,Hitchhiker,2017
+Neil Young,Young Shakespeare,2021
+Neil Young,Old Ways,1985
+Neil Young & Crazy Horse,Live Rust,1979
+Neil Young & The Restless (3),Eldorado,2021
+Neil Young With  Crazy Horse,Zuma,2002
+Neil Young With Crazy Horse,Everybody Knows This Is Nowhere,1969
+Nektar,Down To Earth,1975
+Nelson Riddle,Communication,1975
+Neu!,Neu!,2010
+Neutral Milk Hotel,In The Aeroplane Over The Sea,2015
+New Order,Substance,1988
+New Order,Brotherhood,1987
+New Order,Low-life,1987
+New Order,Technique,1989
+New Order,Power, Corruption & Lies,1987
+Nick Cave & The Bad Seeds,Kicking Against The Pricks,1987
+Nick Cave & The Bad Seeds,Push The Sky Away,2013
+Nine Inch Nails,Broken,1992
+Nino Rota,Amarcord,1975
+Nirvana,Nevermind,1992
+Nirvana,Bleach,1992
+Nirvana,In Utero,2015
+Nirvana,Incesticide,1992
+No Age,Everything In Between,2010
+North Americans,Roped In,2020
+OC Smith,At Home,1969
+Ornette Coleman,The Shape Of Jazz To Come,1960
+Oscar Peterson,The Silent Partner,1981
+Osibisa,Heads,1972
+Owen Pallett,In Conflict,2014
+P₂O₅,Vivat Progressio - Pereat Mundus,2018
+Pablo Neruda,Poemas De Amor,0
+Pailhead,Trait,2022
+Passport (2),Looking Thru,1979
+Pat Metheny Group,American Garage,1979
+Patti Smith,Horses,2012
+Paul & Linda McCartney,Ram,1971
+Paul Desmond,Bridge Over Troubled Water,1971
+Paul McCartney,Press To Play,1986
+Paul Simon,Graceland,1987
+Paul Simon,The Rhythm Of The Saints,1990
+Paul Simon,Greatest Hits, Etc.,1986
+Paul Simon/ Simon & Garfunkel/ Dave Grusin,The Graduate (Original Sound Track Recording),1968
+Pentangle,Sweet Child,1970
+Pentangle = Pentangle,The Pentangle = ザ・ペンタングル,1972
+Perotá Chingó,Muta,2019
+Pescado Rabioso,Artaud,2015
+Pet Shop Boys,Discography (The Complete Singles Collection),1991
+Pet Shop Boys,Introspective,1988
+Pet Shop Boys,Very,1993
+Pete Christlieb / Warne Marsh Quintet,Apogee,0
+Pete Townshend,Who Came First,1973
+Peter Appleyard Orchestra,Percussive Jazz,0
+Peter Frampton,I'm In You,1977
+Peter Gabriel,Passion,1989
+Peter Gabriel,Plays Live,1989
+Peter Gabriel,Peter Gabriel,1988
+Peter/ Paul & Mary,Peter, Paul And Mary,1964
+Pharoah Sanders,Tauhid,1970
+Pharoah Sanders,Thembi,2024
+Phil Woods Septet,Pairing Off,1984
+Philip Glass,The Photographer,1983
+Pink Floyd,The Wall,1979
+Pink Floyd,Meddle,1972
+Pink Floyd,A Collection Of Great Dance Songs,0
+Pink Floyd,Relics,0
+Pixies,The Night The Zombies Came,2024
+Pixies,Doolittle,2004
+PJ Harvey,Is This Desire? - Demos,2021
+C8 - fim
+D6 - inicio
+PJ Harvey,To Bring You My Love - Demos,2020
+PJ Harvey,The Hope Six Demolition Project,2022
+PJ Harvey,The Peel Sessions (1991 - 2004),2021
+Pointer Sisters,The Pointer Sisters,1973
+Poster Children,Daisychain Reaction,1991
+Prefab Sprout,Jordan: The Comeback,1990
+Prince,Graffiti Bridge,1990
+Prince,Sign O The Times,1987
+Prince,Controversy,1982
+Prince,Lovesexy,1988
+Prince,Batman™ (Motion Picture Soundtrack),1989
+Prince & The New Power Generation,Diamonds And Pearls,1991
+Prince And The Revolution,Around The World In A Day,1985
+Prince And The Revolution,Purple Rain,1988
+Public Image Limited,Live In Tokyo,1987
+Public Image Limited,9,1989
+Public Image Limited,Album,1986
+Public Image Limited,Happy?,1987
+Public Image Limited,Public Image (First Issue),1978
+Queen,Love Of My Life,1979
+Quincy Jones,The Color Purple (Original Motion Picture Sound Track),1986
+Quincy Jones,$ (Music From The Original Motion Picture Sound Track) - Ladrão Que Rouba Ladrão,1972
+Quincy Jones,Ndeda,0
+R.E.M.,Lifes Rich Pageant,1986
+R.E.M.,Document,1987
+R.E.M.,Automatic For The People,0
+Radiohead,Amnesiac,2001
+Ralph Towner,Solo Concert,1980
+Ramones,Brain Drain,1989
+Ramones,Mondo Bizarro,1992
+Ramones,Road To Ruin,2019
+Ramones,Ramones,2018
+Ramones,Rocket To Russia,2018
+Ramsey Lewis,Love Notes,1978
+Ramsey Lewis,Tequila Mockingbird,1978
+Ramsey Lewis / Phil Upchurch,The Way We Feel,1971
+Raul De Souza,Sweet Lucy,1977
+Ravi Shankar,Portrait Of Genius,1973
+Ravi Shankar And Philip Glass,Passages,1991
+Ravi Shankar/ George Fenton,Gandhi / Music From The Original Motion Picture Soundtrack,1983
+Red Hot Chili Peppers,Blood Sugar Sex Magik,1991
+Regulations,To Be Me,2010
+Return To Forever Featuring Chick Corea,Where Have I Known You Before,1974
+Return To Forever Featuring Chick Corea,No Mystery,1975
+Revisions,Revised Observations,2007
+Rick Wakeman,Rick Wakeman's Criminal Record,1977
+Robbie Robertson,Robbie Robertson,1988
+Robert Palmer,Pressure Drop,1975
+Robert Wyatt,Rock Bottom,2023
+Rod Stewart,Atlantic Crossing,1975
+Rod Stewart,Rod Stewart,1986
+Rod Stewart,A Night On The Town,1976
+Rod Stewart,Never A Dull Moment,1972
+Rodgers & Hammerstein / Julie Andrews/ Christopher Plummer/ Irwin Kostal,A Noviça Rebelde (Trilha Sonora Original Do Filme),0
+Ronnie Von,Rosto Suado / Pra Ser Só Minha Mulher,1978
+Roxy Music,For Your Pleasure,2008
+Roxy Music,Roxy Music,2008
+Roxy Music,Stranded,2009
+Roxy Music,Flesh + Blood,1983
+Roxy Music,Avalon,1989
+Roxy Music,Country Life,2009
+Roxy Music,Musique Roxy - The High Road,1983
+Roy Orbison,Mystery Girl,1989
+Royal Trux,3-Song EP,1998
+Rush,Caress Of Steel,1975
+Ryley Walker,Deafman Glance,2018
+Ryo Fukui,Scenery,2018
+Sadao Watanabe,Elis,1989
+Sam & Dave,I Thank You / Wrap It Up,1968
+Sam Rivers,Fuchsia Swing Song,2023
+Santana,Abraxas,1985
+Sarah Vaughan,O Som Brasileiro De Sarah Vaughan,1978
+Sarah Vaughan,Sarah Vaughan,0
+Sault,Untitled (Black Is),2020
+Sault,Untitled (Rise),2020
+Scat Opera,About Time,1992
+Scatterbrain (3),Here Comes Trouble,1991
+Sérgio Godinho,Tantas Vezes Fui À Guerra / Não Te Deixes Assim Vestir,1983
+Shellac,At Action Park,0
+Sidney Bechet,Jazz Classics,0
+Simon & Garfunkel,The Concert In Central Park,1982
+Simon & Garfunkel,Bookends,1973
+D6 - fim
+D7 - inicio
+The Sonics,Introducing The Sonics,1998
+The Squadronaires,There's Something In The Air,1972
+The Square Set,That's What I Want,1971
+The Stooges,Fun House,2021
+The Strokes,Under Cover Of Darkness,2011
+The Style Council,Café Bleu,1984
+The Supremes,The Supremes,1975
+The (St. Thomas) Pepper Smelter,Soul & Pepper,1969
+Simon & Garfunkel,Bridge Over Troubled Water,0
+Siouxsie & The Banshees,Superstition,1991
+Sleater-Kinney,Path Of Wellness,2021
+Slint,Spiderland,2004
+Smith Westerns,Dye It Blonde,2011
+So (2) / View From The Hill,Are You Sure? / I'm No Rebel,1988
+Songs: Ohia,The Magnolia Electric Co,2013
+Sonic Youth,Walls Have Ears,2024
+Sonic Youth,Sister,1989
+Sonic Youth,Murray Street,0
+Sonic Youth,Rather Ripped,2016
+Sonny Fortune,Waves Of Dreams,1976
+Sonny Rollins,Dominant,0
+Sonny Rollins,Plus 4,1973
+Sp!n,In Motion,1991
+Spectre Folk,The Blackest Medicine, Vol. II,2011
+Spoon,Kill The Moonlight,2002
+Spoon,Gimme Fiction,2005
+Spoon,Ga Ga Ga Ga Ga,2007
+Spoon,Transference,2010
+Stan Getz / Eddie Sauter,Focus,1963
+Stanley Turrentine With Milt Jackson,Cherry,1973
+Stephen Malkmus,Groove Denied,2019
+Stephen Stills,Manassas,1972
+Stephen Stills,Stephen Stills,1970
+Stereomotor,Musica E Máquinas Envenenadas,1972
+Steve Roach,Quiet Music,1989
+Stevie Wonder,Songs In The Key Of Life,1976
+Stevie Wonder,All In Love Is Fair,0
+Stevie Wonder,Fulfillingness' First Finale,1974
+Stevie Wonder,In Square Circle,1985
+Stevie Wonder,Where I'm Coming From,1971
+Stevie Wonder,Innervisions,1973
+Sting,Bring On The Night,1986
+Sting,The Dream Of The Blue Turtles,1987
+Sufjan Stevens,Carrie & Lowell,2015
+Sugar (5),Copper Blue / Beaster,2012
+Sugar (5),File Under: Easy Listening,2012
+Suicidal Tendencies,The Art Of Rebellion,1992
+Suicidal Tendencies,Still Cyco After All These Years,1993
+Suicidal Tendencies,Controlled By Hatred / Feel Like Shit... Deja-Vu,1989
+Suicidal Tendencies,Lights Camera Revolution,1990
+Superchunk,Wild Loneliness,2022
+Superchunk,Come Pick Me Up,2015
+Supertramp,Even In The Quietest Moments...,1977
+Supertramp,Free As A Bird,1987
+Supertramp,The Autobiography Of Supertramp,1987
+Suzanne Vega,Days Of Open Hand,1990
+Swamp Dogg,Everything You'll Ever Need,1972
+Swamp Dogg,Cuffed, Collared & Tagged,1973
+Talking Heads,Stop Making Sense Tour,2016
+Talking Heads,Naked,1988
+Talking Heads,Little Creatures,1985
+Talking Heads,True Stories,1986
+Talking Heads,More Songs About Buildings And Food,1978
+Talking Heads,Fear Of Music,1987
+Tears For Fears,The Seeds Of Love,1989
+Tears For Fears,Songs From The Big Chair,1985
+Ted Lucas,Ted Lucas,2025
+Teddy Wilson Trio & Gerry Mulligan Quartet Com Bob Brookmeyer,Em Newport,1957
+Television Personalities,The Strangely Beautiful E.P.,1991
+Texas,Southside,1989
+The Temptations,Anthology,1973
+The Temptations,Do The Temptations,1976
+The Troggs,From Nowhere,1967
+The Trumpet Kings Meet Big Joe Turner,The Trumpet Kings Meet Joe Turner,0
+The Velvet Underground,Loaded,2023
+The Walkmen,Heaven,2023
+The War On Drugs,Slave Ambient,2011
+The Waterboys,This Is The Sea,1987
+The Weather Station,All Of It Was Mine,2011
+The Wedding Present,Bizarro,1990
+The Who,Tommy,1980
+The Who,Live at Leeds,1980
+The Who,It's Hard,1982
+The Who,Face Dances,1981
+The Wolfgang Press,Bird Wood Cage,1989
+They Might Be Giants,I Like Fun,2018
+Throwing Muses,Hunkpapa,1989
+Timbuk 3,Greetings From Timbuk 3,1986
+Tin Machine,Tin Machine,1989
+Titus Andronicus,A Productive Cough,2018
+Today Is The Day,Today Is The Day,1996
+Tom Waits,Rain Dogs,1986
+Tom Waits,Frank's Wild Years,1987
+Torche,Meanderthal,2008
+Touché Amoré,Is Survived By,2013
+Treponem Pal,Treponem Pal,1989
+Turn To Crime,Can't Love,2014
+Ty Segall / The Velvet Underground & Nico (3),Femme Fatale,2012
+U2,Rattle And Hum,1988
+U2,Zooropa,1993
+D7 - fim
+D8 - inicio
+U2,Achtung Baby,1991
+U2,Live Under A Blood Red Sky,0
+Uncle Tupelo,The Seven Inch Singles,2012
+Uncle Tupelo,Anodyne,2020
+Uncle Tupelo,Still Feel Gone.,2012
+Uncle Tupelo,March 16-20, 1992,2012
+Uncle Tupelo,No Depression,2012
+Unicorn (12),Blue Pine Trees,1974
+Urban Dance Squad,Mental Floss For The Globe,1991
+Urban Dance Squad,Life 'N Perspectives Of A Genuine Crossover,1991
+Van Morrison,Avalon Sunset,1989
+Vangelis,Albedo 0.39,1976
+Vinicius De Moraes / Giuseppe Ungaretti / Sergio Endrigo,La Vita, Amico, È L'Arte Dell'Incontro,1970
+Violent Femmes,Why Do Birds Sing?,2021
+Voïvod,War And Pain,1989
+Walter Carlos,A Laranja Mecânica,1974
+Waxahatchee,Saint Cloud,2020
+Wayne Shorter Featuring Milton Nascimento,Native Dancer,0
+Weather Report,Domino Theory,1984
+Weather Report,Weather Report,1982
+Weather Report,Procession,1983
+Wes Montgomery,A Day In The Life,0
+Wet Leg,Wet Leg,2022
+Wet Picnic,Balls Up,1982
+Wilco,Hot Sun Cool Shroud,2024
+Wilco,Sky Blue Sky,2007
+Wilco,Yankee Hotel Foxtrot,2002
+Wilco,Kicking Television: Live In Chicago,2010
+Wilco,Cousin,2023
+Wings (2),Band On The Run,1974
+Wire,Pink Flag,2018
+Wire,Chairs Missing,2018
+Wire,154,2018
+Woody Herman,Light My Fire,1969
+Woody Shaw,United,1981
+WPC,Cotillions,2020
+X (5),Los Angeles,2023
+XTC,Oranges & Lemons,1989
+Yellowjackets,Shades,1986
+Yo La Tengo,There's A Riot Going On,2018
+Young Jesus,Welcome To Conceptual Beach,2020
+Zzebra,Panic,1975
+D8 - fim
 E - inicio
-Bob Dylan,Clube we Esquiffna,1972
-E - Fim
+Unknown Artist,Fado de Quissamã / RJ,1985
+Unknown Artist,Dança De São Gonçalo,1976
+Unknown Artist,Baianas / Alagoas,1977
+Unknown Artist,Cantigas De Roda / MG,1982
+Unknown Artist,Aboios / Ceará,1983
+Unknown Artist,Corinthians Campeão,1983
+Unknown Artist,A História De 1975 - Música E Informação - Zyd-66 Rádio Jornal Do Brasil,0
+Various,Minas Também Dá Samba,0
+Various,Nova História Da Música Popular Brasileira - Dorival Caymmi,1976
+Various,Nova História Da Música Popular Brasileira - Hermeto Pascoal, Djalma Correa, Walter Franco, Tom Zé,1979
+Various,História Das Escolas De Samba 1,1975
+Various,História Das Escolas De Samba 2,1975
+Various,História Das Escolas De Samba 3,1976
+Various,História Das Escolas De Samba 4,1976
+Various,História Das Escolas De Samba 5,1976
+Various,História Das Escolas De Samba 6,1976
+Various,História Das Escolas De Samba 7,1976
+Various,História Das Escolas De Samba 8,1976
+Various,Nova História Da Música Popular Brasileira - J. Cascata, Leonel Azevedo,1978
+Various,Nova História Da Música Popular Brasileira - Vinicius De Moraes,1977
+Various,Nova História Da Música Popular Brasileira - Dolores Duran / Tito Madi,1978
+Various,Nova História Da Música Popular Brasileira - João Bosco / Aldir Blanc,1976
+Various,Nova História Da Música Popular Brasileira - Pixinguinha,1976
+Various,Nova História Da Música Popular Brasileira - Noel Rosa,1977
+Various,Nova História Da Música Popular Brasileira - Lamartine Babo,1977
+Various,Nova História Da Música Popular Brasileira - Caetano Veloso,1977
+Various,Nova História Da Música Popular Brasileira - Luiz Gonzaga, Humberto Teixeira,1977
+Various,Nova História Da Música Popular Brasileira - Assis Valente,1977
+Various,Nova História Da Música Popular Brasileira - Gilberto Gil,1977
+Various,Nova História Da Música Popular Brasileira - Ary Barroso,1977
+Various,Nova História Da Música Popular Brasileira - Haroldo Lobo,1977
+Various,Nova História Da Música Popular Brasileira - Ismael Silva,1977
+Various,Nova História Da Música Popular Brasileira -  Evaldo Gouveia, Jair Amorim, Adelino Moreira,1977
+Various,Nova História Da Música Popular Brasileira - Cartola,1977
+Various,Nova História Da Música Popular Brasileira -  Ernesto Nazareth / Chiquinha Gonzaga,1977
+Various,Nova História Da Música Popular Brasileira - Silas De Oliveira, Mano Décio Da Viola,1977
+Various,Nova História Da Música Popular Brasileira - Joubert De Carvalho,1977
+Various,Nova História Da Música Popular Brasileira - Vicente Celestino,1977
+Various,Nova História Da Música Popular Brasileira - João De Barro, Alberto Ribeiro,1977
+Various,Nova História Da Música Popular Brasileira - Custódio Mesquita,1977
+Various,Nova História Da Música Popular Brasileira - Sinhô,1977
+Various,Nova História Da Música Popular Brasileira - Tom Jobim,1977
+Various,Nova História Da Música Popular Brasileira - Jorge Ben,1977
+Various,Nova História Da Música Popular Brasileira - Ataulfo Alves,1977
+Various,Nova História Da Música Popular Brasileira - Herivelto Martins,1977
+Various,Nova História Da Música Popular Brasileira - Monsueto,1977
+Various,Nova História Da Música Popular Brasileira - Edu Lobo,1977
+Various,Nova História Da Música Popular Brasileira - João Do Vale,1977
+Various,Nova História Da Música Popular Brasileira - Wílson Batista,1978
+Various,Nova História Da Música Popular Brasileira - Capiba, Nelson Ferreira,1978
+Various,Nova História Da Música Popular Brasileira - Donga E Os Primitivos,1978
+Various,Nova História Da Música Popular Brasileira - Martinho Da Vila,1978
+Various,Nova História Da Música Popular Brasileira - Orestes Barbosa,1978
+Various,Nova História Da Música Popular Brasileira - Nélson Cavaquinho,1978
+Various,Nova História Da Música Popular Brasileira - Zé Keti,1978
+Various,Nova História Da Música Popular Brasileira - Cândido Das Neves / Catulo Da Paixão Cearense,1978
+Various,Nova História Da Música Popular Brasileira - Antônio Maria,1978
+Various,Nova História Da Música Popular Brasileira - Roberto Carlos / Erasmo Carlos,1978
+Various,Nova História Da Música Popular Brasileira - Geraldo Pereira,1978
+Various,Nova História Da Música Popular Brasileira - Música Caipira,1978
+Various,Nova História Da Música Popular Brasileira - Adorinan Barbosa, Paulo Vanzolini,1978
+Various,Nova História Da Música Popular Brasileira - Juca Chaves, Billy Blanco,1978
+Various,Nova História Da Música Popular Brasileira - Jacob Do Bandolim E O Choro,1978
+Various,Nova História da Música Popular Brasileira - Candeia / Élton Medeiros,1978
+Various,Nova História Da Música Popular Brasileira - A Valsa Brasileira,1978
+Various,Nova História Da Música Popular Brasileira - Abel Ferreira E O Choro,1978
+Various,Nova História Da Música Popular Brasileira - Alceu Valença, Geraldo Azevedo, Marcus Vinicius,1978
+Various,Nova História Da Música Popular Brasileira - Ivan Lins, Luiz Gonzaga Jr.,1978
+Various,Nova História Da Música Popular Brasileira - Jards Macalé, Luiz Melodia,1978
+Various,Nova História Da Música Popular Brasileira - Raul Seixas, Moraes Moreira E Novos Baianos,1978
+Various,Nova História Da Música Popular Brasileira - Rita Lee, Mutantes, Secos & Molhados,1978
+Various,Nova História Da Música Popular Brasileira - Carlos Lyra E A Bossa Nova,1978
+Various,Nova História Da Música Popular Brasileira - Baden Powell E A Bossa Nova,1979
+Various,Nova História Da Música Popular Brasileira - Manezinho Araújo E Os Nordestinos,1979
+Various,Nova História Da Música Popular Brasileira - Jackson Do Pandeiro E Os Nordestinos,1979
+Various,Nova História Da Música Popular Brasileira - Bide, Marçal E O Estácio,1979
+Various,Nova História Da Música Popular Brasileira - Johnny Alf E Os Precursores Da Bossa Nova,1979
+Various,Nova História Da Música Popular Brasileira - Pedro Caetano, Claudionor Cruz,1979
+Various,Nova História Da Música Popular Brasileira - Geraldo Vandré,1977
+Various,Nova História Da Música Popular Brasileira - Carnaval I,1979
+Various,Nova História Da Música Popular Brasileira - Carnaval II,1979
+Various,Nova História Da Música Popular Brasileira - Egberto Gismonti, Naná Vasconcelos, Walter Smetak,1979
+Various,Nova História Da Música Popular Brasileira - Luiz Antônio, Djalma Ferreira, Haroldo Barbosa, Luís Reis,1979
+Various,Nova História Da Música Popular Brasileira - Waldemar Henrique, Hekel Tavares,1979
+Various,Nova História Da Música Popular Brasileira - Escolas De Samba I,1979
+Various,Nova História Da Música Popular Brasileira - Escolas De Samba II,1979
+Various,Nova História Da Música Popular Brasileira - Chico Buarque,1976
+Various,Nova História Da Música Popular Brasileira - Paulinho Da Viola,1976
+Various,História Da Música Popular Brasileira - Jorge Ben,1970
+Various,Nova História Da Música Popular Brasileira - Milton Nascimento,1976
+Various,Nova História Da Música Popular Brasileira - Lupicínio Rodrigues,1977
+Various,O Banquete Dos Mendigos,1979
+Various,Música Popular Do R.G.S. - Popular Music From Rio Grande Do Sul,0
+Various,Carnaval 75 - Convocação Geral,1974
+Various,Enciclopédia Da Música Brasileira - Erudita Folclórica Popular,0
+Various,Cantares Brasileiros - 1 - A Modinha,1977
+Various,O Ciclo Vargas - Uma Visão Através Da Música Popular,1983
+Various,Brasília Ano 30 - Uma Antologia Musical,1990
+Various,A Copa É Nossa 70,1970
+Various,Cantares Brasileiros II - A Valsa Brasileira,1978
+Various,ZYD-66 Rádio Jornal Do Brasil AM 940 KHZ,0
+Various,IV Festival Internacional Da Canção Popular - Fase Nacional,1969
+Various,Encontros 33 Dos Maiores Encontros Da Música Popular Brasileira,1975
+Various,Música Popular Do Nordeste,1972
+Various,Brasil Som 75 - Vol. 2,1976
+Various,Benditos / BA,1984
+Various,As 4 Músicas Favoritas Do VI F.I.C,1971
+Various,As Vencedoras Do III Festival Da Canção Popular,1968
+Various,Senhora (Trilha Sonora de Novela),1975
+Various,O Canto Paracambi Do Curió,0
+Various,Novela 4 Temas Musicais De Novelas De Sucesso,1973
+Various,2 + 2,1975
+Various,Maria Maria - Trilha Original Da Novela,1978
+Various,Blue Beach Monster Vol.1,1998
+Various,Folclore Musical Baiano,1972
+Various,Pirlimpimpim,1983
+Various,Super Estrelas Da Musica Popular Brasileira,1979
+Various,Palco Corpo E Alma,1976
+Various,Myrian,0
+Various,Carnaval 83 Vol.2,1983
+Various,Alegria Alegria 21 Sucessos Do Carnaval Brasileiro,0
+Various,Revista Do Henfil,1978
+Various,Armandinho Neves,1978
+Various,Carnaval Rio / 65,1965
+Various,Música Popular Do Sul 2,1975
+Various,Koellreutter 70,1986
+Various,Feira Pixinguinha-Brasilia,1979
+Various,Revolução de 32 - Uma Visão Através Da Música Popular,1982
+Various,O Brasil Canta No Rio (1º Festival Nacional De Música Popular Brasileira),1968
+Various,Danado De Bom,1986
+Various,Max Ferrer Sem Autorização,1986
+Various,Geléia Gerou,1984
+Various,III Festival Internacional Da Canção Popular, Vol. 2,1968
+Various,Afros E Afoxés Da Bahia,1988
+Various,O Fino Da Música 2 (Música Brasileira Num Espetáculo Que Marcou Época - Gravado Ao Vivo),1977
+Various,Times Square Show - Trilha Sonora Do Melhor Musical Da Televisão,1964
+Various,Paulo Leminski Frente E Verso,0
+Various,A Música De Carlos Paraná,1973
+Various,O Bem-Amado!! (Trilha Sonora Original Da Novela),1973
+Various,Escolas De Samba E Suas Baterias Vol. 2,1975
+Various,Arca De Noé 2,1982
+Various,Bossa Nova At Carnegie Hall,1963
+Various,Chico Buarque Apresenta Malandro,1985
+Various,Show 1º De Maio,1980
+Various,Côrte Rayol Show,1967
+Various,Música Popular Do Centro-Oeste/Sudeste 3,1974
+Various,Música Popular Do Centro-Oeste/Sudeste 4,1974
+Various,Vadico - Evocação III,1979
+Various,Geraldo Pereira - Evocação V,1980
+Various,Modern Brazilian Poetry,1965
+Various,84 - Carnaval Liberou Geral,1983
+Various,Feira Pixinguinha Bahia Fevereiro 1980,1980
+Various,Assis Valente,1989
+Various,Candeia,1988
+Various,A Arte Da Cantoria, V. 4 - Cangaço,1989
+Various,Cururu E Outros Cantos Das Festas Religiosas - MT,1988
+Various,Custódio Mesquita- Prazer Em Conhecê-lo,1986
+Various,Antônio Maria - A Noite É Grande,1989
+Various,A Arte Da Cantoria, V. 3 - Ciclo Do Padre Cícero,1986
+Various,O Pavão Misterioso,0
+Various,Enquanto Isso...?!,1991
+Various,Águia Disco,1994
+Various,O Fino Da Música No Cinema Brasileiro,1970
+Various,Coletânea,1992
+Various,Prata Da Casa,1982
+Various,É Goleada De Samba,1976
+Various,G.R.E.S. Acadêmicos Do Salgueiro Apresenta: Os Maiores Sambas-Enrêdo De Todos Os Tempos,1971
+Various,Os Maiores Sambas-Enredo De Todos Os Tempos Volume II,1972
+Various,Encontro Com A Velha Guarda,1976
+Various,Bossa Nova Mesmo - Edição Histórica Vol. 11,1975
+Various,Festival De La Música Popular Brasileira,1971
+Various,Sambas, Chôros E Maxixes,1958
+Various,Casa De Bamba - Com A Ala De Compositores De Vila Isabel,1974
+Various,Plunct Plact Zuuum,1983
+Various,Pirlimpimpim 2,1984
+Various,Tenda Dos Milagres,1985
+Various,O Galo da Madrugada,1985
+Various,Chico Rei (Original Motion Picture Soundtrack),1985
+Various,O Corsário Do Rei,1985
+Various,Cuca Legal (Trilha Sonora Original Da Novela),1975
+Various,O Grito - Trilha Sonora Original,1975
+Various,Pirlimpimpim,1982
+Various,Bel, Virna Lisi, Yo-Ho-Delic, Off The Wall, Beijo AA Força,1992
+Various,A Fantástica Bateria: The Most Fantastic Brazilian Beating Groups, Volume 1,1975
+Various,Rock Forte,1987
+Various,Clip Independente Volume 1,1993
+Various,Carinhoso (Trilha Sonora Original Da Novela),1973
+Various,Música Popular Do Centro-Oeste/Sudeste 1,1974
+Various,Música Popular Do Sul 3,1975
+Various,Música Popular Do Sul 4,1975
+Various,Música Popular Do Centro-Oeste/Sudeste 2,1975
+Various,Música Popular Do Norte 1,1976
+Various,Música Popular Do Norte 2,1976
+Various,Música Popular Do Norte 3,1976
+Various,Brasil Seu Canto, Seu Ritmo, Sua Gente,1976
+Various,100 Anos De Música Popular Brasileira - 3 - Projeto Minerva,1975
+Various,100 Anos De Música Popular Brasileira,0
+Various,100 Anos De Música Popular Brasileira,0
+Various,100 Anos De Música Popular Brasileira,0
+Various,100 Anos De Música Popular Brasileira,0
+Various,100 Anos De Música Popular Brasileira,0
+Various,100 Anos De Música Popular Brasileira,0
+Various,Bacurau: Trilha Sonora,2020
+Various,3º Festival Da Música Popular Brasileira - Vol. 1,1967
+Various,3º Festival Da Música Popular Brasileira - Vol. 2,1967
+Various,3º Festival Da Música Popular Brasileira - Vol. 3,1967
+Various,II Festival Internacional Da Canção Popular,1967
+Various,IV Festival Da Música Popular Brasileira - Vol. 3,1968
+Various,III Festival Internacional da Canção Popular, Rio, Vol. III,1968
+Various,Véu De Noiva (Trilha Sonora Original Da Novela),1969
+Various,O Cafona,1971
+Various,Posições,1971
+Various,3º Festival Da Música Popular Brasileira - Vol. 1,1967
+Various,História Da Música Popular Brasileira - Jorge Ben,1982
+Various,História Da Música Popular Brasileira - Tom Jobim,1982
+Various,História Da Música Popular Brasileira - Vinicius de Moraes,1982
+Various,História Da Música Popular Brasileira - Assis Valente,1982
+Various,História Da Música Popular Brasileira - Geraldo Pereira,1983
+Various,História Da Música Popular Brasileira - Dorival Caymmi,1982
+Various,História Da Música Popular Brasileira - Ataulfo Alves,1983
+Various,História Da Música Popular Brasileira - Cartola,1982
+Various,História Da Música Popular Brasileira - Luiz Gonzaga,1983
+Various,Viva O Festival Da Música Popular Brasileira,1966
+Various,Não São Paulo,1985
+Various,Os Grandes Momentos De Montreux,1984
+Various,Quando Fui Morto Em Cuba,1983
+Various,Fábrica Rítmos,1992
+Various,Fera Solta,0
+Various,III Festival Da Música Popular Brasileira,1967
+Various,1º Festival Universitário Da Música Popular Brasileira,1979
+Various,Samba Rock Vol 4,1988
+Various,Samba Rock O Som Dos Blacks,1985
+Various,Coletânea De Repentistas,1975
+Various,Coletânea De Repentistas,1975
+Various,Samba Camisa 10,0
+Various,Violas E Repentes, V Congresso Nacional De Violeiros,1980
+Various,Violas E Repentes V Congresso Nacional De Violeiros,1980
+Various,História Da Música Popular Brasileira - Ismael Silva,1983
+Various,João Brasileiro, O Bom Baiano,0
+Various,Garota Dourada - Trilha Sonora Original Do Filme,1983
+Various,Sampa JT - Sua Mais Completa Coleção,1987
+Various,Sanguinho Novo...Arnaldo Baptista Revisitado,1989
+Various,Máximo De Sucessos 12,1975
+Various,Feira Pixinguinha Pará Janeiro 1980,1980
+Various,Nosso Sinhô Do Samba,1988
+Various,Sertão Querido - Gala 79,1979
+Various,O Profeta (Trilha Nacional da Novela),1977
+Various,Música Y Ritmo Del Brasil,1980
+Various,Brazil Classics 3 - Forró Etc.,1991
+Various,Cavalo Amarelo - Trilha Sonora Nacional,1980
+Various,A Barba Azul,1974
+Various,Os Inocentes (Trilha Sonora Original - Temas Da Novela Da Rede Tupi De Televisão),1974
+Various,Momento Universitário,0
+Various,Os Papas Da Bossa Nova,1972
+Various,Meio Século De Carnaval Carioca - 1915/1965, Vol.4 - 1951/1965,0
+Various,Meio Século De Carnaval Carioca - 1915/1965, Vol.2 - 1933/1939,0
+Various,Pão Pão Beijo Beijo - Nacional,1983
+Various,Máximo De Sucessos N.º 8,1973
+Various,Canta O Brasil,1982
+Various,Transas,1987
+Various,Grandes Autores Ary Barroso,1989
+Various,IV Festival Da Música Popular Brasileira - Vol. 2,1968
+Various,Vaquejada,0
+Various,O Preço De Um Homem - Trilha Sonora Original,1972
+Various,A Volta De Beto Rockfeller,1973
+Various,Roda De Baianos (O Melhor Da Bahia),1981
+Various,Sábado Alucinante,1979
+Various,Gostoso Demais,1988
+Various,Dona Beija (Trilha Sonora Original Da Novela),1986
+Various,II Festival Internacional Da Canção Popular Rio,1967
+Various,Bossa Nova Fire,1970
+Various,Rosa Dos Ventos: Trilha Sonora Original Da Novela Da TV,1973
+Various,Origens - A Bossa-Nova,1981
+Various,Origens - O Canto Da Terra,1981
+Various,Origens - Instrumental Brasileiro,1981
+Various,Origens Violão Brasileiro,1981
+Various,Temas Nacionais E Internacionais Da Novela Mulheres De Areia,1973
+Various,Brazil Classics 2: O Samba,1989
+Various,Mpb Shell 82 Vol.2,1982
+Various,Expoentes,1988
+Various,Corrida Do Ouro - Trilha Sonora Original,1974
+Various,Carnaval 76 - Convocação Geral N.°1,1975
+Various,Carnaval 76 - Convocação Geral N.º 2,1975
+Various,Carnaval 77 - Convocação Geral - Vol. 1,1977
+Various,Carnaval 77 Convocação Geral Vol. 2,1977
+Various,Dona Xepa (Trilha Sonora Original Da Novela),1977
+Various,Nina (Trilha Sonora Original da Novela),1977
+Various,Gina - Trilha Sonora Original Da Novela,1978
+Various,Pecado Rasgado,1978
+Various,Carnaval 79 - Convocação Geral,1978
+Various,Pai Herói (Trilha Sonora Original Da Novela),1979
+Various,Feijão Maravilha (Trilha Nacional Da Novela),1979
+Various,Olhai Os Lírios Do Campo (Trilha Nacional Da Novela),1980
+Various,Marina  (Trilha Sonora Original Da Novela),1980
+Various,MPB 80 - Vol. 1,1980
+Various,MPB 80 - Vol. 2,1980
+Various,As Três Marias (Trilha Sonora Original Da Novela),1980
+Various,Baila Comigo (Trilha Sonora Original Da Novela),1981
+Various,Obrigado Doutor (Trilha Sonora Original),1981
+Various,MPB Shell 81 - Vol. 1,1981
+Various,MPB Shell 81 - Vol.2,1981
+Various,Brilhante (Trilha Nacional Da Novela),1981
+Various,Jogo Da Vida (Trilha Nacional Da Novela),1981
+Various,Sétimo Sentido (Trilha Nacional Da Novela),1982
+Various,MPB Shell 82 Vol.1,1982
+Various,Final Feliz (Nacional),1982
+Various,Eu Prometo (Nacional),1983
+Various,Ronaldo Bastos / Cais,1989
+Various,Rádio Corsário: O Som Da Galera Vamp,1991
+Various,Copa 94,1994
+Various,Abertura (Festival Da Nova Música Brasileira),1975
+Various,Pecado Capital (Trilha Sonora Original Da Novela),1975
+Various,Anjo Mau (Trilha Sonora Original Da Novela),1976
+Various,Saramandaia (Trilha Sonora Original Da Novela),1976
+Various,O Casarão (Trilha Sonora Original Da Novela),1976
+Various,Estúpido Cupido (Trilha Sonora Da Novela),1976
+Various,Duas Vidas (Trilha Sonora Original Da Novela),1977
+Various,Espelho Mágico (Trilha Sonora Original Da Novela),1977
+Various,Te Contei? (Trilha Sonora Original Da Novela),1978
+Various,Dancin' Days (Trilha Sonora Original Da Novela),1978
+Various,Cabocla,1979
+Various,Os Gigantes (Trilha Sonora Original Da Novela),1979
+Various,Agua Viva (Trilha Sonora Original Da Novela),1980
+Various,Ciranda De Pedra (Trilha Sonora Original Da Novela),1981
+Various,Louco Amor (Nacional),1983
+Various,A Patota (Trilha Sonora Original Da Novela),1972
+Various,O Primeiro Amor (Trilha Sonora Original Da Novela),1972
+Various,Bandeira 2 (Trilha Sonora Original),1971
+Various,Sem Lenço Sem Documento (Trilha Sonora Original Da Novela),1977
+Various,Trilha Sonora Original Da Novela Minha Doce Namorada,1971
+Various,Carnaval '78 Convocação Geral,1977
+Various,Meu Rico Português (Trilha Nacional Da Novela),1975
+Various,Ovelha Negra (Trilha Nacional Da Novela),1975
+Various,Um Dia, O Amor (Trilha Nacional Da Novela),1975
+Various,O Mundo É Verde Amarelo,1986
+Various,TransRemix,1986
+Various,Pequena História Do Samba,1968
+Various,História Da Música Popular Brasileira - Gilberto Gil,1982
+Various,História Da Música Popular Brasileira - João Bosco & Aldir Blanc,1983
+Various,História Da Música Popular Brasileira - João Do Vale,1983
+Various,História Da Música Popular Brasileira - Lamartine Babo,1982
+Various,História Da Música Popular Brasileira - Lupicínio Rodrigues,1982
+Various,História Da Música Popular Brasileira - Martinho Da Vila,1983
+Various,História Da Música Popular Brasileira - Paulinho Da Viola,1983
+Various,História Da Música Popular Brasileira - Pixinguinha,1983
+Various,História Da Música Popular Brasileira - Roberto Carlos & Erasmo,1983
+Various,História Da Música Popular Brasileira - Vicente Celestino, Catulo & Cândido das Neves‎,1983
+Various,História Da Música Popular Brasileira - Choro,1983
+Various,História Da Música Popular Brasileira - Samba,1983
+Various,História Da Música Popular Brasileira - Samba (II) - De Terreiro E De Enredo,1983
+Various,História Da Música Popular Brasileira - Adelino Moreira, Jair Amorim & Evaldo Gouveia,1983
+Various,História Da Música Popular Brasileira - Adoniran & Vanzolini,1983
+Various,História Da Música Popular Brasileira - Antônio Maria & Fernando Lobo,1983
+Various,História Da Música Popular Brasileira - Ary Barroso,1982
+Various,História Da Música Popular Brasileira - Carlos Lyra, Bôscoli & Menescal,1982
+Various,História Da Música Popular Brasileira - Chiquinha Gonzaga, Ernesto Nazareth & Zequinha Abreu,1983
+Various,História Da Música Popular Brasileira - Chico Buarque,1982
+Various,História Da Música Popular Brasileira - Custódio Mesquita & Orestes Barbosa,1983
+Various,História Da Música Popular Brasileira - Dolores Duran & Tito Madi,1983
+Various,História Da Música Popular Brasileira - J. Cascata, Leonel Azevedo & Joubert de Carvalho,1983
+Various,História Da Música Popular Brasileira - Edu Lobo,1982
+Various,História Da Música Popular Brasileira - Egberto Gismonti & Hermeto Paschoal,1983
+Various,História Da Música Popular Brasileira - Francis Hime & Marcos Valle,1983
+Various,História Da Música Popular Brasileira - Gonzaguinha,1984
+Various,História Da Música Popular Brasileira - Herivelto Martins,1983
+Various,História Da Música Popular Brasileira - Ivan Lins,1984
+Various,História Da Música Popular Brasileira - Música Sertaneja,1983
+Various,História Da Música Popular Brasileira - Bide, Marçal E Paulo Da Portela,1984
+Various,História Da Música Popular Brasileira - Baden Powell & Paulo César Pinheiro,1983
+Various,História Da Música Popular Brasileira - Nélson Cavaquinho,1983
+Various,História Da Música Popular Brasileira - Zé Kéti & Monsueto,1982
+Various,História Da Música Popular Brasileira - Silas de Oliveira, Mano Décio & D. Ivone Lara,1983
+Various,História Da Música Popular Brasileira - Wílson Batista,1983
+Various,História Da Música Popular Brasileira - Noel Rosa,1982
+Various,História Da Música Popular Brasileira - Milton Nascimento,1983
+Various,História Da Música Popular Brasileira - Caetano Veloso,1982
+Various,História Da Música Popular Brasileira - Fagner,1984
+Various,Big Boy Apresenta O Baile da Cueca (Uma Tremenda Zorra),1972
+Various,Música Popular Do Sul 1,1975
+Various,Música Popular Do Norte 4,1976
+Various,Sempre Flamengo,1981
+Various,Brazil By Music / Brazil By Cruzeiro,1973
+Various,Rio - Cidade Maravilhosa,1960
+Various,Revolução De 30 - Uma Visão Através Da Música Popular,1980
+Various,O Fino Da Bossa,1964
+Various,O Homem Que Deve Morrer (Trilha Sonora Original Da Novela),1971
+Various,Roda De Samba,1973
+Various,Promocional Nacional CBS,1984
+Various,Tri Campeão Brasil,1970
+Various,Brazilian Popular Music / La Musique Populaire Brésilienne / Musica Popular Brasileña,1978
+Various,Brazilian Popular Music Musica Popular Brasileña La Musique Populaire Brésilienne,1978
+Various,Brazilian Popular Music / La Musique Populaire Brésilienne / Musica Popular Brasileña,1978
+Various,Brazilian Popular Music / La Musique Populaire Brésilienne / Musica Popular Brasileña Vol. 8,0
+Various,Brazilian Popular Music - La Musique Populaire Brésilienne - Musica Popular Brasileña,1978
+Various,MPB BPM MPB,1978
+Various,Estamos Em Dia Com O Sucesso,1972
+Various,MPB Independente,1982
+Various,Panorama Da Música Popular Brasileira,1967
+Various,Mensagem - Fernando Pessoa,1986
+Various,Gabriela (Trilha Sonora Original),1975
+Various,Cuatro Composiciones Electroacusticas,1976
+Various,Documentos Sonoros - Nosso Século,1980
+Various,A Bienal Do Samba,1968
+Various,I Festival Universitário De Música Popular Brasileira Da Guanabara,1968
+Various,III Festival Internacional Da Canção Popular, Vol. 1,1968
+Various,IV Festival Da Música Popular Brasileira - Vol. 1,1968
+Various,Rádio JB - 30 Anos de Música E Informação,1965
+Various,A Historia De 71 - Música E Informação Zyd 66 Rádio Jornal Do Brasil - Vol. 9,1972
+Various,Fala Mangueira,1988
+Various,O Bem-Amado!! (Trilha Sonora Original Da Novela),1977
+Various,The Original Sound Track From The Film Black Orpheus,1964
+Various,Brillo's Rio Apresenta Novos Talentos 88 Volume II,1988
+Various,Woodstock - Music From The Original Soundtrack And More,1970
+Various,The Concert For Bangla Desh,1971
+Various,A Vision Shared (A Tribute To Woody Guthrie And Leadbelly),1989
+Various,Judgment Night (Music From The Motion Picture),1993
+Various,Until The End Of The World (Music From The Motion Picture Soundtrack),1991
+Various,Jazz In A Penthouse,1971
+Various,The Best Of Soul,1968
+Various,Bebop,1988
+Various,Mesomorph Enduros,1992
+Various,Celebration Recorded Live Big Sur Folk Festival Monterey, California 1970,1971
+Various,Every Man Has A Woman,1984
+Various,The Rough Trade Summer Collection 1990,1989
+Various,Generate,1990
+Various,Under The Covers - Other People Sing Other People's Songs,1988
+Various,Neue Deutsche Post Avantgarde (Uma Amostragem Da Música Alemã Pós-Moderna),1988
+Various,Mainstream,0
+Various,Zabriskie Point,1980
+Various,Another Kind Of Noise,1992
+Various,WEA,1976
+Various,Missa In Folklore,0
+Various,The Wild Angels,1970
+E - fim
